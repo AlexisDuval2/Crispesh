@@ -348,7 +348,7 @@
 						
 						<div class="headline">
 							
-							<h3>Map</h3>
+							<h3>Adresse</h3>
 							
 							<br>
 							
@@ -362,8 +362,6 @@
 					</div><!-- col -->
 				</div><!-- row -->
 			</div><!-- container -->
-			
-                        <iframe style="float:right;height:500px;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=255+Rue+Ontario+Est,+Montréal,+QC+H2X+1X6&key=AIzaSyAN0om9mFmy1QN6Wf54tXAowK4eT0ZUPrU"></iframe>
 			
 		</div><!-- CONTENT -->
 		

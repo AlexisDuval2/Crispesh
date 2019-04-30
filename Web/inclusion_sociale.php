@@ -4,7 +4,6 @@
 ?>
 			<!-- CONTENT -->
 			<div id="content">
-
 				<div id="page-header" class="style-1">
 					<div class="container">
 						<div class="row">

@@ -5,7 +5,6 @@
 
 			<!-- CONTENT -->
 			<div id="content">
-
 				<section class="full-section" id="section-23">
 					<div class="full-section-container bg-blanc">
 						<div class="container">

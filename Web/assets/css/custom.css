@@ -1636,7 +1636,7 @@ input[type="reset"]:focus, input[type="submit"]:focus, input[type="button"]:focu
     color: #fff;
 }
 
-.callout-box-icon .mt-icons-circle` {}
+.callout-box-icon .mt-icons-circle {}
 
 .callout-box-icon:hover .mt-icons-circle {
     animation: 0.7s linear 0s normal none 1 running;

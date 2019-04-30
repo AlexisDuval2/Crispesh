@@ -59,9 +59,6 @@
             <div class="rond_background rouge gauche grosseur_5" id="cercle_2"></div>
 			</div><!-- container -->
 
-		</div><!-- CONTENT -->
-
-	</div><!-- PAGE-WRAPPER -->
 
     <?php
 	require_once("partial/footer.php");

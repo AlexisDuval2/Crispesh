@@ -1,3 +1,11 @@
+
+			</div><!-- CONTENT -->
+
+</div><!-- PAGE-WRAPPER -->
+
+
+
+
 <!-- FOOTER -->
 <footer class="site_footer">
     <div id="footer-bottom">

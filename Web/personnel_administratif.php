@@ -66,9 +66,6 @@
 				</div><!-- row -->
 			</div><!-- container -->
 
-		</div><!-- CONTENT -->
-
-	</div><!-- PAGE-WRAPPER -->
 
     <?php
 	require_once("partial/footer.php");

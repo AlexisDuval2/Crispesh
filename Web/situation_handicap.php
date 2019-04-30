@@ -51,10 +51,7 @@
 
 				</div><!-- row -->
 			</div><!-- container -->
-
-		</div><!-- CONTENT -->
-            <div class="rond_background jaune droite grosseur_1 no_margin_right" id="cercle_2"></div>
-	</div><!-- PAGE-WRAPPER -->
+			<div class="rond_background jaune droite grosseur_1 no_margin_right" id="cercle_2"></div>
 
     <?php
 	require_once("partial/footer.php");

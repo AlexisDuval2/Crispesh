@@ -125,7 +125,6 @@
 				</div><!-- row -->
 			</div><!-- container -->
 
-		</div><!-- CONTENT -->
 
 		<?php
 	require_once("partial/footer.php");

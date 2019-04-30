@@ -89,9 +89,6 @@
 				</div><!-- row -->
 			</div><!-- container -->
             <div class="rond_background bleu droite grosseur_5" id="cercle_2"></div>
-		</div><!-- CONTENT -->
-
-	</div><!-- PAGE-WRAPPER -->
 
     <?php
 	require_once("partial/footer.php");

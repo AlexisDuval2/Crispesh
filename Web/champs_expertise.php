@@ -25,7 +25,6 @@
 									</li>
 									<li class="active">Champs d'expertise</li>
 								</ol>
-
 							</div><!-- col -->
 						</div><!-- row -->
 					</div><!-- container -->
@@ -70,7 +69,5 @@
 					</div><!-- row -->
 				</div><!-- container -->
 
-
-
-		<?php
-		require_once("partial/footer.php");
+<?php
+	require_once("partial/footer.php");

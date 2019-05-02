@@ -1105,7 +1105,7 @@
 
 
 		// PLACEHOLDER //
-		$("input, textarea").placeholder();
+		// $("input, textarea").placeholder();
 
 
 		// CONTACT FORM VALIDATE & SUBMIT //
@@ -1271,7 +1271,7 @@
 		animate_charts();
 		counter();
 		show_hide_go_top();
-		sticky();
+		// sticky();
 
 	});
 

@@ -19,7 +19,7 @@
 										<a href="index.php">Accueil</a>
 									</li>
 									<li>Équipe du CRISPESH </li>
-									<li class="active">Personnel administratif</li>
+									<li class="active">Conseil d’administration</li>
 								</ol>
 							</div><!-- col -->
 						</div><!-- row -->
@@ -31,7 +31,7 @@
 						<div class="col-sm-5">
 							<div class="widget widget-categories">
 								<ul>
-									<li class="active">
+									<li>
 										<a href="personnel_administratif.php">Personnel administratif</a>
 									</li>
 									<li>
@@ -43,7 +43,7 @@
 									<li>
 										<a href="chercheurses_chercheurs.php">Chercheuses et chercheurs affiliés</a>
 									</li>
-									<li>
+									<li class="active">
 										<a href="conseil.php">Conseil d’administration</a>
 									</li>
 									<li>
@@ -52,27 +52,29 @@
 								</ul>
 							</div><!-- widget-categories -->
 						</div><!-- col -->
-
 						<div class="col-sm-7 wrap_liste_personnel">
 							<div class="col-sm-12">
-								<h6>Roch Ducharme</h6>
-								<p>Directeur général</p>
-								<ul>
-									<li>rducharme@cvm.qc.ca</li>
-									<li>514 982-3437, poste 2835</li>
-								</ul>
+								<h6>Richard Filion</h6>
+								<p>Président</p>
+								<p>Directeur général du Collège Dawson</p>
 							</div>
+							<br>
 							<div class="col-sm-12">
 								<hr>
-								<h6>Jian Wang</h6>
-								<p>Adjointe administrative</p>
-								<ul>
-									<li>jywang@cvm.qc.ca</li>
-									<li>514 982-3437, poste 2836</li>
-								</ul>
+								<h6>Mylène Boisclair</h6>
+								<p>Vice-présidente</p>
+								<p>Directrice générale au Cégep du Vieux Montréal</p>
 							</div>
+							<br>
+							<div class="col-sm-12">
+								<hr>
+								<h6>Martin Prévost</h6>
+								<p>Secrétaire et trésorier</p>
+								<p>Directeur adjoint des études au Cégep du Vieux Montréal</p>
+							</div>
+							<br>
 						</div><!-- col -->
-						<div class="rond_background bleu droite grosseur_1" id="cercle_2"></div>
+						<div class="rond_background jaune droite grosseur_2" id="cercle_2"></div>
 					</div><!-- row -->
 				</div><!-- container -->
 

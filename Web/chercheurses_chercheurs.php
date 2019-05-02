@@ -19,7 +19,7 @@
 										<a href="index.php">Accueil</a>
 									</li>
 									<li>Équipe du CRISPESH </li>
-									<li class="active">Personnel administratif</li>
+									<li class="active">Étudiants</li>
 								</ol>
 							</div><!-- col -->
 						</div><!-- row -->
@@ -31,7 +31,7 @@
 						<div class="col-sm-5">
 							<div class="widget widget-categories">
 								<ul>
-									<li class="active">
+									<li>
 										<a href="personnel_administratif.php">Personnel administratif</a>
 									</li>
 									<li>
@@ -40,7 +40,7 @@
 									<li>
 										<a href="etudiants.php">Étudiants (Assistants de recherche et stagiaires)</a>
 									</li>
-									<li>
+									<li class="active">
 										<a href="chercheurses_chercheurs.php">Chercheuses et chercheurs affiliés</a>
 									</li>
 									<li>
@@ -52,29 +52,38 @@
 								</ul>
 							</div><!-- widget-categories -->
 						</div><!-- col -->
-
 						<div class="col-sm-7 wrap_liste_personnel">
 							<div class="col-sm-12">
-								<h6>Roch Ducharme</h6>
-								<p>Directeur général</p>
-								<ul>
-									<li>rducharme@cvm.qc.ca</li>
-									<li>514 982-3437, poste 2835</li>
-								</ul>
+								<h6>Catherine Fichten</h6>
+								<p>Enseignante au Collège Dawson</p>
+								<p>Professeure associée à l’Université McGill</p>
+								<p>Département de psychologie</p>
+								<p>Codirectrice du Réseau de Recherche Adaptech (www.adaptech.org)</p>
 							</div>
 							<div class="col-sm-12">
 								<hr>
-								<h6>Jian Wang</h6>
-								<p>Adjointe administrative</p>
-								<ul>
-									<li>jywang@cvm.qc.ca</li>
-									<li>514 982-3437, poste 2836</li>
-								</ul>
+								<h6>Alice Havel</h6>
+								<p>Retraitée du Collège Dawson</p>
+								<p>Coordonnatrice du AccessAbility Centre</p>
+								<p>Chercheuse associée au Réseau de Recherche Adaptech</p>
+							</div>
+							<div class="col-sm-12">
+								<hr>
+								<h6>Tara Flanagan</h6>
+								<p>Professeure Associée à l’Université McGill</p>
+								<p>Département d’Educational and Counselling Psychology</p>
+							</div>
+							<div class="col-sm-12">
+								<hr>
+								<h6>Josianne Robert</h6>
+								<p>Professeure de formation pratique adjointe à l’Université de Montréal</p>
+								<p>Département de psychopédagogie et d’andragogie</p>
 							</div>
 						</div><!-- col -->
-						<div class="rond_background bleu droite grosseur_1" id="cercle_2"></div>
+						<div class="rond_background rouge droite grosseur_2" id="cercle_2"></div>
 					</div><!-- row -->
 				</div><!-- container -->
+				<div class="rond_background vert droite grosseur_5" id="cercle_2"></div>
 
 <?php
 	require_once("partial/footer.php");

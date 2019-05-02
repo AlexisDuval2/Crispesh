@@ -15,7 +15,9 @@
 							</div><!-- col -->
 							<div class="col-sm-9">
 								<ol class="breadcrumb">
-									<li><a href="index.php">Accueil</a></li>
+									<li>
+										<a href="index.php">Accueil</a>
+									</li>
 									<li class="active">Nous joindre</li>
 								</ol>
 							</div><!-- col -->
@@ -90,20 +92,14 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-12">
-
 							<div class="headline">
-
 								<h3>Adresse</h3>
-
 								<br>
-
 								<address class="text-center">
 										255, rue Ontario Est <br>
 										Montréal (QC) H2X 1X6
 								</address>
-
 							</div><!-- headline -->
-
 						</div><!-- col -->
 					</div><!-- row -->
 				</div><!-- container -->

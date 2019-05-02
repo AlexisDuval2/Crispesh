@@ -145,7 +145,7 @@
 											</ul>
 										</li>
 										<li>
-											<a href="personnel_administratif.php">Équipe</a>
+											<a href="equipe.php">Équipe</a>
 										</li>
 										<li>
 											<a href="nos_projets.php">Nos Projets</a>

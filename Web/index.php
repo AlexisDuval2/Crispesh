@@ -28,7 +28,7 @@
 							<br>
 							<p><br/>Le Centre de recherche pour l’inclusion des personnes en situation de handicap (CRISPESH) est un centre collégial de transfert de technologie en pratiques sociales novatrices (CCTT-PSN), né d’un partenariat entre le <a href="http://www.cvm.qc.ca/Pages/index.aspx" target="_blank">Cégep du Vieux Montréal&nbsp;</a>et le <a href="http://www.dawsoncollege.qc.ca/french/" target="_blank">Collège Dawson</a>. Le Centre a été reconnu en octobre 2010 par le <a href="http://www.education.gouv.qc.ca/" target="_blank">Ministère de l’Éducation et de l'Enseignement Supérieur.</a></p>
 							<p>En juillet 2015, le cégep du Vieux Montréal et le collège Dawson confiaient la gestion du CRISPESH à un organisme<br> à but non lucratif du même nom créé dans le but de réaliser le mandat du Centre.</p>
-							<center><img src="assets/images/logo.png" alt=""></center>
+							<center><img src="assets/images/logo.png"></center>
 							<br>
 							<p>Le CRISPESH fait partie du <a href="http://reseautranstech.qc.ca/" target="_blank">Réseau Trans-tech</a>, un regroupement de 49 centres collégiaux de transfert de technologie réunissant plus de 1000 experts à travers le Québec qui se dédient à l’innovation au moyen de la recherche appliquée et du transfert.</p>
 							<br>
@@ -158,7 +158,7 @@
 					<div class="col-sm-4">
 						<div class="service-box style-6 wow">
 							<div class="service-box-image">
-								<img src="images/projets/ours.jpg" alt="">
+								<img src="images/projets/ours.jpg">
 							</div><!-- service-box-image -->
 							<div class="service-box-content">
 								<h4>
@@ -170,7 +170,7 @@
 					<div class="col-sm-4">
 						<div class="service-box style-6 wow">
 							<div class="service-box-image">
-								<img src="images/projets/iphone.jpg" alt="">
+								<img src="images/projets/iphone.jpg">
 							</div><!-- service-box-image -->
 							<div class="service-box-content">
 								<h4>
@@ -182,7 +182,7 @@
 					<div class="col-sm-4">
 						<div class="service-box style-6 wow">
 							<div class="service-box-image">
-								<img src="images/projets/cle.jpg" alt="">
+								<img src="images/projets/cle.jpg">
 							</div><!-- service-box-image -->
 							<div class="service-box-content">
 								<h4>
@@ -202,23 +202,23 @@
 							<div class="col-md-5 border_right_verte">
 								<h3>Partenaires financiers</h3>
 								<div>
-									<img src="images/logos/mees.png" alt="">
-									<img src="images/logos/mesi.png" alt="">
+									<img src="images/logos/mees.png">
+									<img src="images/logos/mesi.png">
 								</div>
 							</div>
 							<div class="col-md-5 border_right_verte">
 								<h3>Cégeps affiliés</h3>
 								<div>
-									<img src="images/logos/dawson.jpg" alt="">
-									<img src="images/logos/vieux-montreal.jpg" alt="">
+									<img src="images/logos/dawson.jpg">
+									<img src="images/logos/vieux-montreal.jpg">
 								</div>
 							</div>
 							<div class="col-md-2">
 								<h3>Membre des réseaux</h3>
 								<div>
-									<img src="images/logos/transtech.jpg" alt="">
-									<img src="images/logos/rqis.jpg" alt="">
-									<img src="images/logos/qc_innove.jpg" alt="">
+									<img src="images/logos/transtech.jpg">
+									<img src="images/logos/rqis.jpg">
+									<img src="images/logos/qc_innove.jpg">
 								</div>
 							</div>
 						</div>

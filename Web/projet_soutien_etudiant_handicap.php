@@ -6,8 +6,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
-    <meta name="keywords" content="">
-    <meta name="description" content="">
+    <meta name="keywords">
+    <meta name="description">
 
     <title>CRISPESH - Centre de recherche pour l’inclusion scolaire et professionnelle des étudiants en situation de handicap</title>
 
@@ -100,7 +100,7 @@
                             </li>
                             <li>
                                 <a href="#" id="btn_accessibilite">
-                                    <img src="images/universal-access.png" alt="">
+                                    <img src="images/universal-access.png">
                                     Accessibilité
 
                                 </a>
@@ -128,7 +128,7 @@
 
                     <!-- LOGO -->
                     <a id="logo" href="index.php">
-                        <img src="assets/images/logo.png" alt="">
+                        <img src="assets/images/logo.png">
                     </a>
 
                 </div><!-- col -->
@@ -174,8 +174,8 @@
                             </li>
                            <li >
                                 <a href="services.php">Nos Services</a>
-                               <ul>							   
-							   
+                               <ul>
+
 									<li class="active">
 										<a href="recherche_appliquee.php">La recherche appliquée</a>
 									</li>
@@ -187,7 +187,7 @@
 									</li>
 									<li>
 										<a href="formation_transfert.php">La formation et transfert</a>
-									</li>													  
+									</li>
                               </ul>
                           </li>
                             <li >
@@ -204,11 +204,11 @@
                 </div><!-- col -->
             </div><!-- row -->
         </div><!-- container -->
-		
+
 		<!--
         ?php if( strpos($_SERVER['PHP_SELF'], 'qui_sommes_nous.php') !== FALSE ): ?>
-		
-			
+
+
             <div id="list_sections_a_propos" class="hidden-sm hidden-xs">
                 <div class="container">
                     <div>
@@ -231,8 +231,8 @@
                     </div>
                 </div>
             </div>
-			
-			
+
+
         ?php endif; ?>-->
     </div><!-- header -->
 
@@ -251,60 +251,60 @@
                 <div class="col-sm-4">
                     <img src="images/projets/filles.jpg" alt="Soutien à l’intégration des étudiants en situation de handicap: développement d’un instrument d’évaluation des besoins de l’apprenant (2015-2017)">
 				</div>
-				
+
                 <div class="col-sm-8">
                     <p>L’objectif de ce projet est de développer un instrument d’évaluation à l’intention des intervenants des services adaptés pour soutenir les étudiants en situation de handicap dans leur réussite éducative. Le nombre d’étudiants en situation de handicap (ESH) au collégial s’est accru de manière remarquable au cours de la dernière décennie et leur profil s’est largement transformé. Les collèges disposent de services adaptés (SA) qui ont pour mandat l’accompagnement des ESH vers la réussite éducative. Ces SA ont démontré, depuis leur implantation, qu’ils favorisent la réussite des ESH qui les utilisent. Or, l’accompagnement des ESH se complexifie. Le constat actuel sur les pratiques d’accompagnement basées sur le modèle médical qui prévaut au sein des SA des collèges permet de conclure que ces pratiques ne sont pas à la hauteur des défis d’aujourd’hui. Le manque d’outils d’évaluation et de suivi des ESH est établi et met en évidence la limite actuelle des pratiques en accompagnement vers la réussite des ESH. Ce projet permettra, à terme, de dépasser cette limite.</p>
 					<p>Au  terme de ce projet, nous développerons un instrument d’évaluation du profil d’apprenant des ESH en milieu collégial qui, en plus de générer un profil personnalisé, proposera diverses ressources (humaines et matérielles) encourageant la réussite éducative des ESH. De plus, cet outil de travail permettra le développement de comportements d’autodétermination chez les ESH, ce qui favorisa également leur réussite éducative. En plus d’offrir des réponses aux besoins des ESH de manière plus pointue et systématique, cet outil servira aux conseillers en services adaptés de tous les établissements de niveau collégial (privés et publics) de la province et favorisera une harmonisation des pratiques en la matière.</p>
-					<p>La réussite éducative des étudiants est au cœur de la mission et des préoccupations de tous les établissements de niveau collégial de la province. Ce projet revêt une importance capitale pour le partenaire (CCSI), les collèges du Québec et leurs différents acteurs (personnel de direction, conseillers en services adaptés, aides pédagogiques individuels, enseignants, ESH), mais aussi la société dans son ensemble. En effet, une plus grande réussite éducative des ESH est un facteur déterminant d’une meilleure intégration future au marché de l’emploi et, ainsi, à la pleine valorisation et participation des ESH au sein de la société.</p>					
-					<div class="col-sm-12">	
+					<p>La réussite éducative des étudiants est au cœur de la mission et des préoccupations de tous les établissements de niveau collégial de la province. Ce projet revêt une importance capitale pour le partenaire (CCSI), les collèges du Québec et leurs différents acteurs (personnel de direction, conseillers en services adaptés, aides pédagogiques individuels, enseignants, ESH), mais aussi la société dans son ensemble. En effet, une plus grande réussite éducative des ESH est un facteur déterminant d’une meilleure intégration future au marché de l’emploi et, ainsi, à la pleine valorisation et participation des ESH au sein de la société.</p>
+					<div class="col-sm-12">
 						<hr>
 						<h6>Chargée de projet et chercheuse</h6>
-						Marise Lachapelle						
-					</div>										
-					<div class="col-sm-12">	
+						Marise Lachapelle
+					</div>
+					<div class="col-sm-12">
 						<hr>
 						<h6>Professionnelle de recherche</h6>
-						Danièle Paquet						
+						Danièle Paquet
 					</div>
-					<div class="col-sm-12">	
+					<div class="col-sm-12">
 						<hr>
 						<h6>Chercheur</h6>
-						Paul Turcotte 						
-					</div>	
-					<div class="col-sm-12">	
+						Paul Turcotte
+					</div>
+					<div class="col-sm-12">
 						<hr>
 						<h6>Chercheuse associée</h6>
-						Josianne Robert						
-					</div>		
-					<div class="col-sm-12">	
+						Josianne Robert
+					</div>
+					<div class="col-sm-12">
 						<hr>
 						<h6>Chercheuse (2015-2016)</h6>
-						Christine Morin						
-					</div>		
-					
+						Christine Morin
+					</div>
+
 					<div class="col-sm-12">
 						<hr>
 						<h6>Assistantes de recherche</h6>
 						Mélissa Miller
 						<p>Étudiante en Histoire et civilisation au Cégep du Vieux Montréal</p>
-						Odile Trudeau-Richard	
-						<p>Étudiante en Histoire et civilisation au Cégep du Vieux Montréal</p>						
+						Odile Trudeau-Richard
+						<p>Étudiante en Histoire et civilisation au Cégep du Vieux Montréal</p>
 					</div>
-					<div class="col-sm-12">	
+					<div class="col-sm-12">
 						<hr>
 						<h6>Organisme partenaire</h6>
-						Centre collégial de soutien à l’intégration (CCSI)						
+						Centre collégial de soutien à l’intégration (CCSI)
 					</div>
-					<div class="col-sm-12">	
+					<div class="col-sm-12">
 						<hr>
 						<h6>Organisme subventionnaire</h6>
-						Ministère de l’éducation et de l’enseignement supérieur						
-					</div>					
-					<div class="col-sm-12">		
-					<hr>					
+						Ministère de l’éducation et de l’enseignement supérieur
+					</div>
+					<div class="col-sm-12">
+					<hr>
 						<a href="nos_projets.php" class="btn btn-blue btn_retour_projet">Retour à la liste des projets</a>
 					</div>
-					
+
                 </div><!-- col -->
             </div><!-- row -->
         </div><!-- container -->
@@ -325,7 +325,7 @@
 
                         <div>
                             <p class="last">
-                                <img src="assets/images/logo-footer.png" alt="">
+                                <img src="assets/images/logo-footer.png">
                             </p>
                         </div>
 

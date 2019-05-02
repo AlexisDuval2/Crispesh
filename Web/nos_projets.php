@@ -17,7 +17,7 @@
 									<div class="row">
 										<div class="col-sm-4">
 											<div class="portfolio-item-thumbnail">
-												<img src="images/projets/photographe.jpg" alt="">
+												<img src="images/projets/photographe.jpg">
 											</div><!-- portfolio-item-thumbnail -->
 										</div><!-- col -->
 										<div class="col-sm-8">
@@ -45,7 +45,7 @@
 									<div class="row">
 										<div class="col-sm-4">
 											<div class="portfolio-item-thumbnail">
-												<img src="images/projets/ours.jpg" alt="">
+												<img src="images/projets/ours.jpg">
 											</div><!-- portfolio-item-thumbnail -->
 										</div><!-- col -->
 										<div class="col-sm-8">
@@ -103,7 +103,7 @@
 									<div class="row">
 										<div class="col-sm-4">
 											<div class="portfolio-item-thumbnail">
-												<img src="images/projets/iphone.jpg" alt="">
+												<img src="images/projets/iphone.jpg">
 											</div><!-- portfolio-item-thumbnail -->
 										</div><!-- col -->
 										<div class="col-sm-8">
@@ -165,7 +165,7 @@
 									<div class="row">
 										<div class="col-sm-4">
 											<div class="portfolio-item-thumbnail">
-												<img src="images/projets/vestes.jpg" alt="">
+												<img src="images/projets/vestes.jpg">
 											</div><!-- portfolio-item-thumbnail -->
 										</div><!-- col -->
 										<div class="col-sm-8">
@@ -194,7 +194,7 @@
 									<div class="row">
 										<div class="col-sm-4">
 											<div class="portfolio-item-thumbnail">
-												<img src="images/projets/mosaic.jpg" alt="">
+												<img src="images/projets/mosaic.jpg">
 											</div><!-- portfolio-item-thumbnail -->
 										</div><!-- col -->
 										<div class="col-sm-8">
@@ -221,7 +221,7 @@
 									<div class="row">
 										<div class="col-sm-4">
 											<div class="portfolio-item-thumbnail">
-												<img src="images/projets/organi.jpg" alt="">
+												<img src="images/projets/organi.jpg">
 											</div><!-- portfolio-item-thumbnail -->
 										</div><!-- col -->
 										<div class="col-sm-8">
@@ -249,7 +249,7 @@
 									<div class="row">
 										<div class="col-sm-4">
 											<div class="portfolio-item-thumbnail">
-												<img src="images/projets/ipad.jpg" alt="">
+												<img src="images/projets/ipad.jpg">
 											</div><!-- portfolio-item-thumbnail -->
 										</div><!-- col -->
 										<div class="col-sm-8">
@@ -276,7 +276,7 @@
 									<div class="row">
 										<div class="col-sm-4">
 											<div class="portfolio-item-thumbnail">
-												<img src="images/projets/cua.jpg" alt="">
+												<img src="images/projets/cua.jpg">
 											</div><!-- portfolio-item-thumbnail -->
 										</div><!-- col -->
 										<div class="col-sm-8">
@@ -304,7 +304,7 @@
 									<div class="row">
 										<div class="col-sm-4">
 											<div class="portfolio-item-thumbnail">
-												<img src="images/projets/inter.jpg" alt="">
+												<img src="images/projets/inter.jpg">
 											</div><!-- portfolio-item-thumbnail -->
 										</div><!-- col -->
 										<div class="col-sm-8">

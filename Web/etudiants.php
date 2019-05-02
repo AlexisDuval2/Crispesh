@@ -65,10 +65,9 @@
 								<p>Sciences sociales</p>
 							</div>
 						</div><!-- col -->
-						<div class="rond_background rouge droite grosseur_2" id="cercle_2"></div>
+						<div class="rond_background vert droite grosseur_2" id="cercle_2"></div>
 					</div><!-- row -->
 				</div><!-- container -->
-				<div class="rond_background vert droite grosseur_5" id="cercle_2"></div>
 
 <?php
 	require_once("partial/footer.php");

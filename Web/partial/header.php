@@ -105,7 +105,7 @@
 
 								<!-- LOGO -->
 								<a id="logo" href="index.php">
-									<img src="assets/images/logo.png" alt="">
+									<img id="header-logo" src="assets/images/logo.png" alt="">
 								</a>
 
 							</div><!-- col -->

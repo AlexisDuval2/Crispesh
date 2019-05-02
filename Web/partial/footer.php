@@ -78,9 +78,6 @@
 <script src="assets/plugins/isotope/imagesloaded.pkgd.min.js"></script>
 <script src="assets/plugins/isotope/isotope.pkgd.min.js"></script>
 
-<!-- PLACEHOLDER -->
-<!-- <script src="assets/plugins/placeholders/jquery.placeholder.min.js"></script> -->
-
 <!-- CONTACT FORM VALIDATE & SUBMIT -->
 <script src="assets/plugins/validate/jquery.validate.min.js"></script>
 <script src="assets/plugins/submit/jquery.form.min.js"></script>

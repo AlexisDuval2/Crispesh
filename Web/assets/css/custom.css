@@ -662,17 +662,15 @@ header {
  ***********************************************************************************/
 
 .social-media {
-	margin-bottom: 20px;
+	width: 50px;
+	height: 50px;
+	margin-left: 35px;
+	background-image: url("../../images/logos/facebook-icon.png");
+	background-size: 50px;
 }
 
-.social-media a {
-	font-size: 15px;
-	line-height: 15px;
-	color: #000000;
-	text-decoration: none;
-	margin-right: 20px;
-	-webkit-transition: all 0.3s;
-	transition: all 0.3s;
+h4.widget-title {
+	margin-left: 43px;
 }
 
 .social-media a:last-child {
@@ -3505,6 +3503,16 @@ body.taille_police div, body.taille_police a {
  ***********************************************************************************/
 
 @media (min-width: 768px) and (max-width: 991px) {
+
+	* {
+		background-color: black;
+	}
+
+	#mobile-menu-button {
+		width: 100px;
+		background-image: url();
+	}
+
 	.nav-tabs>li>a {
 		padding: 10px 15px;
 	}

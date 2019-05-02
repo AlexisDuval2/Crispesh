@@ -56,32 +56,27 @@
 								<h4 class="widget-title">CRISPESH</h4>
 								<ul>
 									<li>
-										<i class="mt-icons-map-marker"></i>
 										<p>255, rue Ontario Est</p>
 										<p>Montréal (QC) H2X 1X6</p>
 									</li>
 									<li>
-										<i class="mt-icons-telephone"></i>
 										<span class="hidden-xs">514-982-3437 #2836</span>
 										<a class="visible-xs-inline" href="tel:5149823437">514-982-3437 #2836</a>
 									</li>
 									<li>
-										<i class="mt-icons-mail"></i>
 										<a href="mailto:crispesh@cvm.qc.ca">crispesh@cvm.qc.ca</a>
 									</li>
 								</ul>
+								<br>
+								<div class="social-media">
+									<a class="facebook" href="https://www.facebook.com/Crispesh">
+										<img src="images/logos/facebook-icon.png">
+									</a>
+								</div><!-- social-media -->
 							</div><!-- widget-contact -->
 							<div class="widget widget-social">
 								<div class="rond_background bleu droite grosseur_2" id="cercle_14"></div>
 								<div class="rond_background rouge droite grosseur_1" id="cercle_15"></div>
-								<div class="social-media">
-									<a class="facebook" href="https://www.facebook.com/Crispesh" target="_blank">
-										<i class="mt-icons-facebook"></i>
-									</a>
-									<a class="linkedin" href="https://www.linkedin.com/in/catherine-loiselle-22ab77b4?authType=NAME_SEARCH&authToken=WM3S&locale=fr_FR&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A408988546%2CauthType%3ANAME_SEARCH%2Cidx%3A1-4-4%2CtarId%3A1479849945623%2Ctas%3Acatheri" target="_blank">
-										<i class="mt-icons-linkedin"></i>
-									</a>
-								</div><!-- social-media -->
 							</div><!-- widget-social -->
 						</div><!-- col -->
 					</div><!-- row -->

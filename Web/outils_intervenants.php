@@ -102,9 +102,10 @@
 									</a>
 								</p>
 							</div>
-						<div class="col-sm-12">
-							<hr>
-							<a href="nos_projets.php" class="btn btn-blue btn_retour_projet">Retour à la liste des projets</a>
+							<div class="col-sm-12">
+								<hr>
+								<a href="nos_projets.php" class="btn btn-blue btn_retour_projet">Retour à la liste des projets</a>
+							</div>
 						</div><!-- col -->
 					</div><!-- row -->
 				</div><!-- container -->

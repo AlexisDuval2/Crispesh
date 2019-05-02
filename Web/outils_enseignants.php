@@ -24,6 +24,7 @@
 						</div><!-- row -->
 					</div><!-- container -->
 				</div><!-- page-header -->
+
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-4">
@@ -94,9 +95,10 @@
 							<div class="col-sm-12">
 								<hr>
 								<a href="nos_projets.php" class="btn btn-blue btn_retour_projet">Retour à la liste des projets</a>
-							</div><!-- col -->
-						</div><!-- row -->
-					</div><!-- container -->
+							</div>
+						</div><!-- col -->
+					</div><!-- row -->
+				</div><!-- container -->
 
 <?php
 	require_once("partial/footer.php");

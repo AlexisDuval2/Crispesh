@@ -24,6 +24,7 @@
 						</div><!-- row -->
 					</div><!-- container -->
 				</div><!-- page-header -->
+
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-4">
@@ -71,6 +72,7 @@
 									</a>
 								</p>
 							</div>
+						</div>
 						<div class="col-sm-12">
 							<hr>
 							<a href="nos_projets.php" class="btn btn-blue btn_retour_projet">Retour à la liste des projets</a>

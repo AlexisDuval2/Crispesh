@@ -26,7 +26,7 @@
 											<a href="equipe.php">Équipe</a>
 										</li>
 										<li class="page_item page-item-19">
-											<a href="champs_expertises.php">Champs d&rsquo;expertise</a>
+											<a href="champs_expertise.php">Champs d&rsquo;expertise</a>
 										</li>
 										<li class="page_item page-item-26">
 											<a href="partenaires.php">Partenaires</a>
@@ -37,13 +37,13 @@
 									</ul>
 								</li>
 								<li class="page_item page-item-144 page_item_has_children">
-									<a href="services_conseils.php">Nos services</a>
+									<a href="services.php">Nos services</a>
 									<ul class='children'>
 										<li class="page_item page-item-28">
-											<a href="services_conseils.php">Nos services</a>
+											<a href="services.php">Nos services</a>
 										</li>
 										<li class="page_item page-item-30">
-											<a href="formations_transfert.php">Formation et transfert</a>
+											<a href="formation_transfert.php">Formation et transfert</a>
 										</li>
 									</ul>
 								</li>

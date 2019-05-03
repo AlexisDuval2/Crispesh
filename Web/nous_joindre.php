@@ -69,8 +69,11 @@
 								</ul>
 								<br>
 								<div class="social-media">
-									<a class="facebook" href="https://www.facebook.com/Crispesh">
+									<a href="https://www.facebook.com/Crispesh">
 										<img src="images/logos/facebook-icon.png">
+									</a>
+									<a href="https://www.linkedin.com/company/crispesh">
+										<img id="linkedin-icon" src="images/logos/linkedin-icon.png">
 									</a>
 								</div><!-- social-media -->
 							</div><!-- widget-contact -->

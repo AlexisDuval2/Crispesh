@@ -13,7 +13,7 @@
 						<div class="row">
 							<div class="col-sm-6">
 
-								<h4>LOGIN</h4>
+								<h4>Administrateur</h4>
 
 							</div><!-- col -->
 						</div><!-- row -->
@@ -30,23 +30,16 @@
 										<?php
 											if ($action->wrongLogin) {
 												?>
-												<div>
-													<strong>Erreur: </strong>
-													<?= $action->cleDeSession; ?>
-												</div>
+													<h1 id="erreur">Erreur de connexion</h1>
 												<?php
 											}
 										?>
-										<div>
-											<label for="username">Nom d'usager : </label>
-										</div>
-										<div>
+										<div class="ligne-formulaire">
+											<label class="etiquette" for="username">Nom d'usager : </label>
 											<input type="text" name="username" id="username" />
 										</div>
-										<div>
-											<label for="password">Mot de passe : </label>
-										</div>
-										<div>
+										<div class="ligne-formulaire">
+											<label class="etiquette" for="password">Mot de passe : </label>
 											<input type="password" name="pwd" id="password" />
 										</div>
 										<div>&nbsp;</div>

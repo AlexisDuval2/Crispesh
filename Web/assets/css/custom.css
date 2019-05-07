@@ -50,6 +50,31 @@ body {
 	font-size: 17px;
 }
 
+#erreur {
+	color: rgb(201, 22, 22);
+	background-color: rgb(251, 255, 14);
+	text-align: center;
+	padding: 10px;
+	border: solid;
+	border-width: 2px;
+	border-radius: 8px;
+	font-size: 20px;
+}
+
+.ligne-formulaire {
+	display: flex;
+	justify-content: center;
+}
+
+label.etiquette {
+	width: 51%;
+}
+
+input#username, input#password {
+	width: 40%;
+	height: 30px;
+}
+
 h1, h2, h3, h4, h5, h6 {
 	margin: 0;
 	font-weight: bold;

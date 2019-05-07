@@ -63,7 +63,7 @@ body {
 
 .ligne-formulaire {
 	display: flex;
-	justify-content: center;
+	justify-content: space-between;
 }
 
 label.etiquette {

@@ -16,10 +16,9 @@
 							<div class="row">
 								<div class="col-sm-12">
 
-									<form>
-										<!-- <textarea name="editor1" id="editor1" rows="10" cols="80">PAGE ADMIN</textarea> -->
-										<textarea name="editor1">PAGE ADMIN</textarea>
-										<script>CKEDITOR.replace( 'editor1' );</script>
+									<form id="ck-index-titre">
+										<textarea name="index-titre">PAGE ADMIN</textarea>
+										<script>CKEDITOR.replace("index-titre");</script>
 									</form>
 
 								</div>

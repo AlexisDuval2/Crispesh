@@ -6,6 +6,8 @@
 	require_once("partial/header.php");
 ?>
 
+			<script src="ckeditor/ckeditor.js"></script>
+
 			<!-- CONTENT -->
 			<div id="content">
 				<section class="full-section" id="section-23">
@@ -14,10 +16,11 @@
 							<div class="row">
 								<div class="col-sm-12">
 
-									<h1>
-										<p>INNOVER POUR FAVORISER LA PARTICIPATION SOCIALE</p>
-										<p>DES PERSONNES EN SITUATION DE HANDICAP</p>
-									</h1>
+									<form>
+										<!-- <textarea name="editor1" id="editor1" rows="10" cols="80">PAGE ADMIN</textarea> -->
+										<textarea name="editor1">PAGE ADMIN</textarea>
+										<script>CKEDITOR.replace( 'editor1' );</script>
+									</form>
 
 								</div>
 							</div>

@@ -16,7 +16,7 @@
 				if (UserDAO::authenticate($_POST["username"], $_POST["pwd"])) {
 					$_SESSION["username"] = $_POST["username"];
 					$_SESSION["visibility"] = CommonAction::$VISIBILITY_MEMBER;
-					header("location:index.php");
+					header("location:admin_index.php");
 					exit();
 				}
 				else {

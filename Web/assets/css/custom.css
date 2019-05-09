@@ -244,6 +244,8 @@ header {
 	z-index: 210;
 }
 
+
+
 a#btn_accessibilite img {
 	margin-right: 4px;
 }
@@ -3118,6 +3120,7 @@ p a:hover {
 #menu>li>a {
 	margin: 15px;
 	padding: 0px;
+	font-weight: normal;
 }
 
 #menu.sf-arrows .sf-with-ul::after {

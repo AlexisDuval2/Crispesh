@@ -59,20 +59,54 @@ body {
 	border-width: 2px;
 	border-radius: 8px;
 	font-size: 20px;
+	width: 70%;
+	margin: auto;
+	margin-bottom: 34px;
+}
+
+#cadre-login {
+	background-color: rgb(16, 148, 201);
+	border-radius: 12px;
+	padding-right: 38px;
+}
+
+#cadre-login h1:not(#erreur) {
+	margin-top: 30px;
+}
+
+#cadre-login *:not(#erreur) {
+	color: white;
 }
 
 .ligne-formulaire {
 	display: flex;
-	justify-content: space-between;
+	justify-content: flex-start;
+	margin-bottom: 20px;
 }
 
 label.etiquette {
-	width: 51%;
+	width: 38%;
 }
 
 input#username, input#password {
 	width: 40%;
 	height: 30px;
+	font-weight: bold;
+}
+
+#cadre-bouton {
+	display: flex;
+	justify-content: center;
+	margin-top: 35px;
+	margin-bottom: -45px;
+}
+
+#cadre-login button {
+	background-color: black;
+	text-align: center;
+	width: 150px;
+	height: 55px;
+	border-radius: 11px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -243,8 +277,6 @@ header {
 	width: 100%;
 	z-index: 210;
 }
-
-
 
 a#btn_accessibilite img {
 	margin-right: 4px;

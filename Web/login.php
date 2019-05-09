@@ -22,7 +22,7 @@
 
 				<div class="container">
 					<div class="row">
-						<div class="col-sm-5">
+						<div id="cadre-login" class="col-sm-5">
 							<div class="widget widget-categories">
 								<h1>Connexion</h1>
 								<div>
@@ -42,8 +42,7 @@
 											<label class="etiquette" for="password">Mot de passe : </label>
 											<input type="password" name="pwd" id="password" />
 										</div>
-										<div>&nbsp;</div>
-										<div>
+										<div id="cadre-bouton">
 											<button type="submit">Connexion</button>
 										</div>
 									</form>

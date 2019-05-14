@@ -42,7 +42,7 @@
  + index.php
 -------------------------------------------------------------------------------------*/
 
-#titre-index {
+#index-titre {
 	color: black;
 	font-weight: bold;
 	font-size: 23px;
@@ -50,6 +50,11 @@
 	line-height: 25px;
 	margin: auto;
 	width: 60%;
+}
+
+#index-main img {
+	display: block;
+	margin: auto;
 }
 
 /*-------------------------------------------------------------------------------------
@@ -135,7 +140,7 @@ input#username, input#password {
  *	+ TYPOGRAPHY
  ***********************************************************************************/
 
- body {
+body {
 	font: 14px/25px Verdana;
 	font-weight: 500;
 	background-color: #fff;
@@ -3695,27 +3700,23 @@ body.taille_police div, body.taille_police a {
 -------------------------------------------------------------------------------------*/
 
 @media (max-width: 767px) {
-
 	#cadre-login {
 		width: 370px;
 		border-radius: 8px;
 		padding: 0px;
 		margin: auto;
 	}
-
 	input#username, input#password {
 		width: 50%;
 		height: 30px;
 		font-weight: bold;
 	}
-
 	#cadre-login h1:not(#erreur) {
 		padding-top: 25px;
 	}
 	#cadre-bouton {
 		padding-bottom: 33px;
 	}
-
 	#footer-bottom .container .row {
 		display: flex;
 		flex-direction: row;

@@ -58,6 +58,7 @@
 
 #cadre-login {
 	background-color: rgb(16, 148, 201);
+	width: 500px;
 	border-radius: 8px;
 	padding-right: 38px;
 }
@@ -81,7 +82,7 @@ label.etiquette {
 }
 
 input#username, input#password {
-	width: 40%;
+	width: 55%;
 	height: 30px;
 	font-weight: bold;
 }
@@ -3680,6 +3681,27 @@ body.taille_police div, body.taille_police a {
 -------------------------------------------------------------------------------------*/
 
 @media (max-width: 767px) {
+
+	#cadre-login {
+		width: 370px;
+		border-radius: 8px;
+		padding: 0px;
+		margin: auto;
+	}
+
+	input#username, input#password {
+		width: 50%;
+		height: 30px;
+		font-weight: bold;
+	}
+
+	#cadre-login h1:not(#erreur) {
+		padding-top: 25px;
+	}
+	#cadre-bouton {
+		padding-bottom: 33px;
+	}
+
 	#footer-bottom .container .row {
 		display: flex;
 		flex-direction: row;

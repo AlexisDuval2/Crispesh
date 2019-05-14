@@ -52,6 +52,12 @@
 	width: 60%;
 }
 
+#index-main {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+
 #index-main img {
 	display: block;
 	margin: auto;

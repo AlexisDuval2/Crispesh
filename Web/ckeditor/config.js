@@ -32,7 +32,7 @@ CKEDITOR.editorConfig = function( config ) {
 
 	config.width = "100%";
 	config.height = "100%";
-	config.uiColor = "#0ea8dd";
+	config.uiColor = "#00b9ff";
 };
 
 //----------------------------------------------------------------------------------------

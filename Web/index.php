@@ -11,9 +11,8 @@
 							<div class="row">
 								<div class="col-sm-12">
 
-									<h1>
-										<p>INNOVER POUR FAVORISER LA PARTICIPATION SOCIALE</p>
-										<p>DES PERSONNES EN SITUATION DE HANDICAP</p>
+									<h1 id="titre-index">
+										Innover pour favoriser la participation sociale des personnes en situation de handicap
 									</h1>
 
 								</div>

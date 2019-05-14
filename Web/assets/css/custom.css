@@ -131,15 +131,9 @@ input#username, input#password {
  + admin_index.php
 -------------------------------------------------------------------------------------*/
 
-#ck-index-titre {
-	width: 100%;
-	margin: auto;
-}
-
 #ck-index-main {
-	width: 100%;
-	height: 600px;
-	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
 
 /***********************************************************************************

@@ -96,6 +96,9 @@
 					</div><!-- container -->
 				</div><!-- header-top -->
 
+				<div id="header-admin">Vous êtes en mode administrateur</div>
+				<div id="bouton-deconnexion">Déconnexion</div>
+
 				<div id="header">
 					<div class="container">
 						<div class="row">

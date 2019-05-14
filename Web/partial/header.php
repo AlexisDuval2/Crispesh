@@ -126,7 +126,7 @@
 										</li>
 										<li>
 											<a href="qui_sommes_nous.php">À propos</a>
-											<ul>
+											<ul class="header-sous-menus">
 												<li>
 													<a href="inclusion_sociale.php">L'inclusion sociale</a>
 												</li>
@@ -155,7 +155,7 @@
 										</li>
 										<li>
 											<a href="services.php">Nos Services</a>
-											<ul>
+											<ul class="header-sous-menus">
 												<li class="active">
 													<a href="recherche_appliquee.php">La recherche appliquée</a>
 												</li>

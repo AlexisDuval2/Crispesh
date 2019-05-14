@@ -312,7 +312,11 @@ header {
 	z-index: 210;
 }
 
-#header-admin {
+#header-admin-petit {
+	display: none;
+}
+
+#header-admin-grand {
 	text-align: right;
 	border: solid;
 	border-width: 1px;
@@ -3691,7 +3695,6 @@ body.taille_police div, body.taille_police a {
 }
 
 @media (max-width: 991px) {
-
 	header {
 		height: 155px;
 		background-color: white;
@@ -3916,9 +3919,26 @@ body.taille_police div, body.taille_police a {
 /*-------------------------------------------------------------------------------------
  + EXTRA SMALL DISPLAY (PHONES LANDSCAPE)
 -------------------------------------------------------------------------------------*/
+
 @media (max-width: 650px) {
-	* {
-		background-color: red;
+	#header-admin-grand {
+		display: none;
+	}
+	#header-admin-petit {
+		display: block;
+		text-align: right;
+		border: solid;
+		border-width: 1px;
+		border-radius: 7px;
+		font-weight: bold;
+		background-color: yellow;
+		padding-left: 11px;
+		padding-right: 11px;
+		padding-top: 3px;
+		padding-bottom: 3px;
+		position: fixed;
+		top: 63px;
+		right: 19px;
 	}
 }
 
@@ -3948,6 +3968,9 @@ body.taille_police div, body.taille_police a {
 @media (max-width: 375px) {
 	a#btn_accessibilite {
 		font-size: 0px;
+	}
+	a#btn_accessibilite img {
+		margin-top: -10px;
 	}
 }
 

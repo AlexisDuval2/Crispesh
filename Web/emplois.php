@@ -1,5 +1,8 @@
 
 <?php
+	require_once("action/EmploisAction.php");
+	$action = new EmploisAction();
+	$action->execute();
 	require_once("partial/header.php");
 ?>
 

@@ -1,5 +1,8 @@
 
 <?php
+	require_once("action/SituationHandicapAction.php");
+	$action = new SituationHandicapAction();
+	$action->execute();
 	require_once("partial/header.php");
 ?>
 

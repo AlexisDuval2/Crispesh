@@ -1,5 +1,8 @@
 
 <?php
+	require_once("action/ProjetPhotoGraphieExpressionAction.php");
+	$action = new ProjetPhotoGraphieExpressionAction();
+	$action->execute();
 	require_once("partial/header.php");
 ?>
 

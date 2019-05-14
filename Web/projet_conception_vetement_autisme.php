@@ -1,5 +1,8 @@
 
 <?php
+	require_once("action/ProjetConceptionVetementAutismeAction.php");
+	$action = new ProjetConceptionVetementAutismeAction();
+	$action->execute();
 	require_once("partial/header.php");
 ?>
 

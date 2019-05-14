@@ -1,5 +1,8 @@
 
 <?php
+	require_once("action/OutilsEtudiantsAction.php");
+	$action = new OutilsEtudiantsAction();
+	$action->execute();
 	require_once("partial/header.php");
 ?>
 

@@ -1,5 +1,8 @@
 
 <?php
+	require_once("action/PlanDuSiteAction.php");
+	$action = new PlanDuSiteAction();
+	$action->execute();
 	require_once("partial/header.php");
 ?>
 

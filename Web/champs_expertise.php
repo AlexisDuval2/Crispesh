@@ -1,5 +1,8 @@
 
 <?php
+	require_once("action/ChampsExpertiseAction.php");
+	$action = new ChampsExpertiseAction();
+	$action->execute();
 	require_once("partial/header.php");
 ?>
 

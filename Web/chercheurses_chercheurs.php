@@ -1,5 +1,8 @@
 
 <?php
+	require_once("action/ChercheursesChercheursAction.php");
+	$action = new ChercheursesChercheursAction();
+	$action->execute();
 	require_once("partial/header.php");
 ?>
 

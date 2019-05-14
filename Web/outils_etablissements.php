@@ -1,5 +1,8 @@
 
 <?php
+	require_once("action/OutilsEtablissementsAction.php");
+	$action = new OutilsEtablissementsAction();
+	$action->execute();
 	require_once("partial/header.php");
 ?>
 

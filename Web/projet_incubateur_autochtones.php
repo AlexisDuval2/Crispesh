@@ -1,5 +1,8 @@
 
 <?php
+	require_once("action/ProjetIncubateurAutochtonesAction.php");
+	$action = new ProjetIncubateurAutochtonesAction();
+	$action->execute();
 	require_once("partial/header.php");
 ?>
 

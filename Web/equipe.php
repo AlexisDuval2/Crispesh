@@ -1,5 +1,8 @@
 
 <?php
+	require_once("action/EquipeAction.php");
+	$action = new EquipeAction();
+	$action->execute();
 	require_once("partial/header.php");
 ?>
 

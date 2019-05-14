@@ -1,5 +1,8 @@
 ﻿
 <?php
+	require_once("action/DocumentationAction.php");
+	$action = new DocumentationAction();
+	$action->execute();
 	require_once("partial/header.php");
 ?>
 

@@ -1,5 +1,8 @@
 
 <?php
+	require_once("action/FormationTransfertAction.php");
+	$action = new FormationTransfertAction();
+	$action->execute();
 	require_once("partial/header.php");
 ?>
 

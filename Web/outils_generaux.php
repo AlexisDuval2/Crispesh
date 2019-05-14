@@ -1,5 +1,8 @@
 
 <?php
+	require_once("action/OutilsGenerauxAction.php");
+	$action = new OutilsGenerauxAction();
+	$action->execute();
 	require_once("partial/header.php");
 ?>
 

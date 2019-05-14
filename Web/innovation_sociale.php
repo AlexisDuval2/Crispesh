@@ -1,5 +1,8 @@
 
 <?php
+	require_once("action/InnovationSocialeAction.php");
+	$action = new InnovationSocialeAction();
+	$action->execute();
 	require_once("partial/header.php");
 ?>
 

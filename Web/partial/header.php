@@ -52,7 +52,7 @@
 
 	<body>
 
-		<?php if ($action->hasSpecialBackground()) { ?>
+		<?php if ($action->aUnFondSpecial()) { ?>
 		<div id="page-wrapper" style="background-image: url(images/backgrounds/bg-login-logout.png);">
 		<?php } else { ?>
 		<div id="page-wrapper">
@@ -100,11 +100,7 @@
 					</div><!-- container -->
 				</div><!-- header-top -->
 
-				<?php if ($action->isLoggedIn()) { ?>
-					<div id="header-admin-grand">Vous êtes en mode administrateur</div>
-					<div id="header-admin-petit">mode admin</div>
-					<div id="bouton-deconnexion"><a href="logout">Déconnexion</a></div>
-				<?php } ?>
+				<?php if ($action->isLoggedIn()) {echo $action->montrerOptions();} ?>
 
 				<div id="header">
 					<div class="container">

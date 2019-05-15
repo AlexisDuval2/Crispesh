@@ -21,9 +21,9 @@
 									<?php
 									if ($action->isLoggedIn()) {echo $action->optionsTitre();}
 									else { ?>
-										<div id="index-titre">
-											<?php echo ContentDao::lireTitreIndex(); ?>
-										</div>
+									<div id="index-titre">
+										<?php echo ContentDao::lireTitreIndex(); ?>
+									</div>
 									<?php } ?>
 
 								</div>
@@ -39,9 +39,9 @@
 							<?php
 							if ($action->isLoggedIn()) {echo $action->optionsTexte();}
 							else { ?>
-								<div id="index-texte">
-									<?php echo ContentDao::lireTexteIndex(); ?>
-								</div>
+							<div id="index-texte">
+								<?php echo ContentDao::lireTexteIndex(); ?>
+							</div>
 							<?php } ?>
 
 						</div><!-- col -->

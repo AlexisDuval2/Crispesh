@@ -33,8 +33,7 @@
 			return $_SESSION["visibility"] > CommonAction::$VISIBILITY_PUBLIC;
 		}
 
-		public function hasSpecialBackground() {
-
+		public function aUnFondSpecial() {
 			$page_login = "login.php";
 			$page_logout = "logout.php";
 			$page_erreur = "erreur.php";
@@ -42,5 +41,14 @@
 			$page = basename($_SERVER["PHP_SELF"]);
 
 			return $page == $page_login || $page == $page_logout || $page == $page_erreur;
+		}
+
+		public function montrerOptions() {
+
+			$enTete = "<div id=\"header-admin-grand\">Vous êtes en mode administrateur</div>";
+			$petiteEnTete = "<div id=\"header-admin-petit\">mode admin</div>";
+			$boutonDeconnexion = "<div id=\"bouton-deconnexion\"><a href=\"logout\">Déconnexion</a></div>";
+
+			return $enTete . $petiteEnTete . $boutonDeconnexion;
 		}
 	}

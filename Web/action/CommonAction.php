@@ -34,9 +34,9 @@
 		}
 
 		public function hasSpecialBackground() {
-			$page_login = "/projet_CRISPESH_Alexis_Duval/Web/login.php";
-			$page_logout = "/projet_CRISPESH_Alexis_Duval/Web/logout.php";
-			$page = $_SERVER['REQUEST_URI'];
+			$page_login = "login.php";
+			$page_logout = "logout.php";
+			$page = basename($_SERVER["PHP_SELF"]);
 
 			return $page == $page_login || $page == $page_logout;
 		}

@@ -1,0 +1,9 @@
+
+# Accès refusé
+ErrorDocument 403 http://localhost/projet_CRISPESH_Alexis_Duval/Web/erreur.php?code=403
+
+# Page inexistante
+ErrorDocument 404 http://localhost/projet_CRISPESH_Alexis_Duval/Web/erreur.php?code=404
+
+# Erreur interne
+ErrorDocument 500 http://localhost/projet_CRISPESH_Alexis_Duval/Web/erreur.php?code=500

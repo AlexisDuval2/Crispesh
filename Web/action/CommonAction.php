@@ -17,7 +17,7 @@
 				$_SESSION["visibility"] = CommonAction::$VISIBILITY_PUBLIC;
 			}
 			if ($_SESSION["visibility"] < $this->pageVisibility) {
-				header("location:login.php");
+				header("location:login");
 				exit;
 			}
 			$this->executeAction();

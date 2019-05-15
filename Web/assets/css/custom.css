@@ -342,39 +342,37 @@ header {
 	display: none;
 }
 
-#header-admin-grand {
-	text-align: right;
+#header-admin-grand, #bouton-deconnexion * {
+	text-align: center;
 	border: solid;
-	border-width: 1px;
 	border-radius: 7px;
 	font-weight: bold;
 	background-color: yellow;
+	position: fixed;
+}
+
+#header-admin-grand {
+	top: 63px;
+	right: 19px;
 	padding-left: 15px;
 	padding-right: 15px;
 	padding-top: 3px;
 	padding-bottom: 3px;
-	position: fixed;
-	top: 63px;
-	right: 19px;
+	border-width: 1px;
 }
 
 #bouton-deconnexion * {
-	text-align: right;
-	border: solid;
-	border-width: 2px;
-	border-radius: 7px;
-	box-shadow: -4px 6px 10px;
-	font-weight: bold;
-	background-color: yellow;
-	padding-left: 15px;
-	padding-right: 15px;
-	padding-top: 3px;
-	padding-bottom: 6px;
-	position: fixed;
 	bottom: 19px;
-	right: 19px;
+	left: 19px;
+	font-size: 17px;
+	padding-left: 7px;
+	padding-right: 7px;
+	padding-top: 11px;
+	padding-bottom: 11px;
+	border-width: 2px;
 	z-index: 200;
 	color: black;
+	box-shadow: -4px 6px 10px;
 }
 
 a#btn_accessibilite img {

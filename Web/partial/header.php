@@ -52,7 +52,22 @@
 
 	<body>
 
+		<?php
+			$page_login = "/projet_CRISPESH_Alexis_Duval/Web/login.php";
+			$page_logout = "/projet_CRISPESH_Alexis_Duval/Web/logout.php";
+			$page = $_SERVER['REQUEST_URI'];
+
+			if($page == $page_login || $page == $page_logout) {
+		?>
 		<div id="page-wrapper" style="background-image: url(images/backgrounds/bg-login-logout.png);">
+		<?php
+			}
+			else {
+		?>
+		<div id="page-wrapper">
+		<?php
+			}
+		?>
 
 			<!-- HEADER -->
 			<header>

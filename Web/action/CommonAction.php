@@ -44,7 +44,6 @@
 		}
 
 		public function montrerOptions() {
-
 			$enTete = "<div id=\"header-admin-grand\">Vous êtes en mode administrateur</div>";
 			$petiteEnTete = "<div id=\"header-admin-petit\">mode admin</div>";
 			$boutonDeconnexion = "<div id=\"bouton-deconnexion\"><a href=\"logout\">Déconnexion</a></div>";

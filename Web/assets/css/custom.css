@@ -55,7 +55,7 @@
 .cadre-bouton-envoyer {
 	margin-top: 10px;
 	display: flex;
-	justify-content: end;
+	flex-direction: row-reverse;
 }
 
 .bouton-envoyer {
@@ -91,7 +91,7 @@
 
 #erreur {
 	color: rgb(201, 22, 22);
-	background-color: rgb(251, 255, 14);
+	background-color: rgb(255, 241, 0);
 	text-align: center;
 	padding: 10px;
 	border: solid;
@@ -347,7 +347,7 @@ header {
 	border: solid;
 	border-radius: 7px;
 	font-weight: bold;
-	background-color: yellow;
+	background-color: rgb(255, 241, 0);
 	position: fixed;
 }
 
@@ -3909,7 +3909,7 @@ body.taille_police div, body.taille_police a {
 		border-width: 1px;
 		border-radius: 7px;
 		font-weight: bold;
-		background-color: yellow;
+		background-color: rgb(255, 241, 0);
 		padding-left: 11px;
 		padding-right: 11px;
 		padding-top: 3px;

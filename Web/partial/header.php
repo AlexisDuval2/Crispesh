@@ -54,9 +54,7 @@
 
 		<?php if ($action->hasSpecialBackground()) { ?>
 		<div id="page-wrapper" style="background-image: url(images/backgrounds/bg-login-logout.png);">
-		<?php }
-			else {
-		?>
+		<?php } else { ?>
 		<div id="page-wrapper">
 		<?php } ?>
 

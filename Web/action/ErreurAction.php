@@ -13,11 +13,13 @@
 
 		public function getErrorMessage() {
 
-			$message = "";
+			$message = "Page \"erreur\"";
 
-			if ($_GET["code"] == 403) {$message = "Accès refusé";}
-			else if ($_GET["code"] == 404) {$message = "Page non trouvée";}
-			else if ($_GET["code"] == 500) {$message = "Erreur interne";}
+			if (isset($_GET["code"])) {
+				if ($_GET["code"] == 403) {$message = "Accès refusé";}
+				else if ($_GET["code"] == 404) {$message = "Page non trouvée";}
+				else if ($_GET["code"] == 500) {$message = "Erreur interne";}
+			}
 
 			return $message;
 		}

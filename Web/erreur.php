@@ -9,7 +9,7 @@
 			<!-- CONTENT -->
 			<div id="content">
 				<div id="page-header" class="style-1">
-					<div class="container">
+					<div class="container" id="erreur-titre-header">
 						<div class="row">
 							<div class="col-sm-6">
 
@@ -22,7 +22,7 @@
 
 				<div class="container">
 					<div class="row">
-						<div id="cadre-login" class="col-sm-5" style="width: 335px;">
+						<div id="cadre-erreur" class="col-sm-5" style="width: 335px;">
 							<div class="widget widget-categories">
 								<h1 style="
 									font-style: italic;

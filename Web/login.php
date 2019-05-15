@@ -9,7 +9,7 @@
 			<!-- CONTENT -->
 			<div id="content">
 				<div id="page-header" class="style-1">
-					<div class="container">
+					<div class="container" id="login-titre-header">
 						<div class="row">
 							<div class="col-sm-6">
 

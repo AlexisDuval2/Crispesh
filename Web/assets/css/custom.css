@@ -102,16 +102,17 @@
 	margin-bottom: 34px;
 }
 
-#cadre-login {
+#cadre-login, #cadre-logout, #cadre-erreur {
 	color: white;
 	background-color: rgb(16, 148, 201);
 	width: 500px;
 	border-radius: 8px;
 	box-shadow: rgb(180, 230, 240) -5px 6.5px 5px;
 	padding-right: 38px;
+	margin-left: 15px;
 }
 
-#cadre-login h1:not(#erreur) {
+#cadre-login h1:not(#erreur), #cadre-logout h1:not(#erreur), #cadre-erreur h1:not(#erreur) {
 	margin-top: 30px;
 	color: white;
 }
@@ -147,6 +148,7 @@ input#username, input#password {
 	width: 150px;
 	height: 55px;
 	border-radius: 11px;
+	margin-bottom: 20px;
 }
 
 /***********************************************************************************
@@ -328,6 +330,11 @@ header {
 	position: fixed;
 	width: 100%;
 	z-index: 210;
+}
+
+#login-titre-header, #logout-titre-header, #erreur-titre-header {
+	height: 30px;
+	margin-top: -20px;
 }
 
 #header-admin-petit {
@@ -3707,18 +3714,22 @@ body.taille_police div, body.taille_police a {
 -------------------------------------------------------------------------------------*/
 
 @media (max-width: 767px) {
-	#cadre-login {
+	#cadre-login, #cadre-logout, #cadre-erreur {
 		width: 370px;
 		border-radius: 8px;
 		padding: 0px;
 		margin: auto;
+	}
+	#cadre-logout, #cadre-erreur {
+		padding-bottom: 1px;
+		padding-right: 20px;
 	}
 	input#username, input#password {
 		width: 50%;
 		height: 30px;
 		font-weight: bold;
 	}
-	#cadre-login h1:not(#erreur) {
+	#cadre-login h1:not(#erreur), #cadre-logout h1:not(#erreur), #cadre-erreur h1:not(#erreur) {
 		padding-top: 25px;
 	}
 	#cadre-bouton {

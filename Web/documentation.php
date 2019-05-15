@@ -19,7 +19,7 @@
 							<div class="col-sm-9">
 								<ol class="breadcrumb">
 									<li>
-										<a href="index.php">Accueil</a>
+										<a href="index">Accueil</a>
 									</li>
 									<li class="active">Documentation</li>
 								</ol>

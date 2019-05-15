@@ -19,10 +19,10 @@
 							<div class="col-sm-6">
 								<ol class="breadcrumb">
 									<li>
-										<a href="index.php">Accueil</a>
+										<a href="index">Accueil</a>
 									</li>
 									<li>
-										<a href="services_conseils.php">Nos services</a>
+										<a href="services_conseils">Nos services</a>
 									</li>
 									<li class="active">Recherche appliquée</li>
 								</ol>
@@ -37,16 +37,16 @@
 							<div class="widget widget-categories">
 								<ul>
 									<li class="active">
-										<a href="recherche_appliquee.php">Recherche appliquée</a>
+										<a href="recherche_appliquee">Recherche appliquée</a>
 									</li>
 									<li>
-										<a href="services_accompagnement.php">Services d'accompagnement en innovation sociale</a>
+										<a href="services_accompagnement">Services d'accompagnement en innovation sociale</a>
 									</li>
 									<li>
-										<a href="laboratoire_technologies_adaptatives.php">Laboratoire en technologies adaptatives</a>
+										<a href="laboratoire_technologies_adaptatives">Laboratoire en technologies adaptatives</a>
 									</li>
 									<li>
-										<a href="formation_transfert.php">Formation et transfert</a>
+										<a href="formation_transfert">Formation et transfert</a>
 									</li>
 								</ul>
 							</div><!-- widget-categories -->

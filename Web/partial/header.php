@@ -103,7 +103,7 @@
 				<?php if ($action->isLoggedIn()) { ?>
 					<div id="header-admin-grand">Vous êtes en mode administrateur</div>
 					<div id="header-admin-petit">mode admin</div>
-					<div id="bouton-deconnexion"><a href="logout.php">Déconnexion</a></div>
+					<div id="bouton-deconnexion"><a href="logout">Déconnexion</a></div>
 				<?php } ?>
 
 				<div id="header">
@@ -112,7 +112,7 @@
 							<div class="col-sm-3">
 
 								<!-- LOGO -->
-								<a id="logo" href="index.php">
+								<a id="logo" href="index">
 									<img id="header-logo" src="assets/images/logo.png" alt="">
 								</a>
 
@@ -126,59 +126,59 @@
 									</a>
 									<ul class="menu clearfix" id="menu">
 										<li>
-											<a href="index.php">Accueil</a>
+											<a href="index">Accueil</a>
 										</li>
 										<li>
-											<a href="qui_sommes_nous.php">À propos</a>
+											<a href="qui_sommes_nous">À propos</a>
 											<ul class="header-sous-menus">
 												<li>
-													<a href="inclusion_sociale.php">L'inclusion sociale</a>
+													<a href="inclusion_sociale">L'inclusion sociale</a>
 												</li>
 												<li>
-													<a href="innovation_sociale.php">L'innovation sociale</a>
+													<a href="innovation_sociale">L'innovation sociale</a>
 												</li>
 												<li>
-													<a href="conception_handicap.php">Notre conception du handicap</a>
+													<a href="conception_handicap">Notre conception du handicap</a>
 												</li>
 												<li>
-													<a href="situation_handicap.php">Qui sont les personnes en situation d'handicap</a>
+													<a href="situation_handicap">Qui sont les personnes en situation d'handicap</a>
 												</li>
 												<li>
-													<a href="champs_expertise.php">Champs d'expertise</a>
+													<a href="champs_expertise">Champs d'expertise</a>
 												</li>
 												<li>
-													<a href="partenaires.php">Nos partenaires</a>
+													<a href="partenaires">Nos partenaires</a>
 												</li>
 											</ul>
 										</li>
 										<li>
-											<a href="equipe.php">Équipe</a>
+											<a href="equipe">Équipe</a>
 										</li>
 										<li>
-											<a href="nos_projets.php">Nos Projets</a>
+											<a href="nos_projets">Nos Projets</a>
 										</li>
 										<li>
-											<a href="services.php">Nos Services</a>
+											<a href="services">Nos Services</a>
 											<ul class="header-sous-menus">
 												<li class="active">
-													<a href="recherche_appliquee.php">La recherche appliquée</a>
+													<a href="recherche_appliquee">La recherche appliquée</a>
 												</li>
 												<li>
-													<a href="services_accompagnement.php">Services d'accompagnement en innovation sociale</a>
+													<a href="services_accompagnement">Services d'accompagnement en innovation sociale</a>
 												</li>
 												<li>
-													<a href="laboratoire_technologies_adaptatives.php">Laboratoire en technologies adaptatives</a>
+													<a href="laboratoire_technologies_adaptatives">Laboratoire en technologies adaptatives</a>
 												</li>
 												<li>
-													<a href="formation_transfert.php">La formation et transfert</a>
+													<a href="formation_transfert">La formation et transfert</a>
 												</li>
 											</ul>
 										</li>
 										<li>
-											<a href="documentation.php">Documentation</a>
+											<a href="documentation">Documentation</a>
 										</li>
 										<li>
-											<a href="nous_joindre.php">Nous Joindre</a>
+											<a href="nous_joindre">Nous Joindre</a>
 										</li>
 									</ul>
 								</nav>

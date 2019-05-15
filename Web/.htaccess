@@ -1,18 +1,5 @@
 
 #----------------------------------------------
-# ERREURS
-#----------------------------------------------
-# Accès refusé
-ErrorDocument 403 http://localhost/projet_CRISPESH_Alexis_Duval/Web/erreur.php?code=403
-
-# Page inexistante
-ErrorDocument 404 http://localhost/projet_CRISPESH_Alexis_Duval/Web/erreur.php?code=404
-
-# Erreur interne
-ErrorDocument 500 http://localhost/projet_CRISPESH_Alexis_Duval/Web/erreur.php?code=500
-#----------------------------------------------
-
-#----------------------------------------------
 # AFFICHER PAGES SANS EXTENSION
 #----------------------------------------------
 RewriteEngine on
@@ -22,4 +9,17 @@ RewriteCond  %{REQUEST_FILENAME}.php -f
 
 # Alors, modifier le fichier par fichier.php.  [L] = break... donc fin de htaccess
 RewriteRule ^(.*)$ $1.php [L]
+#----------------------------------------------
+
+#----------------------------------------------
+# ERREURS
+#----------------------------------------------
+# Accès refusé
+ErrorDocument 403 http://localhost/projet_CRISPESH_Alexis_Duval/Web/erreur?code=403
+
+# Page inexistante
+ErrorDocument 404 http://localhost/projet_CRISPESH_Alexis_Duval/Web/erreur?code=404
+
+# Erreur interne
+ErrorDocument 500 http://localhost/projet_CRISPESH_Alexis_Duval/Web/erreur?code=500
 #----------------------------------------------

@@ -17,50 +17,50 @@
 
 							<ul class="sitemap">
 								<li class="page_item page-item-43">
-									<a href="index.php">Page d&rsquo;accueil</a>
+									<a href="index">Page d&rsquo;accueil</a>
 								</li>
 								<li class="page_item page-item-5 page_item_has_children">
-									<a href="qui_sommes_nous.php">À propos de nous</a>
+									<a href="qui_sommes_nous">À propos de nous</a>
 									<ul class='children'>
 										<li class="page_item page-item-17">
-											<a href="qui_sommes_nous.php">À propos de nous</a>
+											<a href="qui_sommes_nous">À propos de nous</a>
 										</li>
 										<li class="page_item page-item-24">
-											<a href="equipe.php">Équipe</a>
+											<a href="equipe">Équipe</a>
 										</li>
 										<li class="page_item page-item-19">
-											<a href="champs_expertise.php">Champs d&rsquo;expertise</a>
+											<a href="champs_expertise">Champs d&rsquo;expertise</a>
 										</li>
 										<li class="page_item page-item-26">
-											<a href="partenaires.php">Partenaires</a>
+											<a href="partenaires">Partenaires</a>
 										</li>
 										<li class="page_item page-item-21">
-											<a href="innovation_sociale.php">Qu&rsquo;est-ce que l&rsquo;innovation sociale?</a>
+											<a href="innovation_sociale">Qu&rsquo;est-ce que l&rsquo;innovation sociale?</a>
 										</li>
 									</ul>
 								</li>
 								<li class="page_item page-item-144 page_item_has_children">
-									<a href="services.php">Nos services</a>
+									<a href="services">Nos services</a>
 									<ul class='children'>
 										<li class="page_item page-item-28">
-											<a href="services.php">Nos services</a>
+											<a href="services">Nos services</a>
 										</li>
 										<li class="page_item page-item-30">
-											<a href="formation_transfert.php">Formation et transfert</a>
+											<a href="formation_transfert">Formation et transfert</a>
 										</li>
 									</ul>
 								</li>
 								<li class="page_item page-item-15 current_page_item">
-									<a href="plan_du_site.php">Plan du site</a>
+									<a href="plan_du_site">Plan du site</a>
 								</li>
 								<li class="page_item page-item-145">
-									<a href="documentation.php">Documentation</a>
+									<a href="documentation">Documentation</a>
 								</li>
 								<li class="page_item page-item-7">
-									<a href="nos_projets.php">Nos projets</a>
+									<a href="nos_projets">Nos projets</a>
 								</li>
 								<li class="page_item page-item-13">
-									<a href="nous_joindre.php">Nous joindre</a>
+									<a href="nous_joindre">Nous joindre</a>
 								</li>
 							</ul>
 						</div><!-- col -->

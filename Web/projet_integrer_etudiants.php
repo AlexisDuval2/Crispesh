@@ -19,7 +19,7 @@
 							<div class="col-sm-6">
 								<ol class="breadcrumb">
 									<li class="active">
-										<a href="projet_integrer_etudiants.php">Comité INTERORDRES</a>
+										<a href="projet_integrer_etudiants">Comité INTERORDRES</a>
 									</li>
 								</ol>
 							</div><!-- col -->
@@ -34,19 +34,19 @@
 								<img src="images/projets/interordres.jpg" alt="Intégrer les nouvelles populations étudiantes en situation de handicap aux études supérieures : mission possible (2011-2013)" />
 								<ul>
 									<li class="">
-										<a href="outils_generaux.php">Outils généraux</a>
+										<a href="outils_generaux">Outils généraux</a>
 									</li>
 									<li class="">
-										<a href="outils_etudiants.php">Outils pour les étudiants</a>
+										<a href="outils_etudiants">Outils pour les étudiants</a>
 									</li>
 									<li class="">
-										<a href="outils_intervenants.php">Outils pour les intervenants</a>
+										<a href="outils_intervenants">Outils pour les intervenants</a>
 									</li>
 									<li class="">
-										<a href="outils_enseignants.php">Outils pour les enseignants</a>
+										<a href="outils_enseignants">Outils pour les enseignants</a>
 									</li>
 									<li class="">
-										<a href="outils_etablissements.php">Outils pour les établissements</a>
+										<a href="outils_etablissements">Outils pour les établissements</a>
 									</li>
 								</ul>
 							</div><!-- widget-categories -->
@@ -64,7 +64,7 @@
 							<p>Lors de la mise en œuvre des trois volets, des outils ont été réalisés et sont disponibles pour tous.</p>
 							<div class="col-sm-12">
 								<hr>
-								<a href="nos_projets.php" class="btn btn-blue btn_retour_projet">Retour à la liste des projets</a>
+								<a href="nos_projets" class="btn btn-blue btn_retour_projet">Retour à la liste des projets</a>
 							</div>
 						</div><!-- col -->
 					</div><!-- row -->

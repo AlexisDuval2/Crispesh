@@ -26,7 +26,7 @@
 							<div class="widget widget-categories">
 								<h1>Connexion</h1>
 								<div>
-									<form action="login.php" method="post">
+									<form action="login" method="post">
 										<?php if ($action->wrongLogin) { ?>
 											<h1 id="erreur">Erreur de connexion</h1>
 										<?php } ?>

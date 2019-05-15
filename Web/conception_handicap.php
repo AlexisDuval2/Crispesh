@@ -19,10 +19,10 @@
 							<div class="col-sm-6">
 								<ol class="breadcrumb">
 									<li>
-										<a href="index.php">Accueil</a>
+										<a href="index">Accueil</a>
 									</li>
 									<li>
-										<a href="qui_sommes_nous.php">À propos</a>
+										<a href="qui_sommes_nous">À propos</a>
 									</li>
 									<li class="active">Notre conception du handicap</li>
 								</ol>
@@ -37,22 +37,22 @@
 							<div class="widget widget-categories">
 								<ul>
 									<li>
-										<a href="inclusion_sociale.php">L’inclusion sociale</a>
+										<a href="inclusion_sociale">L’inclusion sociale</a>
 									</li>
 									<li>
-										<a href="innovation_sociale.php">L'innovation sociale</a>
+										<a href="innovation_sociale">L'innovation sociale</a>
 									</li>
 									<li class="active">
-										<a href="conception_handicap.php">Notre conception du handicap</a>
+										<a href="conception_handicap">Notre conception du handicap</a>
 									</li>
 									<li>
-										<a href="situation_handicap.php">Qui sont les personnes en situation de handicap</a>
+										<a href="situation_handicap">Qui sont les personnes en situation de handicap</a>
 									</li>
 									<li>
-										<a href="champs_expertise.php">Champs d'expertise</a>
+										<a href="champs_expertise">Champs d'expertise</a>
 									</li>
 									<li>
-										<a href="partenaires.php">Nos partenaires</a>
+										<a href="partenaires">Nos partenaires</a>
 									</li>
 								</ul>
 							</div><!-- widget-categories -->

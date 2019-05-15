@@ -163,7 +163,7 @@
 							</div><!-- service-box-image -->
 							<div class="service-box-content">
 								<h4>
-									<a href="projet_ameliorer_sommeil.php">Améliorer les conditions de sommeil de l’enfant vivant avec un trouble du spectre de l’autisme  grâce à un design réfléchi et personnalisé de sa chambre (2016-2017)</a>
+									<a href="projet_ameliorer_sommeil">Améliorer les conditions de sommeil de l’enfant vivant avec un trouble du spectre de l’autisme  grâce à un design réfléchi et personnalisé de sa chambre (2016-2017)</a>
 								</h4>
 							</div><!-- service-box-content -->
 						</div><!-- service-box -->
@@ -175,7 +175,7 @@
 							</div><!-- service-box-image -->
 							<div class="service-box-content">
 								<h4>
-									<a href="projet_incubateur_autochtones.php">Développement d’un modèle d’incubateur d’entreprises inclusif destiné aux Autochtones (2016-2018)</a>
+									<a href="projet_incubateur_autochtones">Développement d’un modèle d’incubateur d’entreprises inclusif destiné aux Autochtones (2016-2018)</a>
 								</h4>
 							</div><!-- service-box-content -->
 						</div><!-- service-box -->
@@ -187,7 +187,7 @@
 							</div><!-- service-box-image -->
 							<div class="service-box-content">
 								<h4>
-									<a href="projet_soutenir_employeur.php">Soutenir l’employeur dans l’inclusion professionnelle des personnes vivant avec une déficience intellectuelle ou un trouble du spectre de l’autisme (2016-2017)</a>
+									<a href="projet_soutenir_employeur">Soutenir l’employeur dans l’inclusion professionnelle des personnes vivant avec une déficience intellectuelle ou un trouble du spectre de l’autisme (2016-2017)</a>
 								</h4>
 							</div><!-- service-box-content -->
 						</div><!-- service-box -->

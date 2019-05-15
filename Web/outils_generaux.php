@@ -19,7 +19,7 @@
 							<div class="col-sm-6">
 								<ol class="breadcrumb">
 									<li>
-										<a href="projet_integrer_etudiants.php">Comité INTERORDRES</a>
+										<a href="projet_integrer_etudiants">Comité INTERORDRES</a>
 									</li>
 									<li class="active">Outils pour les étudiants</li>
 								</ol>
@@ -38,16 +38,16 @@
 										<a href="javascript:;">Outils généraux</a>
 									</li>
 									<li class="">
-										<a href="outils_etudiants.php">Outils pour les étudiants</a>
+										<a href="outils_etudiants">Outils pour les étudiants</a>
 									</li>
 									<li class="">
-										<a href="outils_intervenants.php">Outils pour les intervenants</a>
+										<a href="outils_intervenants">Outils pour les intervenants</a>
 									</li>
 									<li class="">
-										<a href="outils_enseignants.php">Outils pour les enseignants</a>
+										<a href="outils_enseignants">Outils pour les enseignants</a>
 									</li>
 									<li class="">
-										<a href="outils_etablissements.php">Outils pour les établissements</a>
+										<a href="outils_etablissements">Outils pour les établissements</a>
 									</li>
 								</ul>
 							</div><!-- widget-categories -->
@@ -92,7 +92,7 @@
 							</div>
 							<div class="col-sm-12">
 								<hr>
-								<a href="nos_projets.php" class="btn btn-blue btn_retour_projet">Retour à la liste des projets</a>
+								<a href="nos_projets" class="btn btn-blue btn_retour_projet">Retour à la liste des projets</a>
 							</div>
 						</div><!-- col -->
 					</div><!-- row -->

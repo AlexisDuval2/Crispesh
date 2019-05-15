@@ -12,7 +12,7 @@
 							<img src="assets/images/logo-footer.png" alt="">
 						</div><!-- col -->
 						<div id="plan-du-site" class="col-sm-2">
-							<a href="plan_du_site.php">Plan du site</a>
+							<a href="plan_du_site">Plan du site</a>
 						</div>
 						<div id="copy-right" class="col-sm-5">
 							<div class="widget widget-text">

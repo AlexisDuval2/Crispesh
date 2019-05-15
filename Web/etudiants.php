@@ -19,7 +19,7 @@
 							<div class="col-sm-8">
 								<ol class="breadcrumb">
 									<li>
-										<a href="index.php">Accueil</a>
+										<a href="index">Accueil</a>
 									</li>
 									<li>Équipe du CRISPESH </li>
 									<li class="active">Étudiants</li>
@@ -35,22 +35,22 @@
 							<div class="widget widget-categories">
 								<ul>
 									<li>
-										<a href="personnel_administratif.php">Personnel administratif</a>
+										<a href="personnel_administratif">Personnel administratif</a>
 									</li>
 									<li>
-										<a href="personnel_scientifique.php">Personnel scientifique</a>
+										<a href="personnel_scientifique">Personnel scientifique</a>
 									</li>
 									<li class="active">
-										<a href="etudiants.php">Étudiants (Assistants de recherche et stagiaires)</a>
+										<a href="etudiants">Étudiants (Assistants de recherche et stagiaires)</a>
 									</li>
 									<li>
-										<a href="chercheurses_chercheurs.php">Chercheuses et chercheurs affiliés</a>
+										<a href="chercheurses_chercheurs">Chercheuses et chercheurs affiliés</a>
 									</li>
 									<li>
-										<a href="conseil.php">Conseil d’administration</a>
+										<a href="conseil">Conseil d’administration</a>
 									</li>
 									<li>
-										<a href="emplois.php">Emplois au CRISPESH</a>
+										<a href="emplois">Emplois au CRISPESH</a>
 									</li>
 								</ul>
 							</div><!-- widget-categories -->

@@ -12,16 +12,17 @@
 		}
 
 		protected function executeAction() {
+
 			if (isset($_POST["username"])) {
+
 				if (UserDAO::authenticate($_POST["username"], $_POST["pwd"])) {
+
 					$_SESSION["username"] = $_POST["username"];
 					$_SESSION["visibility"] = CommonAction::$VISIBILITY_MEMBER;
-					header("location:admin_index.php");
+					header("location:index");
 					exit();
 				}
-				else {
-					$this->wrongLogin = true;
-				}
+				else {$this->wrongLogin = true;}
 			}
 		}
 	}

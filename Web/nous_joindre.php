@@ -19,7 +19,7 @@
 							<div class="col-sm-9">
 								<ol class="breadcrumb">
 									<li>
-										<a href="index.php">Accueil</a>
+										<a href="index">Accueil</a>
 									</li>
 									<li class="active">Nous joindre</li>
 								</ol>
@@ -43,7 +43,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-7">
-							<form id="contact-form" name="contact-form" method="post" action="assets/php/send.php">
+							<form id="contact-form" name="contact-form" method="post" action="assets/php/send">
 								<fieldset>
 									<div id="alert-area"></div>
 									<input class="col-xs-12" id="name" type="text" name="name" placeholder="Nom">

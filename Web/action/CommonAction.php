@@ -32,4 +32,12 @@
 		public function isLoggedIn() {
 			return $_SESSION["visibility"] > CommonAction::$VISIBILITY_PUBLIC;
 		}
+
+		public function hasSpecialBackground() {
+			$page_login = "/projet_CRISPESH_Alexis_Duval/Web/login.php";
+			$page_logout = "/projet_CRISPESH_Alexis_Duval/Web/logout.php";
+			$page = $_SERVER['REQUEST_URI'];
+
+			return $page == $page_login || $page == $page_logout;
+		}
 	}

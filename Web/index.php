@@ -8,6 +8,7 @@
 ?>
 
 			<script src="ckeditor/ckeditor.js"></script>
+			<script src="js/index.js"></script>
 
 			<!-- CONTENT -->
 			<div id="content">
@@ -15,24 +16,14 @@
 					<div class="full-section-container bg-blanc">
 						<div class="container">
 							<div class="row">
-								<div class="col-sm-12">
+								<div class="col-sm-12" id="cadre-index-titre">
 
-									<?php if ($action->isLoggedIn()) { ?>
-									<form id="ck-index-titre" action="admin_index" method="post">
-										<textarea name="texte-index-titre">
-											<?php echo ContentDao::lire(); ?>
-										</textarea>
-										<div class="cadre-bouton-envoyer">
-											<button class="bouton-envoyer" type="submit">Envoyer</button>
-										</div>
-										<script>CKEDITOR.replace("texte-index-titre", {height: "102px"});</script>
-										<?php if (isset($_POST["texte-index-titre"])) {ContentDao::ecrire($_POST["texte-index-titre"]);} ?>
-									</form>
-									<?php } else { ?>
-									<div id="index-titre">
-										<?php echo ContentDao::lire(); ?>
-									</div>
-									<?php } ?>
+									<?php if ($action->isLoggedIn()) {echo $action->optionsTitre();}
+										else { ?>
+											<div id="index-titre">
+												<?php echo ContentDao::lire(); ?>
+											</div>
+										<?php } ?>
 
 								</div>
 							</div>

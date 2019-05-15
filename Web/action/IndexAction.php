@@ -26,7 +26,7 @@
 			$contenu = ContentDao::lireTitreIndex();
 			$zoneTexteB = "</textarea>";
 			$cadreBoutonEnvoyerA = "<div class=\"cadre-bouton-envoyer\">";
-			$boutonEnvoyer = "<button class=\"bouton-envoyer\" type=\"submit\">Envoyer</button>";
+			$boutonEnvoyer = "<button class=\"bouton-envoyer\" type=\"submit\"><a href=#>Envoyer</a></button>";
 			$cadreBoutonEnvoyerB = "</div>";
 			$ckEditor = "<script>CKEDITOR.replace(\"texte-index-titre\", {height: \"102px\"});</script>";
 			$formulaireB = "</form >";
@@ -49,7 +49,7 @@
 			$contenu = ContentDao::lireTexteIndex();
 			$zoneTexteB = "</textarea>";
 			$cadreBoutonEnvoyerA = "<div class=\"cadre-bouton-envoyer\">";
-			$boutonEnvoyer = "<button class=\"bouton-envoyer\" type=\"submit\">Envoyer</button>";
+			$boutonEnvoyer = "<button class=\"bouton-envoyer\" type=\"submit\"><a href=#>Envoyer</a></button>";
 			$cadreBoutonEnvoyerB = "</div>";
 			$ckEditor = "<script>CKEDITOR.replace(\"texte-index-main\", {height: \"550px\"});</script>";
 			$formulaireB = "</form >";

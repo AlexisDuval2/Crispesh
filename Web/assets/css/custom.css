@@ -60,14 +60,13 @@
 
 .bouton-envoyer {
 	background-color: rgb(64, 72, 75);
-	color: rgb(182, 202, 213);
 	letter-spacing: 1px;
 	text-align: center;
 	width: 117px;
 	height: 38px;
 	border-radius: 7px;
 	border-width: 1px;
-	box-shadow: -2.5px 2.5px 0px;
+	box-shadow: -2.5px 1.25px 2px;
 }
 
 #ck-index-main {
@@ -342,7 +341,7 @@ header {
 	display: none;
 }
 
-#header-admin-grand, #bouton-deconnexion * {
+#header-admin-grand, #bouton-deconnexion *, #bouton-menu-admin * {
 	text-align: center;
 	border: solid;
 	border-radius: 7px;
@@ -361,9 +360,8 @@ header {
 	border-width: 1px;
 }
 
-#bouton-deconnexion * {
+#bouton-deconnexion *, #bouton-menu-admin * {
 	bottom: 19px;
-	left: 19px;
 	font-size: 17px;
 	padding-left: 7px;
 	padding-right: 7px;
@@ -373,6 +371,14 @@ header {
 	z-index: 200;
 	color: black;
 	box-shadow: -4px 6px 10px;
+}
+
+#bouton-deconnexion * {
+	left: 10px;
+}
+
+#bouton-menu-admin * {
+	right: 10px;
 }
 
 a#btn_accessibilite img {

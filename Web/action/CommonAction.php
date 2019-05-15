@@ -47,7 +47,8 @@
 			$enTete = "<div id=\"header-admin-grand\">Vous êtes en mode administrateur</div>";
 			$petiteEnTete = "<div id=\"header-admin-petit\">mode admin</div>";
 			$boutonDeconnexion = "<div id=\"bouton-deconnexion\"><a href=\"logout\">Déconnexion</a></div>";
+			$boutonMenuAdmin = "<div id=\"bouton-menu-admin\"><a href=#>Menu admin</a></div>";
 
-			return $enTete . $petiteEnTete . $boutonDeconnexion;
+			return $enTete . $petiteEnTete . $boutonDeconnexion . $boutonMenuAdmin;
 		}
 	}

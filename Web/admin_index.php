@@ -23,7 +23,7 @@
 											<button class="bouton-envoyer" type="submit">Envoyer</button>
 										</div>
 										<script>CKEDITOR.replace("texte-index-titre", {height: "102px"});</script>
-										<?php if (isset($_POST["message"])) {ContentDao::ecrire($_POST["message"]);} ?>
+										<?php if (isset($_POST["texte-index-titre"])) {ContentDao::ecrire($_POST["texte-index-titre"]);} ?>
 									</form>
 
 								</div>

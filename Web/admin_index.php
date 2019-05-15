@@ -18,7 +18,9 @@
 								<div class="col-sm-12">
 
 									<form id="ck-index-titre" action="admin_index" method="post">
-										<textarea name="texte-index-titre"></textarea>
+										<textarea name="texte-index-titre">
+											<?php echo ContentDao::lire(); ?>
+										</textarea>
 										<div class="cadre-bouton-envoyer">
 											<button class="bouton-envoyer" type="submit">Envoyer</button>
 										</div>

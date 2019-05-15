@@ -7,6 +7,8 @@
 	require_once("partial/header.php");
 ?>
 
+			<script src="ckeditor/ckeditor.js"></script>
+
 			<!-- CONTENT -->
 			<div id="content">
 				<section class="full-section" id="section-23">
@@ -15,9 +17,22 @@
 							<div class="row">
 								<div class="col-sm-12">
 
-									<h1 id="index-titre">
+									<?php if ($action->isLoggedIn()) { ?>
+									<form id="ck-index-titre" action="admin_index" method="post">
+										<textarea name="texte-index-titre">
+											<?php echo ContentDao::lire(); ?>
+										</textarea>
+										<div class="cadre-bouton-envoyer">
+											<button class="bouton-envoyer" type="submit">Envoyer</button>
+										</div>
+										<script>CKEDITOR.replace("texte-index-titre", {height: "102px"});</script>
+										<?php if (isset($_POST["texte-index-titre"])) {ContentDao::ecrire($_POST["texte-index-titre"]);} ?>
+									</form>
+									<?php } else { ?>
+									<div id="index-titre">
 										<?php echo ContentDao::lire(); ?>
-									</h1>
+									</div>
+									<?php } ?>
 
 								</div>
 							</div>

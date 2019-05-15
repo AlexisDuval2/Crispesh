@@ -1,7 +1,7 @@
 
 <?php
-	require_once("action/LogoutAction.php");
-	$action = new LogoutAction();
+	require_once("action/ErreurAction.php");
+	$action = new ErreurAction();
 	$action->execute();
 	require_once("partial/header.php");
 ?>
@@ -28,13 +28,7 @@
 									font-style: italic;
 									text-align: center;
 									margin-bottom: -55px;">
-									<?php if ($_GET["code"] == 403) { ?>
-									Accès refusé
-									<?php } else if ($_GET["code"] == 404) { ?>
-									Oh my god they found me... <br/>I don't know how but they found me... <br/>run for it Marty !
-									<?php } else if ($_GET["code"] == 500) { ?>
-									Aye, erreur interne
-									<?php } ?>
+									<?php echo $action->getErrorMessage() ?>
 								</h1>
 							</div><!-- widget-categories -->
 						</div><!-- col -->

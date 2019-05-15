@@ -34,10 +34,13 @@
 		}
 
 		public function hasSpecialBackground() {
+
 			$page_login = "login.php";
 			$page_logout = "logout.php";
+			$page_erreur = "erreur.php";
+
 			$page = basename($_SERVER["PHP_SELF"]);
 
-			return $page == $page_login || $page == $page_logout;
+			return $page == $page_login || $page == $page_logout || $page == $page_erreur;
 		}
 	}

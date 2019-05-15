@@ -1,9 +1,9 @@
-
+ï»¿
 Innover pour favoriser la participation sociale des personnes en situation de handicap
 
-<p>Le Centre de recherche pour l’inclusion des personnes en situation de handicap (CRISPESH) est un centre collégial de transfert de technologie en pratiques sociales novatrices (CCTT-PSN), né d’un partenariat entre le <a href="http://www.cvm.qc.ca/Pages/index.aspx" target="_blank">Cégep du Vieux Montréal&nbsp;</a>et le <a href="http://www.dawsoncollege.qc.ca/french/" target="_blank">Collège Dawson</a>. Le Centre a été reconnu en octobre 2010 par le <a href="http://www.education.gouv.qc.ca/" target="_blank">Ministère de l’Éducation et de l'Enseignement Supérieur.</a></p>
-<p>En juillet 2015, le cégep du Vieux Montréal et le collège Dawson confiaient la gestion du CRISPESH à un organisme<br> à but non lucratif du même nom créé dans le but de réaliser le mandat du Centre.</p>
+<p>Le Centre de recherche pour lâ€™inclusion des personnes en situation de handicap (CRISPESH) est un centre collÃ©gial de transfert de technologie en pratiques sociales novatrices (CCTT-PSN), nÃ© dâ€™un partenariat entre le <a href="http://www.cvm.qc.ca/Pages/index.aspx" target="_blank">CÃ©gep du Vieux MontrÃ©al&nbsp;</a>et le <a href="http://www.dawsoncollege.qc.ca/french/" target="_blank">CollÃ¨ge Dawson</a>. Le Centre a Ã©tÃ© reconnu en octobre 2010 par le <a href="http://www.education.gouv.qc.ca/" target="_blank">MinistÃ¨re de lâ€™Ã‰ducation et de l'Enseignement SupÃ©rieur.</a></p>
+<p>En juillet 2015, le cÃ©gep du Vieux MontrÃ©al et le collÃ¨ge Dawson confiaient la gestion du CRISPESH Ã  un organisme<br> Ã  but non lucratif du mÃªme nom crÃ©Ã© dans le but de rÃ©aliser le mandat du Centre.</p>
 <img src="assets/images/logo.png">
 <br>
-<p>Le CRISPESH fait partie du <a href="http://reseautranstech.qc.ca/" target="_blank">Réseau Trans-tech</a>, un regroupement de 49 centres collégiaux de transfert de technologie réunissant plus de 1000 experts à travers le Québec qui se dédient à l’innovation au moyen de la recherche appliquée et du transfert.</p>
+<p>Le CRISPESH fait partie du <a href="http://reseautranstech.qc.ca/" target="_blank">RÃ©seau Trans-tech</a>, un regroupement de 49 centres collÃ©giaux de transfert de technologie rÃ©unissant plus de 1000 experts Ã  travers le QuÃ©bec qui se dÃ©dient Ã  lâ€™innovation au moyen de la recherche appliquÃ©e et du transfert.</p>
 

@@ -99,7 +99,7 @@
 				<?php if ($action->isLoggedIn()) { ?>
 					<div id="header-admin-grand">Vous êtes en mode administrateur</div>
 					<div id="header-admin-petit">mode admin</div>
-					<div id="bouton-deconnexion">Déconnexion</div>
+					<div id="bouton-deconnexion"><a href="logout.php">Déconnexion</a></div>
 				<?php } ?>
 
 				<div id="header">

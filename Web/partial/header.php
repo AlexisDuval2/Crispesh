@@ -52,7 +52,7 @@
 
 	<body>
 
-		<div id="page-wrapper">
+		<div id="page-wrapper" style="background-image: url(images/backgrounds/bg-login-logout.png);">
 
 			<!-- HEADER -->
 			<header>

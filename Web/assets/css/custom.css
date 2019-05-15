@@ -86,17 +86,16 @@
 }
 
 #cadre-login {
+	color: white;
 	background-color: rgb(16, 148, 201);
 	width: 500px;
 	border-radius: 8px;
+	box-shadow: rgb(180,230,240) -5px 6.5px 5px;
 	padding-right: 38px;
 }
 
 #cadre-login h1:not(#erreur) {
 	margin-top: 30px;
-}
-
-#cadre-login *:not(#erreur) {
 	color: white;
 }
 
@@ -125,6 +124,8 @@ input#username, input#password {
 
 #cadre-login button {
 	background-color: black;
+	color: orange;
+	letter-spacing: 1px;
 	text-align: center;
 	width: 150px;
 	height: 55px;

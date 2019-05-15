@@ -7,7 +7,7 @@
 ?>
 
 			<!-- CONTENT -->
-			<div id="content" style="background-color: orange;">
+			<div id="content">
 				<div id="page-header" class="style-1">
 					<div class="container">
 						<div class="row">
@@ -22,13 +22,13 @@
 
 				<div class="container">
 					<div class="row">
-						<div id="cadre-login" class="col-sm-5" style="width: 245px;">
+						<div id="cadre-login" class="col-sm-5" style="width: 335px;">
 							<div class="widget widget-categories">
 								<h1 style="
 									font-style: italic;
 									text-align: center;
 									margin-bottom: -55px;">
-									Déconnexion
+									Déconnexion réussie
 								</h1>
 							</div><!-- widget-categories -->
 						</div><!-- col -->

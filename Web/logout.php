@@ -13,7 +13,7 @@
 						<div class="row">
 							<div class="col-sm-6">
 
-								<h4>Administrateur</h4>
+								<h1>Administrateur</h1>
 
 							</div><!-- col -->
 						</div><!-- row -->

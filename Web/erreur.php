@@ -13,7 +13,7 @@
 						<div class="row">
 							<div class="col-sm-6">
 
-								<h4>Erreur</h4>
+								<h1>Erreur</h1>
 
 							</div><!-- col -->
 						</div><!-- row -->

@@ -1,5 +1,6 @@
 
 <?php
+	require_once("action/DAO/ContentDao.php");
 	require_once("action/IndexAction.php");
 	$action = new IndexAction();
 	$action->execute();
@@ -15,7 +16,7 @@
 								<div class="col-sm-12">
 
 									<h1 id="index-titre">
-										Innover pour favoriser la participation sociale des personnes en situation de handicap
+										<?php echo ContentDao::lire(); ?>
 									</h1>
 
 								</div>

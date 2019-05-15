@@ -13,7 +13,7 @@
 						<div class="row">
 							<div class="col-sm-6">
 
-								<h4>Administrateur</h4>
+								<h1>Administrateur</h1>
 
 							</div><!-- col -->
 						</div><!-- row -->
@@ -38,7 +38,7 @@
 											<label class="etiquette" for="password">Mot de passe : </label>
 											<input type="password" name="pwd" id="password" />
 										</div>
-										<div id="cadre-bouton">
+										<div id="cadre-bouton-login">
 											<button type="submit">Connexion</button>
 										</div>
 									</form>

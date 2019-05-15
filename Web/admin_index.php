@@ -1,5 +1,6 @@
 
 <?php
+	require_once("action/DAO/ContentDao.php");
 	require_once("action/AdminIndexAction.php");
 	$action = new AdminIndexAction();
 	$action->execute();
@@ -16,13 +17,13 @@
 							<div class="row">
 								<div class="col-sm-12">
 
-									<form id="ck-index-titre" >
-										<textarea name="texte-index-titre">
-											<h1>
-												Innover pour favoriser la participation sociale des personnes en situation de handicap
-											</h1>
-										</textarea>
+									<form id="ck-index-titre" action="admin_index.php" method="post">
+										<textarea name="texte-index-titre"></textarea>
+										<div class="cadre-bouton-envoyer">
+											<button class="bouton-envoyer" type="submit">Envoyer</button>
+										</div>
 										<script>CKEDITOR.replace("texte-index-titre", {height: "102px"});</script>
+										<?php if (isset($_POST["message"])) {ContentDao::ecrire($_POST["message"]);} ?>
 									</form>
 
 								</div>

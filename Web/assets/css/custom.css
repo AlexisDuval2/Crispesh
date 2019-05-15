@@ -52,6 +52,23 @@
 	width: 60%;
 }
 
+.cadre-bouton-envoyer {
+	margin-top: 10px;
+	display: flex;
+	justify-content: end;
+}
+
+.bouton-envoyer {
+	background-color: rgb(64, 72, 75);
+	color: rgb(182, 202, 213);
+	letter-spacing: 1px;
+	text-align: center;
+	width: 117px;
+	height: 38px;
+	border-radius: 7px;
+	box-shadow: -2px 1.5px 1px;
+}
+
 #ck-index-main {
 	margin-top: 20px;
 	margin-bottom: 20px;
@@ -90,7 +107,7 @@
 	background-color: rgb(16, 148, 201);
 	width: 500px;
 	border-radius: 8px;
-	box-shadow: rgb(180,230,240) -5px 6.5px 5px;
+	box-shadow: rgb(180, 230, 240) -5px 6.5px 5px;
 	padding-right: 38px;
 }
 
@@ -115,7 +132,7 @@ input#username, input#password {
 	font-weight: bold;
 }
 
-#cadre-bouton {
+#cadre-bouton-login {
 	display: flex;
 	justify-content: center;
 	margin-top: 35px;

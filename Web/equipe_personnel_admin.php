@@ -1,7 +1,7 @@
 
 <?php
-	require_once("action/PersonnelAdministratifAction.php");
-	$action = new PersonnelAdministratifAction();
+	require_once("action/EquipePersonnelAdminAction.php");
+	$action = new EquipePersonnelAdminAction();
 	$action->execute();
 	require_once("partial/header.php");
 ?>

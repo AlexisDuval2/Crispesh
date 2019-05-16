@@ -97,7 +97,7 @@
 					</div><!-- container -->
 				</div><!-- header-top -->
 
-				<?php if ($action->isLoggedIn()) {echo $action->montrerOptions(); ?>
+				<?php if ($action->isLoggedIn()) {echo $action->montrerOptions();} ?>
 
 				<div id="header">
 					<div class="container">

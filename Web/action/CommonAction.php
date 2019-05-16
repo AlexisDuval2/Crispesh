@@ -6,7 +6,9 @@
 
 		public static $VISIBILITY_PUBLIC = 0;
 		public static $VISIBILITY_MEMBER = 1;
+
 		private $pageVisibility;
+		private $modeEcriture = false;
 
 		//-----------------------------------------------
 		// Constructeur
@@ -45,6 +47,13 @@
 		//-----------------------------------------------
 		public function isLoggedIn() {
 			return $_SESSION["visibility"] > CommonAction::$VISIBILITY_PUBLIC;
+		}
+
+		//-----------------------------------------------
+		// méthode pour vérifier si l'utilisateur est connecté
+		//-----------------------------------------------
+		public function enModeEcriture() {
+			return $modeEcriture;
 		}
 
 		//-----------------------------------------------

@@ -81,13 +81,13 @@
 											</a>
 										</li>
 										<li>
-											<a href="#" id="btn_accessibilite">
+											<a href="javascript:;" id="btn_accessibilite">
 												<img src="images/universal-access.png">Accessibilité
 											</a>
 										</li>
 										<li>
 											<div class="widget">
-												<a id="english" href="#">English</a>
+												<a id="english" href="javascript:;">English</a>
 											</div><!-- widget-language -->
 										</li>
 									</ul>
@@ -115,7 +115,7 @@
 
 								<!-- MENU -->
 								<nav>
-									<a id="mobile-menu-button" href="#">
+									<a id="mobile-menu-button" href="javascript:;">
 									</a>
 									<ul class="menu clearfix" id="menu">
 										<li>

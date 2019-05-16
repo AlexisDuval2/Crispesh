@@ -83,10 +83,10 @@
 			$enTete = "<div id=\"header-admin-grand\">Vous êtes en mode administrateur</div>";
 			$petiteEnTete = "<div id=\"header-admin-petit\">mode admin</div>";
 			$boutonDeconnexion = "<div id=\"bouton-deconnexion\"><a href=\"logout\">Déconnexion</a></div>";
-			$boutonMenuAdmin = "<div id=\"bouton-menu-admin\"><a href=#>Menu admin</a></div>";
+			$boutonMenuAdmin = "<div id=\"bouton-menu-admin\"><a href=\"javascript:;\">Menu admin</a></div>";
 			$menuAdminA = "<div id=\"menu-admin\">";
-			$boutonModeLecture = "<div id=\"bouton-mode-lecture\"><a href=#>Mode lecture</a></div>";
-			$boutonModeEcriture = "<div id=\"bouton-mode-ecriture\"><a href=#>Mode écriture</a></div>";
+			$boutonModeLecture = "<div id=\"bouton-mode-lecture\"><a href=\"javascript:;\">Mode lecture</a></div>";
+			$boutonModeEcriture = "<div id=\"bouton-mode-ecriture\"><a href=\"javascript:;\">Mode écriture</a></div>";
 			$menuAdminB = "</div>";
 			$script = "<script src=\"js/admin.js\"></script>";
 

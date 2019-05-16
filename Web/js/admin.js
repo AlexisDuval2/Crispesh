@@ -1,17 +1,16 @@
 
 window.onload = () => {
-	ecouterLesBoutonsModifier();
+	let bouton = document.getElementById("bouton-menu-admin");
+	console.log(bouton);
+	bouton.onclick = function () { alert("test"); }
 }
 
 //-----------------------------------------------
-// méthode pour confirmer les modifications (admin)
+//
 //-----------------------------------------------
-const ecouterLesBoutonsModifier = () => {
-	let message = "Vos modifications ont été enregistrées";
-	let boutons = document.getElementsByClassName("bouton-modifier");
+const voirMenuAdmin = () => {
+	let bouton = document.getElementById("bouton-menu-admin");
+	console.log(bouton);
 
-	for (let i = 0; i < boutons.length; i++) {
-		let bouton = boutons[i];
-		bouton.onclick = function () { alert(message); }
-	}
+	bouton.onclick = function () { alert("test"); }
 }

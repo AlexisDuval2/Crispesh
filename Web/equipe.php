@@ -43,7 +43,7 @@
                                         <a href="etudiants">Étudiants (Assistants de recherche et stagiaires)</a>
                                     </li>
                                     <li>
-                                        <a href="chercheurses_chercheurs">Chercheuses et chercheurs affiliés</a>
+                                        <a href="chercheurs">Chercheuses et chercheurs affiliés</a>
                                     </li>
                                     <li>
                                         <a href="conseil">Le conseil d’administration</a>

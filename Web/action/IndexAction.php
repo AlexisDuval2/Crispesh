@@ -38,6 +38,9 @@
 			return $html_1 . $html_2 . $html_3;
 		}
 
+		//-----------------------------------------------
+		// méthode pour insérer le html pour modifier le texte (admin)
+		//-----------------------------------------------
 		public function optionsTexte() {
 
 			if (isset($_POST["texte-index-main"])) {

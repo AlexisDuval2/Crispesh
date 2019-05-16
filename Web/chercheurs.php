@@ -1,7 +1,7 @@
 
 <?php
-	require_once("action/ChercheursesChercheursAction.php");
-	$action = new ChercheursesChercheursAction();
+	require_once("action/ChercheursAction.php");
+	$action = new ChercheursAction();
 	$action->execute();
 	require_once("partial/header.php");
 ?>
@@ -44,7 +44,7 @@
 										<a href="etudiants">Étudiants (Assistants de recherche et stagiaires)</a>
 									</li>
 									<li class="active">
-										<a href="chercheurses_chercheurs">Chercheuses et chercheurs affiliés</a>
+										<a href="chercheurs">Chercheuses et chercheurs affiliés</a>
 									</li>
 									<li>
 										<a href="conseil">Conseil d’administration</a>

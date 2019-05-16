@@ -3,6 +3,9 @@ window.onload = () => {
 	ecouterLesBoutonsEnvoyer();
 }
 
+//-----------------------------------------------
+// méthode pour confirmer les modifications (admin)
+//-----------------------------------------------
 const ecouterLesBoutonsEnvoyer = () => {
 	let message = "Vos modifications ont été enregistrées";
 	let boutons = document.getElementsByClassName("bouton-envoyer");

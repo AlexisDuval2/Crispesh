@@ -101,6 +101,11 @@
 				</div><!-- header-top -->
 
 				<?php if ($action->isLoggedIn()) {echo $action->montrerOptions();} ?>
+				<div id="menu-admin">
+					<div id="bouton-mode-lecture"><a href=#>Mode lecture</a></div>
+					<div id="bouton-mode-ecriture"><a href=#>Mode écriture</a></div>
+				</div>
+
 
 				<div id="header">
 					<div class="container">

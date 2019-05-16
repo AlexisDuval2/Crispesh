@@ -381,6 +381,36 @@ header {
 	right: 10px;
 }
 
+#bouton-mode-lecture *, #bouton-mode-ecriture * {
+	position: fixed;
+	right: 10px;
+	bottom: 65px;
+	width: 220px;
+	height: 56px;
+	background-color: rgb(255, 241, 0);
+	list-style: none;
+	color: black;
+	font-size: 19px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	text-align: center;
+	z-index: 200;
+	border: solid;
+	border-width: 2px;
+	border-radius: 7px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+#bouton-mode-lecture * {
+	bottom: 145px;
+}
+
+#bouton-mode-ecriture * {
+	bottom: 79px;
+}
+
 a#btn_accessibilite img {
 	margin-right: 4px;
 }

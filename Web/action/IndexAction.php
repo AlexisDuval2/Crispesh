@@ -25,14 +25,14 @@
 			$zoneTexteA = "<textarea name=\"texte-index-titre\">";
 			$contenu = ContentDao::lireTitreIndex();
 			$zoneTexteB = "</textarea>";
-			$cadreBoutonEnvoyerA = "<div class=\"cadre-bouton-envoyer\">";
-			$boutonEnvoyer = "<button class=\"bouton-envoyer\" type=\"submit\"><a href=#>Envoyer</a></button>";
-			$cadreBoutonEnvoyerB = "</div>";
+			$cadreBoutonModifierA = "<div class=\"cadre-bouton-modifier\">";
+			$boutonModifier = "<button class=\"bouton-modifier\" type=\"submit\"><a href=#>Modifier</a></button>";
+			$cadreBoutonModifierB = "</div>";
 			$ckEditor = "<script>CKEDITOR.replace(\"texte-index-titre\", {height: \"102px\"});</script>";
 			$formulaireB = "</form >";
 
 			$html_1 = $formulaireA . $zoneTexteA . $contenu . $zoneTexteB;
-			$html_2 = $cadreBoutonEnvoyerA . $boutonEnvoyer . $cadreBoutonEnvoyerB;
+			$html_2 = $cadreBoutonModifierA . $boutonModifier . $cadreBoutonModifierB;
 			$html_3 = $ckEditor . $formulaireB;
 
 			return $html_1 . $html_2 . $html_3;
@@ -51,14 +51,14 @@
 			$zoneTexteA = "<textarea name=\"texte-index-main\">";
 			$contenu = ContentDao::lireTexteIndex();
 			$zoneTexteB = "</textarea>";
-			$cadreBoutonEnvoyerA = "<div class=\"cadre-bouton-envoyer\">";
-			$boutonEnvoyer = "<button class=\"bouton-envoyer\" type=\"submit\"><a href=#>Envoyer</a></button>";
-			$cadreBoutonEnvoyerB = "</div>";
+			$cadreBoutonModifierA = "<div class=\"cadre-bouton-modifier\">";
+			$boutonModifier = "<button class=\"bouton-modifier\" type=\"submit\"><a href=#>Modifier</a></button>";
+			$cadreBoutonModifierB = "</div>";
 			$ckEditor = "<script>CKEDITOR.replace(\"texte-index-main\", {height: \"550px\"});</script>";
 			$formulaireB = "</form >";
 
 			$html_1 = $formulaireA . $zoneTexteA . $contenu . $zoneTexteB;
-			$html_2 = $cadreBoutonEnvoyerA . $boutonEnvoyer . $cadreBoutonEnvoyerB;
+			$html_2 = $cadreBoutonModifierA . $boutonModifier . $cadreBoutonModifierB;
 			$html_3 = $ckEditor . $formulaireB;
 
 			return $html_1 . $html_2 . $html_3;

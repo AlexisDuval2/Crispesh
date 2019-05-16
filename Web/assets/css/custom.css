@@ -52,13 +52,13 @@
 	width: 60%;
 }
 
-.cadre-bouton-envoyer {
+.cadre-bouton-modifier {
 	margin-top: 10px;
 	display: flex;
 	flex-direction: row-reverse;
 }
 
-.bouton-envoyer {
+.bouton-modifier {
 	background-color: rgb(64, 72, 75);
 	letter-spacing: 1px;
 	text-align: center;

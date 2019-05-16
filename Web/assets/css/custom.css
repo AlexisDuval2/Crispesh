@@ -341,6 +341,10 @@ header {
 	display: none;
 }
 
+#menu-admin {
+	display: none;
+}
+
 #bouton-deconnexion *, #bouton-menu-admin *, #bouton-mode-lecture *, #bouton-mode-ecriture * {
 	text-decoration: none;
 }

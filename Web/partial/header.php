@@ -52,19 +52,8 @@
 
 	<body>
 
-		<?php if ($action->aUnFondSpecial()) { ?>
-		<div id="page-wrapper" style="background-image: url(images/backgrounds/bg-login-logout.png);">
-		<?php } else { ?>
-		<div id="page-wrapper">
-		<?php } ?>
-
-			<div id="menu-admin">
-				<div id="bouton-mode-lecture"><a href=#>Mode lecture</a></div>
-				<div id="bouton-mode-ecriture"><a href=#>Mode écriture</a></div>
-			</div>
-			<?php if ($action->isLoggedIn()) {echo $action->montrerOptions(); ?>
-			<script src="js/admin.js"></script>
-			<?php } ?>
+		<?php if ($action->aUnFondSpecial()) {echo $action->fondSpecial(); ?>
+		<?php } else {echo $action->fondNormal();} ?>
 
 			<!-- HEADER -->
 			<header>
@@ -107,6 +96,8 @@
 						</div><!-- row -->
 					</div><!-- container -->
 				</div><!-- header-top -->
+
+				<?php if ($action->isLoggedIn()) {echo $action->montrerOptions(); ?>
 
 				<div id="header">
 					<div class="container">

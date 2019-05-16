@@ -58,16 +58,13 @@
 		<div id="page-wrapper">
 		<?php } ?>
 
-			<?php if ($action->isLoggedIn()) {echo $action->montrerOptions();} ?>
-			<script>
-				let bouton = document.getElementById("bouton-menu-admin");
-				console.log(bouton);
-				bouton.onclick = function () { alert("test"); }
-			</script>
 			<div id="menu-admin">
 				<div id="bouton-mode-lecture"><a href=#>Mode lecture</a></div>
 				<div id="bouton-mode-ecriture"><a href=#>Mode écriture</a></div>
 			</div>
+			<?php if ($action->isLoggedIn()) {echo $action->montrerOptions(); ?>
+			<script src="js/admin.js"></script>
+			<?php } ?>
 
 			<!-- HEADER -->
 			<header>

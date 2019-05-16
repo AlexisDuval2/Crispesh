@@ -21,7 +21,9 @@
                                     <li>
                                         <a href="index">Accueil</a>
                                     </li>
-                                    <li class="active">Équipe du CRISPESH</li>
+                                    <li class="active">
+                                        <a href="equipe">Équipe du CRISPESH</a>
+                                    </li>
                                 </ol>
                             </div><!-- col -->
                         </div><!-- row -->
@@ -34,22 +36,22 @@
                             <div class="widget widget-categories">
                                 <ul>
                                     <li>
-                                        <a href="personnel_administratif">Personnel administratif</a>
+                                        <a href="equipe_personnel_admin">Personnel administratif</a>
                                     </li>
                                     <li>
-                                        <a href="personnel_scientifique">Personnel scientifique</a>
+                                        <a href="equipe_personnel_scientifique">Personnel scientifique</a>
                                     </li>
                                     <li>
-                                        <a href="etudiants">Étudiants (Assistants de recherche et stagiaires)</a>
+                                        <a href="equipe_etudiants">Étudiants (Assistants de recherche et stagiaires)</a>
                                     </li>
                                     <li>
-                                        <a href="chercheurs">Chercheuses et chercheurs affiliés</a>
+                                        <a href="equipe_chercheurs">Chercheuses et chercheurs affiliés</a>
                                     </li>
                                     <li>
-                                        <a href="conseil">Le conseil d’administration</a>
+                                        <a href="equipe_conseil">Le conseil d’administration</a>
                                     </li>
                                     <li>
-                                        <a href="emplois">Emplois au CRISPESH</a>
+                                        <a href="equipe_emplois">Emplois au CRISPESH</a>
                                     </li>
                                 </ul>
                             </div><!-- widget-categories -->

@@ -1,7 +1,7 @@
 
 <?php
-	require_once("action/EtudiantsAction.php");
-	$action = new EtudiantsAction();
+	require_once("action/EquipeEtudiantsAction.php");
+	$action = new EquipeEtudiantsAction();
 	$action->execute();
 	require_once("partial/header.php");
 ?>
@@ -21,7 +21,9 @@
 									<li>
 										<a href="index">Accueil</a>
 									</li>
-									<li>Équipe du CRISPESH </li>
+									<li>
+										<a href="equipe">Équipe du CRISPESH</a>
+									</li>
 									<li class="active">Étudiants</li>
 								</ol>
 							</div><!-- col -->
@@ -35,22 +37,22 @@
 							<div class="widget widget-categories">
 								<ul>
 									<li>
-										<a href="personnel_administratif">Personnel administratif</a>
+										<a href="equipe_personnel_admin">Personnel administratif</a>
 									</li>
 									<li>
-										<a href="personnel_scientifique">Personnel scientifique</a>
+										<a href="equipe_personnel_scientifique">Personnel scientifique</a>
 									</li>
 									<li class="active">
-										<a href="etudiants">Étudiants (Assistants de recherche et stagiaires)</a>
+										<a href="equipe_etudiants">Étudiants (Assistants de recherche et stagiaires)</a>
 									</li>
 									<li>
-										<a href="chercheurs">Chercheuses et chercheurs affiliés</a>
+										<a href="equipe_chercheurs">Chercheuses et chercheurs affiliés</a>
 									</li>
 									<li>
-										<a href="conseil">Conseil d’administration</a>
+										<a href="equipe_conseil">Conseil d’administration</a>
 									</li>
 									<li>
-										<a href="emplois">Emplois au CRISPESH</a>
+										<a href="equipe_emplois">Emplois au CRISPESH</a>
 									</li>
 								</ul>
 							</div><!-- widget-categories -->

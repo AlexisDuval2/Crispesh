@@ -2,7 +2,7 @@
 <?php
 	require_once("action/CommonAction.php");
 
-	class ChercheursAction extends CommonAction {
+	class EquipeEmploisAction extends CommonAction {
 
 		public function __construct() {
 			parent::__construct(CommonAction::$VISIBILITY_PUBLIC);

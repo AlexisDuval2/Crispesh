@@ -101,21 +101,13 @@
 
 				<html>
 				<form action="" method="post">
-					<input type="hidden" name="action" value="submit" />
-					<select name="name">
-						<option>John</option>
-						<option>Henry</option>
-					<select>
-					<input id="tea-submit" type="submit" name="submit" value="Tea">
-					<input id="coffee-submit" type="submit" name="submit" value="Coffee">
+					<input type="hidden" name="action-mode" value="submit" />
+					<input type="submit" name="mode" value="lecture">
+					<input type="submit" name="mode" value="ecriture">
 				</form>
 				</html>
 
-				<?php
-				if (isset($_POST['action'])) {
-					echo '<br />The ' . $_POST['submit'] . ' submit button was pressed<br />';
-				}
-				?>
+				<?php if (isset($_POST["action-mode"])) {echo "<br/>" . $_POST["mode"];} ?>
 
 				<div id="header">
 					<div class="container">

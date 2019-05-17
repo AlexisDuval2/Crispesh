@@ -27,7 +27,7 @@ const controlerMenuAdmin = () => {
 
 let X_INIT = 11;
 let VITESSE_X_INIT = 10;
-let ACCELERATION_X_INIT = -0.15;
+let ACCELERATION_X_INIT = -0.1;
 let X_FINAL = 10;
 
 let x = X_INIT;
@@ -61,9 +61,6 @@ const animationMenuClic = () => {
 			x = X_FINAL;
 			animationTerminee = true;
 		}
-
-		console.log(x);
-
 
 		boutonLecture.innerHTML = htmlboutonLectureA + x + htmlboutonLectureB;
 	}

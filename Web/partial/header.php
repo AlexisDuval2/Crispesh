@@ -52,9 +52,11 @@
 
 	<body>
 
-		<?php $action->enModeEcriture(); ?>
-		<?php if ($action->aUnFondSpecial()) {echo $action->fondSpecial(); ?>
-		<?php } else {echo $action->fondNormal();} ?>
+		<?php
+			$action->enModeEcriture();
+			if ($action->aUnFondSpecial()) {echo $action->fondSpecial();}
+			else {echo $action->fondNormal();}
+		?>
 
 			<!-- HEADER -->
 			<header>
@@ -181,3 +183,5 @@
 					</div><!-- container -->
 				</div><!-- header -->
 			</header><!-- HEADER -->
+
+			<script src="js/menu.js"></script>

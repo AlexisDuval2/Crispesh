@@ -39,8 +39,10 @@
 						<div class="col-sm-12" id="index-main" >
 
 							<?php
-							if ($action->isLoggedIn() && $action->enModeEcriture()) {echo $action->optionsTexte();}
-							else { ?>
+								if ($action->isLoggedIn() && $action->enModeEcriture()) {
+									echo $action->optionsTexte();
+								} else {
+							?>
 							<div id="index-texte">
 								<?php echo ContentDao::lireTexteIndex(); ?>
 							</div>

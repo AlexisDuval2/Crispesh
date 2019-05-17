@@ -5,6 +5,8 @@
 const idBoutonMenu = "mobile-menu-button";
 const couleurOff = "rgb(168, 225, 42)";
 const couleurOn = "rgb(11, 191, 242)";
+const largeurNormale = "150px";
+const largeurCarre = "45px";
 
 //-----------------------------------------------
 // variables
@@ -24,11 +26,15 @@ const animerMenu = () => {
 
 	if (!on) {
 		boutonMenu.style.backgroundColor = couleurOn;
+		boutonMenu.style.width = largeurCarre;
+		boutonMenu.style.backgroundSize = "0";
 
 		on = true;
 	}
-	else {
+		else {
 		boutonMenu.style.backgroundColor = couleurOff;
+		boutonMenu.style.width = largeurNormale;
+		boutonMenu.style.backgroundSize = largeurNormale;
 
 		on = false;
 	}

@@ -1,4 +1,7 @@
 
+//-----------------------------------------------
+// variables pour le menuAdmin
+//-----------------------------------------------
 let menuAdminEstVisible = false;
 
 let menuAdmin = document.getElementById("menu-admin");
@@ -21,21 +24,29 @@ const controlerMenuAdmin = () => {
 		menuAdmin.style.display = "block";
 		menuAdmin.style.opacity = "1";
 		reinitialiserAnimation();
-		setInterval(animationLecture, 5);
-		setInterval(animationEcriture, 5);
+		setInterval(animerLesBoutons, 5);
 	}
 }
 
-let X_INIT = 11;
-let VITESSE_X_INIT = 15;
-let ACCELERATION_X_INIT = -0.3;
-let X_FINAL = 10;
+//-----------------------------------------------
+// constantes pour bouger gauche/droite
+//-----------------------------------------------
+const X_INIT = 11;
+const VITESSE_X_INIT = 15;
+const ACCELERATION_X_INIT = -0.4;
+const X_FINAL = 10;
 
+//-----------------------------------------------
+// variables pour bouger gauche/droite
+//-----------------------------------------------
 let x = X_INIT;
 let vitesseX = VITESSE_X_INIT;
 let accelerationX = ACCELERATION_X_INIT;
 let animationTerminee = false;
 
+//-----------------------------------------------
+// méthode pour réinitialiser l'animation
+//-----------------------------------------------
 const reinitialiserAnimation = () => {
 	x = X_INIT;
 	vitesseX = VITESSE_X_INIT;
@@ -43,6 +54,17 @@ const reinitialiserAnimation = () => {
 	animationTerminee = false;
 }
 
+//-----------------------------------------------
+// méthode pour animer les boutons
+//-----------------------------------------------
+const animerLesBoutons = () => {
+	animationLecture();
+	animationEcriture();
+}
+
+//-----------------------------------------------
+// méthode pour animer le bouton "mode lecture"
+//-----------------------------------------------
 const animationLecture = () => {
 
 	let idBoutonLecture = "bouton-mode-lecture";
@@ -51,6 +73,9 @@ const animationLecture = () => {
 	bougerGaucheDroite(idBoutonLecture, modeLecture);
 }
 
+//-----------------------------------------------
+// méthode pour animer le bouton "mode écriture"
+//-----------------------------------------------
 const animationEcriture = () => {
 
 	let idBoutonEcriture = "bouton-mode-ecriture";
@@ -59,6 +84,9 @@ const animationEcriture = () => {
 	bougerGaucheDroite(idBoutonEcriture, modeEcriture);
 }
 
+//-----------------------------------------------
+// méthode pour faire l'animation
+//-----------------------------------------------
 const bougerGaucheDroite = (id, mode) => {
 
 	let bouton = document.getElementById(id);

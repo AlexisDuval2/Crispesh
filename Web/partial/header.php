@@ -52,6 +52,7 @@
 
 	<body>
 
+		<?php $action->enModeEcriture(); ?>
 		<?php if ($action->aUnFondSpecial()) {echo $action->fondSpecial(); ?>
 		<?php } else {echo $action->fondNormal();} ?>
 

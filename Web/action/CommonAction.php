@@ -6,9 +6,9 @@
 
 		public static $VISIBILITY_PUBLIC = 0;
 		public static $VISIBILITY_MEMBER = 1;
+		public static $MODE_ECRITURE = "Mode écriture";
 
 		private $pageVisibility;
-		private $modeEcriture = false;
 
 		//-----------------------------------------------
 		// Constructeur
@@ -28,6 +28,9 @@
 			if ($_SESSION["visibility"] < $this->pageVisibility) {
 				header("location:login");
 				exit;
+			}
+			if (empty($_SESSION["mode"])) {
+				$_SESSION["mode"] = CommonAction::$MODE_ECRITURE;
 			}
 
 			$this->executeAction();
@@ -53,7 +56,11 @@
 		// méthode pour vérifier si l'utilisateur est connecté
 		//-----------------------------------------------
 		public function enModeEcriture() {
-			return $modeEcriture;
+			if (isset($_POST["mode"])) {
+				$_SESSION["mode"] = $_POST["mode"];
+			}
+
+			return $_SESSION["mode"] == CommonAction::$MODE_ECRITURE;
 		}
 
 		//-----------------------------------------------

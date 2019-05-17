@@ -347,6 +347,7 @@ header {
 
 #bouton-deconnexion *, #bouton-menu-admin *, #bouton-mode-lecture *, #bouton-mode-ecriture * {
 	text-decoration: none;
+	text-align: center;
 }
 
 #bouton-deconnexion *:hover, #bouton-menu-admin *:hover, #bouton-mode-lecture *:hover, #bouton-mode-ecriture *:hover {
@@ -354,7 +355,6 @@ header {
 }
 
 #header-admin-grand, #bouton-deconnexion *, #bouton-menu-admin * {
-	text-align: center;
 	border: solid;
 	border-radius: 7px;
 	font-weight: bold;

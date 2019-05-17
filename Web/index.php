@@ -19,7 +19,7 @@
 								<div class="col-sm-12" id="cadre-index-titre">
 
 									<?php
-									if ($action->isLoggedIn() && $_POST["mode"] == "Mode écriture") {echo $action->optionsTitre();}
+									if ($action->isLoggedIn() && $action->enModeEcriture()) {echo $action->optionsTitre();}
 									else { ?>
 									<div id="index-titre">
 										<?php echo ContentDao::lireTitreIndex(); ?>

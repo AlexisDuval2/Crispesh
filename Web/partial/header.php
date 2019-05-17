@@ -115,7 +115,7 @@
 				</div>
 				<script src="js/admin.js"></script>
 
-				<?php echo $_POST["mode"]; ?>
+				<?php //echo $_POST["mode"]; ?>
 
 				<div id="header">
 					<div class="container">

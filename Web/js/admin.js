@@ -1,5 +1,6 @@
 
 let menuAdminEstVisible = false;
+let timerInterval = null;
 
 let bouton = document.getElementById("bouton-menu-admin");
 bouton.onclick = function () { menuAdmin(); }
@@ -18,5 +19,10 @@ const menuAdmin = () => {
 	else {
 		menuAdminEstVisible = true;
 		menuAdmin.style.display = "block";
+		setTimeout(temp, 1000);
 	}
+}
+
+function temp() {
+	alert("test");
 }

@@ -101,14 +101,23 @@
 			$boutonDeconnexion = "<div id=\"bouton-deconnexion\"><a href=\"logout\">Déconnexion</a></div>";
 			$boutonMenuAdmin = "<div id=\"bouton-menu-admin\"><a href=\"javascript:;\">Menu admin</a></div>";
 			$menuAdminA = "<div id=\"menu-admin\">";
-			$boutonModeLecture = "<div id=\"bouton-mode-lecture\"><a href=\"javascript:;\">Mode lecture</a></div>";
-			$boutonModeEcriture = "<div id=\"bouton-mode-ecriture\"><a href=\"javascript:;\">Mode écriture</a></div>";
+			$formulaireA = "<form method=\"post\">";
+			$divBoutonLectureA = "<div id=\"bouton-mode-lecture\">";
+			$boutonLecture = "<input type=\"submit\" name=\"mode\" value=\"Mode lecture\">";
+			$divBoutonLectureB = "</div>";
+			$divboutonEcritureA = "<div id=\"bouton-mode-ecriture\">";
+			$boutonEctriture = "<input type=\"submit\" name=\"mode\" value=\"Mode écriture\">";
+			$divboutonEcritureB = "</div>";
+			$formulaireB = "</form>";
 			$menuAdminB = "</div>";
 			$script = "<script src=\"js/admin.js\"></script>";
 
 			$resultat1 = $enTete . $petiteEnTete . $boutonDeconnexion . $boutonMenuAdmin;
-			$resultat2 = $menuAdminA . $boutonModeLecture . $boutonModeEcriture . $menuAdminB . $script;
+			$resultat2 = $menuAdminA . $formulaireA;
+			$resultat3 = $divBoutonLectureA . $boutonLecture . $divBoutonLectureB;
+			$resultat4 = $divboutonEcritureA . $boutonEctriture . $divboutonEcritureB;
+			$resultat5 = $formulaireB . $menuAdminB . $script;
 
-			return $resultat1 . $resultat2;
+			return $resultat1 . $resultat2 . $resultat3 . $resultat4 . $resultat5;
 		}
 	}

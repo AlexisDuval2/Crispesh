@@ -97,25 +97,7 @@
 					</div><!-- container -->
 				</div><!-- header-top -->
 
-				<?php //if ($action->isLoggedIn()) {echo $action->montrerOptions();} ?>
-
-				<div id="header-admin-grand">Vous êtes en mode administrateur</div>
-				<div id="header-admin-petit">mode admin</div>
-				<div id="bouton-deconnexion"><a href="logout">Déconnexion</a></div>
-				<div id="bouton-menu-admin"><a href="javascript:;">Menu admin</a></div>
-				<div id="menu-admin">
-					<form method="post">
-						<div id="bouton-mode-lecture">
-							<input type="submit" name="mode" value="Mode lecture">
-						</div>
-						<div id="bouton-mode-ecriture">
-							<input type="submit" name="mode" value="Mode écriture">
-						</div>
-					</form>
-				</div>
-				<script src="js/admin.js"></script>
-
-				<?php //echo $_POST["mode"]; ?>
+				<?php if ($action->isLoggedIn()) {echo $action->montrerOptions();} ?>
 
 				<div id="header">
 					<div class="container">

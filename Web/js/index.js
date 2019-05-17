@@ -4,7 +4,7 @@ window.onload = () => {
 }
 
 //-----------------------------------------------
-// méthode pour confirmer les modifications (admin)
+// fonction pour confirmer les modifications (admin)
 //-----------------------------------------------
 const ecouterLesBoutonsModifier = () => {
 	let message = "Vos modifications ont été enregistrées";

@@ -21,6 +21,9 @@ const couleurLigne = "white";
 let on = false;
 let boutonMenu = document.getElementById(idBoutonMenu);
 let divAnimation = document.getElementById(idDivAnimation);
+let y = 0;
+let bougeVersLeBas = true;
+let compteur = 0;
 
 //-----------------------------------------------
 // initialisation
@@ -29,14 +32,24 @@ boutonMenu.style.backgroundColor = couleurOff;
 boutonMenu.style.border = "none";
 boutonMenu.onclick = function () { animerMenu(); }
 
-let node = document.createElement("div");
-node.style.height = hauteurLigne;
-node.style.backgroundColor = couleurLigne;
-divAnimation.appendChild(node);
+let node1 = document.createElement("div");
+let node2 = document.createElement("div");
+let node3 = document.createElement("div");
+let lignes = [node1, node2, node3];
+
+for (let i = 0; i < lignes.length; i++) {
+	let ligne = lignes[i];
+
+	ligne.style.height = hauteurLigne;
+	ligne.style.backgroundColor = couleurLigne;
+	ligne.style.marginBottom = hauteurLigne;
+	divAnimation.appendChild(ligne);
+}
+
 divAnimation.style.display = "none";
 
 //-----------------------------------------------
-// méthode pour animer le menu mobile
+// fonction pour animer le menu mobile
 //-----------------------------------------------
 const animerMenu = () => {
 
@@ -46,6 +59,9 @@ const animerMenu = () => {
 		boutonMenu.style.width = largeurCarre;
 		boutonMenu.style.backgroundSize = "0";
 		divAnimation.style.display = "block";
+		y = 0;
+		compteur = 0;
+		setInterval(animerLesLignes, 5);
 	}
 	else {
 		on = false;
@@ -54,4 +70,36 @@ const animerMenu = () => {
 		boutonMenu.style.backgroundSize = largeurNormale;
 		divAnimation.style.display = "none";
 	}
+}
+
+//-----------------------------------------------
+// fonction pour animer le menu mobile
+//-----------------------------------------------
+const animerLesLignes = () => {
+
+	if (y == 0 && compteur == 5) {
+		y = 0;
+	}
+	else {
+		if (bougeVersLeBas) {
+			if (y <= 15) {
+				y++;
+			}
+			else {
+				bougeVersLeBas = false;
+				compteur++;
+			}
+		}
+		else {
+			if (y >= -15) {
+				y--;
+			}
+			else {
+				bougeVersLeBas = true;
+				compteur++;
+			}
+		}
+	}
+
+	divAnimation.style.marginTop = y + "px";
 }

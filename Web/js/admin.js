@@ -10,7 +10,7 @@ let boutonMenuAdmin = document.getElementById("bouton-menu-admin");
 boutonMenuAdmin.onclick = function () { controlerMenuAdmin(); }
 
 //-----------------------------------------------
-// méthode pour afficher/masquer le menu admin
+// fonction pour afficher/masquer le menu admin
 //-----------------------------------------------
 const controlerMenuAdmin = () => {
 
@@ -45,7 +45,7 @@ let accelerationX = ACCELERATION_X_INIT;
 let animationTerminee = false;
 
 //-----------------------------------------------
-// méthode pour réinitialiser l'animation
+// fonction pour réinitialiser l'animation
 //-----------------------------------------------
 const reinitialiserAnimation = () => {
 	x = X_INIT;
@@ -55,7 +55,7 @@ const reinitialiserAnimation = () => {
 }
 
 //-----------------------------------------------
-// méthode pour animer les boutons
+// fonction pour animer les boutons
 //-----------------------------------------------
 const animerLesBoutons = () => {
 	animationLecture();
@@ -63,7 +63,7 @@ const animerLesBoutons = () => {
 }
 
 //-----------------------------------------------
-// méthode pour animer le bouton "mode lecture"
+// fonction pour animer le bouton "mode lecture"
 //-----------------------------------------------
 const animationLecture = () => {
 
@@ -74,7 +74,7 @@ const animationLecture = () => {
 }
 
 //-----------------------------------------------
-// méthode pour animer le bouton "mode écriture"
+// fonction pour animer le bouton "mode écriture"
 //-----------------------------------------------
 const animationEcriture = () => {
 
@@ -85,7 +85,7 @@ const animationEcriture = () => {
 }
 
 //-----------------------------------------------
-// méthode pour faire l'animation
+// fonction pour faire l'animation
 //-----------------------------------------------
 const bougerGaucheDroite = (id, mode) => {
 

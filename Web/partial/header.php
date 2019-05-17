@@ -119,6 +119,7 @@
 								<!-- MENU -->
 								<nav>
 									<a id="mobile-menu-button" href="javascript:;">
+										<div id="animation-mobile"></div>
 									</a>
 									<ul class="menu clearfix" id="menu">
 										<li>

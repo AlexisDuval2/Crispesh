@@ -21,13 +21,14 @@ const controlerMenuAdmin = () => {
 		menuAdmin.style.display = "block";
 		menuAdmin.style.opacity = "1";
 		reinitialiserAnimation();
-		setInterval(animationMenuClic, 5);
+		setInterval(animationLecture, 5);
+		setInterval(animationEcriture, 5);
 	}
 }
 
 let X_INIT = 11;
-let VITESSE_X_INIT = 10;
-let ACCELERATION_X_INIT = -0.1;
+let VITESSE_X_INIT = 15;
+let ACCELERATION_X_INIT = -0.3;
 let X_FINAL = 10;
 
 let x = X_INIT;
@@ -42,15 +43,27 @@ const reinitialiserAnimation = () => {
 	animationTerminee = false;
 }
 
-const animationMenuClic = () => {
+const animationLecture = () => {
 
-	let boutonLecture = document.getElementById("bouton-mode-lecture");
-	let htmlboutonLectureA = "<input name=\"mode\" value=\"Mode lecture\" type=\"submit\" style=\"right: ";
-	let htmlboutonLectureB = "px;\">"
+	let idBoutonLecture = "bouton-mode-lecture";
+	let modeLecture = "Mode lecture";
 
-	let boutonEcriture = document.getElementById("bouton-mode-ecriture");
-	let htmlboutonEcritureA = "<input name=\"mode\" value=\"Mode écriture\" type=\"submit\" style=\"right: ";
-	let htmlBoutonEcritureB = "px;\">"
+	bougerGaucheDroite(idBoutonLecture, modeLecture);
+}
+
+const animationEcriture = () => {
+
+	let idBoutonEcriture = "bouton-mode-ecriture";
+	let modeEcriture = "Mode écriture";
+
+	bougerGaucheDroite(idBoutonEcriture, modeEcriture);
+}
+
+const bougerGaucheDroite = (id, mode) => {
+
+	let bouton = document.getElementById(id);
+	let htmlboutonA = "<input name=\"mode\" value=\"" + mode + "\" type=\"submit\" style=\"right: ";
+	let htmlboutonB = "px;\">"
 
 	if (!animationTerminee) {
 
@@ -62,6 +75,6 @@ const animationMenuClic = () => {
 			animationTerminee = true;
 		}
 
-		boutonLecture.innerHTML = htmlboutonLectureA + x + htmlboutonLectureB;
+		bouton.innerHTML = htmlboutonA + x + htmlboutonB;
 	}
 }

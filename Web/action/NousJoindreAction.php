@@ -10,6 +10,7 @@
 		public static $NB_CARAC_PAR_LIGNE = 50;
 		public static $UTF_8 = "Content-Type: text/html; charset=UTF-8";
 		public static $ERREUR_NOM = "<script>alert(\"Le champ \\\"nom\\\" est obligatoire\")</script>";
+		public static $ERREUR_COURRIEL = "<script>alert(\"Le champ \\\"courriel\\\" est obligatoire\")</script>";
 		public static $ERREUR_SUJET = "<script>alert(\"Le champ \\\"sujet\\\" est obligatoire\")</script>";
 		public static $ERREUR_MSG = "<script>alert(\"Le champ \"message\" est obligatoire\")</script>";
 
@@ -21,13 +22,10 @@
 		}
 
 		//-----------------------------------------------
-		// méthode principale
+		// fonction principale
 		//-----------------------------------------------
 		protected function executeAction() {
-
-			if ($this->nomOk()) {
-				echo "nom ok";
-			}
+			if ($this->nomOk() && $this->courrielOk()) {echo "nom + courriel ok";}
 
 			// if ($this->messageEstValide()) {
 			// 	echo "message est valide";
@@ -35,22 +33,33 @@
 			// }
 		}
 
+		//-----------------------------------------------
+		// fonction pour vérifier nom
+		//-----------------------------------------------
 		private function nomOk() {
-
 			$nomOk = false;
-
 			if (isset($_POST["nom"])) {
-				if ($_POST["nom"] != "") {
-					$nomOk = true;
-				}
-				else {
-					echo NousJoindreAction::$ERREUR_NOM;
-				}
+				if ($_POST["nom"] != "") {$nomOk = true;}
+				else {echo NousJoindreAction::$ERREUR_NOM;}
 			}
-
 			return $nomOk;
 		}
 
+		//-----------------------------------------------
+		// fonction pour vérifier courriel
+		//-----------------------------------------------
+		private function courrielOk() {
+			$courrielOk = false;
+			if (isset($_POST["courriel"])) {
+				if ($_POST["courriel"] != "") {$courrielOk = true;}
+				else {echo NousJoindreAction::$ERREUR_COURRIEL;}
+			}
+			return $courrielOk;
+		}
+
+		//-----------------------------------------------
+		// fonction pour afficher nom
+		//-----------------------------------------------
 		public function nom() {
 			$nom = "";
 			if (isset($_POST["nom"])) {$nom = $_POST["nom"];}
@@ -58,7 +67,16 @@
 		}
 
 		//-----------------------------------------------
-		// méthodes pour obtenir données
+		// fonction pour afficher courriel
+		//-----------------------------------------------
+		public function courriel() {
+			$courriel = "";
+			if (isset($_POST["courriel"])) {$nom = $_POST["courriel"];}
+			return $courriel;
+		}
+
+		//-----------------------------------------------
+		// fonctions pour obtenir données
 		//-----------------------------------------------
 		public function messageEstValide() {
 

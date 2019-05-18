@@ -45,7 +45,7 @@
 						<div class="col-sm-7">
 							<form method="post">
 								<input name="nom" type="text" placeholder="Nom" value="<?php echo $action->nom() ?>">
-								<input name="courriel" type="email" placeholder="Courriel">
+								<input name="courriel" type="email" placeholder="Courriel" value="<?php echo $action->courriel() ?>">
 								<input name="sujet" type="text" placeholder="Sujet">
 								<textarea name="msg" placeholder="Message"></textarea>
 								<input type="submit" value="Soumettre">

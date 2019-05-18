@@ -68,9 +68,10 @@ const animerLesBoutons = () => {
 const animationLecture = () => {
 
 	let idBoutonLecture = "bouton-mode-lecture";
+	let idInputLecture = "input-mode-lecture";
 	let modeLecture = "Mode lecture";
 
-	bougerGaucheDroite(idBoutonLecture, modeLecture);
+	bougerGaucheDroite(idBoutonLecture, idInputLecture, modeLecture);
 }
 
 //-----------------------------------------------
@@ -79,18 +80,19 @@ const animationLecture = () => {
 const animationEcriture = () => {
 
 	let idBoutonEcriture = "bouton-mode-ecriture";
+	let idInputEcriture = "input-mode-ecriture";
 	let modeEcriture = "Mode écriture";
 
-	bougerGaucheDroite(idBoutonEcriture, modeEcriture);
+	bougerGaucheDroite(idBoutonEcriture, idInputEcriture, modeEcriture);
 }
 
 //-----------------------------------------------
 // fonction pour faire l'animation
 //-----------------------------------------------
-const bougerGaucheDroite = (id, mode) => {
+const bougerGaucheDroite = (idBouton, idInput, mode) => {
 
-	let bouton = document.getElementById(id);
-	let htmlboutonA = "<input name=\"mode\" value=\"" + mode + "\" type=\"submit\" style=\"right: ";
+	let bouton = document.getElementById(idBouton);
+	let htmlboutonA = "<input id=\"" + idInput + "\" name=\"mode\" value=\"" + mode + "\" type=\"submit\" style=\"right: ";
 	let htmlboutonB = "px;\">"
 
 	if (!animationTerminee) {

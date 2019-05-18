@@ -225,7 +225,7 @@ strong {
 	font-weight: 500;
 }
 
-a {
+a, input {
 	color: #a8e12a;
 	-webkit-transition: color 0.2s;
 	transition: color 0.2s;
@@ -350,7 +350,7 @@ header {
 	text-align: center;
 }
 
-#bouton-deconnexion *:hover, #bouton-menu-admin *:hover, #bouton-mode-lecture *:hover, #bouton-mode-ecriture *:hover {
+#bouton-deconnexion *:hover, #bouton-menu-admin *:hover, #input-mode-lecture:hover, #input-mode-ecriture:hover {
 	background-color: rgb(168, 225, 42);
 }
 

@@ -4,54 +4,99 @@
 
 	class NousJoindreAction extends CommonAction {
 
-		public static $NB_CARAC_PAR_LIGNE = 70;
+		//-----------------------------------------------
+		// constantes
+		//-----------------------------------------------
+		public static $NB_CARAC_PAR_LIGNE = 50;
+		public static $UTF_8 = "Content-Type: text/html; charset=UTF-8";
+		public static $ERREUR_NOM = "<script>alert(\"Le champ \\\"nom\\\" est obligatoire\")</script>";
+		public static $ERREUR_SUJET = "<script>alert(\"Le champ \\\"sujet\\\" est obligatoire\")</script>";
+		public static $ERREUR_MSG = "<script>alert(\"Le champ \"message\" est obligatoire\")</script>";
 
+		//-----------------------------------------------
+		// Constructeur
+		//-----------------------------------------------
 		public function __construct() {
 			parent::__construct(CommonAction::$VISIBILITY_PUBLIC);
 		}
 
+		//-----------------------------------------------
+		// méthode principale
+		//-----------------------------------------------
 		protected function executeAction() {
 
-			if (isset($_POST["nom"])) {
-				echo $_POST["nom"];
+			if (empty($_SESSION["nom"])) {
+				$_SESSION["nom"] = $_POST["nom"];
 			}
-			echo "<br>";
-			if (isset($_POST["courriel"])) {
-				echo $_POST["courriel"];
-			}
-			echo "<br>";
-			if (isset($_POST["sujet"])) {
-				echo $_POST["sujet"];
-			}
-			echo "<br>";
-			if (isset($_POST["msg"])) {
-				echo $_POST["msg"];
-			}
-			echo "<br>";
+
+			// if ($this->messageEstValide()) {
+			// 	echo "message est valide";
+			// 	echo $this->envoyerCourriel();
+			// }
 		}
 
-		public function messageEstValide() {
+		public function nomOk() {
 
-			$messageEstValide = false;
+			$nomOk = false;
 
-			$nomOk = isset($_POST["name"]);
-			$courrielOk = isset($_POST["email"]);
-			$sujetOk = isset($_POST["subject"]);
-			$msgOk = isset($_POST["message"]);
-
-			if ($nomOk && $courrielOk && $sujetOk && $msgOk) {
-				$messageEstValide = true;
+			if (isset($_POST["nom"])) {
+				if ($_POST["nom"] != "") {
+					$nomOk = true;
+				}
+				else {
+					echo NousJoindreAction::$ERREUR_NOM;
+				}
 			}
 
-			return $messageEstValide;
+			return $nomOk;
+		}
+
+		//-----------------------------------------------
+		// méthodes pour obtenir données
+		//-----------------------------------------------
+		public function messageEstValide() {
+
+			// $messageEstValide = false;
+
+
+			// $valeursNonNulles = 			if (isset($_POST["nom"]) && isset($_POST["courriel"]) && isset($_POST["sujet"]) && isset($_POST["msg"])) {
+
+
+			// if (isset($_POST["nom"]) && isset($_POST["courriel"]) && isset($_POST["sujet"]) && isset($_POST["msg"])) {
+			// 	$messageEstValide = true;
+			// }
+			// else {
+			// 	if (!$this->nomOk()) {
+			// 		echo NousJoindreAction::ERREUR_NOM;
+			// 	}
+
+			// }
+			// $this->courrielOk()
+			// $this->sujetOk()
+			// $this->msgOk()
+
+			// $this->nomOk()
+			// $this->courrielOk()
+			// $this->sujetOk()
+			// $this->msgOk()
+
+			// if (!$nomOk) {
+			// }
+			// elseif ($nomOk && $courrielOk && $sujetOk && $msgOk) {
+			// 	$messageEstValide = true;
+			// }
+
+			// return $messageEstValide;
 		}
 
 		public function envoyerCourriel() {
 
-			$sujet = $_POST["subject"];
-			$messageComplet = $_POST["name"] . $_POST["email"] . $_POST["message"];
+			// $sujet = $_POST["sujet"];
+			// $messageComplet = $_POST["nom"] . $_POST["courriel"] . $_POST["msg"];
 
-			// $messageComplet = wordwrap($message, NousJoindreAction::$NB_CARAC_PAR_LIGNE);
-			mail("alexisduval@outlook.com", $sujet, $messageComplet);
+			// $messageComplet = wordwrap($messageComplet, NousJoindreAction::$NB_CARAC_PAR_LIGNE);
+			// mail("alexisduval@outlook.com", $sujet, $messageComplet, NousJoindreAction::$UTF_8);
+
+			// return $sujet . $messageComplet;
 		}
 	}

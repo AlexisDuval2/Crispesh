@@ -25,8 +25,8 @@
 		//-----------------------------------------------
 		protected function executeAction() {
 
-			if (empty($_SESSION["nom"])) {
-				$_SESSION["nom"] = $_POST["nom"];
+			if ($this->nomOk()) {
+				echo "nom ok";
 			}
 
 			// if ($this->messageEstValide()) {
@@ -35,7 +35,7 @@
 			// }
 		}
 
-		public function nomOk() {
+		private function nomOk() {
 
 			$nomOk = false;
 
@@ -49,6 +49,12 @@
 			}
 
 			return $nomOk;
+		}
+
+		public function nom() {
+			$nom = "";
+			if (isset($_POST["nom"])) {$nom = $_POST["nom"];}
+			return $nom;
 		}
 
 		//-----------------------------------------------

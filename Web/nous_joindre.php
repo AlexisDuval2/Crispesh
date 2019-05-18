@@ -43,15 +43,12 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-7">
-							<form id="contact-form" name="contact-form" method="post" action="assets/php/send">
-								<fieldset>
-									<div id="alert-area"></div>
-									<input class="col-xs-12" id="name" type="text" name="name" placeholder="Nom">
-									<input class="col-xs-12" id="email" type="email" name="email" placeholder="Courriel">
-									<input class="col-xs-12" id="subject" type="text" name="subject" placeholder="Sujet">
-									<textarea class="col-xs-12" id="message" name="message" rows="8" cols="25" placeholder="Message"></textarea>
-									<input class="btn btn-blue" id="submit" type="submit" name="submit" value="Soumettre">
-								</fieldset>
+							<form method="post">
+								<input name="nom" type="text" placeholder="Nom" value="">
+								<input name="courriel" type="email" placeholder="Courriel" value="">
+								<input name="sujet" type="text" placeholder="Sujet" value="">
+								<textarea name="msg" placeholder="Message" value=""></textarea>
+								<input type="submit" value="Soumettre">
 							</form>
 						</div><!-- col -->
 						<div class="col-sm-5">

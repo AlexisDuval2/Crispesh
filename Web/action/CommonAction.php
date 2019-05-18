@@ -39,28 +39,17 @@
 		protected abstract function executeAction();
 
 		//-----------------------------------------------
-		// méthode pour obtenir le nom de l'utilisateur
+		// méthode pour obtenir le nom de l'admin
 		//-----------------------------------------------
 		public function getUsername() {
 			return empty($_SESSION["username"]) ? "Invité" : $_SESSION["username"];
 		}
 
 		//-----------------------------------------------
-		// méthode pour vérifier si l'utilisateur est connecté
+		// méthode pour vérifier si l'admin est connecté
 		//-----------------------------------------------
 		public function isLoggedIn() {
 			return $_SESSION["visibility"] > CommonAction::$VISIBILITY_PUBLIC;
-		}
-
-		//-----------------------------------------------
-		// méthode pour vérifier si l'utilisateur est connecté
-		//-----------------------------------------------
-		public function enModeEcriture() {
-			if (isset($_POST["mode"])) {
-				$_SESSION["mode"] = $_POST["mode"];
-			}
-
-			return $_SESSION["mode"] == CommonAction::$MODE_ECRITURE;
 		}
 
 		//-----------------------------------------------
@@ -114,5 +103,16 @@
 			$resultat4 = $formulaireB . $menuAdminB . $script;
 
 			return $resultat1 . $resultat2 . $resultat3 . $resultat4;
+		}
+
+		//-----------------------------------------------
+		// méthode pour vérifier si l'admin est en mode écriture
+		//-----------------------------------------------
+		public function enModeEcriture() {
+			if (isset($_POST["mode"])) {
+				$_SESSION["mode"] = $_POST["mode"];
+			}
+
+			return $_SESSION["mode"] == CommonAction::$MODE_ECRITURE;
 		}
 	}

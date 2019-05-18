@@ -61,7 +61,7 @@ const animerMenu = () => {
 		divAnimation.style.display = "block";
 		y = 0;
 		compteur = 0;
-		setInterval(animerLesLignes, 5);
+		setInterval(animerLesLignes, 15);
 	}
 	else {
 		on = false;
@@ -83,7 +83,7 @@ const animerLesLignes = () => {
 	else {
 		if (bougeVersLeBas) {
 			if (y <= 15) {
-				y++;
+				y += 4;
 			}
 			else {
 				bougeVersLeBas = false;
@@ -92,7 +92,7 @@ const animerLesLignes = () => {
 		}
 		else {
 			if (y >= -15) {
-				y--;
+				y -= 4;
 			}
 			else {
 				bougeVersLeBas = true;

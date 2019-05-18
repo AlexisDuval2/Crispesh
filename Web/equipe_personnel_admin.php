@@ -1,5 +1,6 @@
 
 <?php
+	require_once("action/DAO/ContentDao.php");
 	require_once("action/EquipePersonnelAdminAction.php");
 	$action = new EquipePersonnelAdminAction();
 	$action->execute();
@@ -60,12 +61,23 @@
 
 						<div class="col-sm-7 wrap_liste_personnel">
 							<div class="col-sm-12">
-								<h6>Roch Ducharme</h6>
+
+								<?php
+									if ($action->isLoggedIn() && $action->enModeEcriture()) {
+										echo $action->optionsTexte();
+									} else {
+								?>
+								<div id="index-texte">
+									<?php echo ContentDao::lireTexteIndex(); ?>
+								</div>
+								<?php } ?>
+
+								<!-- <h6>Roch Ducharme</h6>
 								<p>Directeur général</p>
 								<ul>
 									<li>rducharme@cvm.qc.ca</li>
 									<li>514 982-3437, poste 2835</li>
-								</ul>
+								</ul> -->
 							</div>
 							<div class="col-sm-12">
 								<hr>

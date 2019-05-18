@@ -7,7 +7,6 @@
 		//-----------------------------------------------
 		// constantes
 		//-----------------------------------------------
-		public static $NB_CARAC_PAR_LIGNE = 50;
 		public static $UTF_8 = "Content-Type: text/html; charset=UTF-8";
 		public static $ERREUR_NOM = "<script>alert(\"Le champ \\\"nom\\\" est obligatoire.\")</script>";
 		public static $ERREUR_COURRIEL = "<script>alert(\"Le champ \\\"courriel\\\" est obligatoire.\")</script>";
@@ -74,9 +73,15 @@
 		// fonction pour envoyer un courriel
 		//-----------------------------------------------
 		private function envoyerCourriel() {
+
 			$sujet = $_POST["sujet"];
-			$messageComplet = $_POST["nom"] . "<br>" . $_POST["courriel"] . "<br>" . $_POST["msg"];
-			$messageComplet = wordwrap($messageComplet, self::$NB_CARAC_PAR_LIGNE);
+
+			$nom = "Nom: " . $_POST["nom"] . "<br><br>";
+			$courriel = "Courriel: " . $_POST["courriel"] . "<br><br>";
+			$texte = "Message: " . $_POST["msg"];
+
+			$messageComplet = $nom . $courriel . $texte;
+
 			mail(self::$ADRESSE_COURRIEL, $sujet, $messageComplet, self::$UTF_8);
 		}
 	}

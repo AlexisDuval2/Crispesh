@@ -44,10 +44,10 @@
 					<div class="row">
 						<div class="col-sm-7">
 							<form method="post">
-								<input name="nom" type="text" placeholder="Nom" value="<?php echo $action->nom() ?>">
-								<input name="courriel" type="email" placeholder="Courriel" value="<?php echo $action->courriel() ?>">
-								<input name="sujet" type="text" placeholder="Sujet">
-								<textarea name="msg" placeholder="Message"></textarea>
+								<input name="nom" type="text" placeholder="Nom" value="<?php echo $action->afficher("nom") ?>">
+								<input name="courriel" type="email" placeholder="Courriel" value="<?php echo $action->afficher("courriel") ?>">
+								<input name="sujet" type="text" placeholder="Sujet" value="<?php echo $action->afficher("sujet") ?>">
+								<textarea name="msg" placeholder="Message" value="<?php echo $action->afficher("msg") ?>"></textarea>
 								<input type="submit" value="Soumettre">
 							</form>
 						</div><!-- col -->

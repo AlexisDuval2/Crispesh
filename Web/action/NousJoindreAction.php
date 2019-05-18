@@ -26,108 +26,47 @@
 		// fonction principale
 		//-----------------------------------------------
 		protected function executeAction() {
-			if ($this->nomOk() && $this->courrielOk()) {echo "nom + courriel ok";}
 
-			// if ($this->messageEstValide()) {
-			// 	echo "message est valide";
-			// 	echo $this->envoyerCourriel();
-			// }
-		}
+			$nomOk = $this->donneeOk("nom");
+			$courrielOk = $this->donneeOk("courriel");
+			$sujetOk = $this->donneeOk("sujet");
+			$msgOk = $this->donneeOk("msg");
 
-		//-----------------------------------------------
-		// fonction pour vérifier nom
-		//-----------------------------------------------
-		private function nomOk() {
-			$nomOk = false;
-			if (isset($_POST["nom"])) {
-				if ($_POST["nom"] != "") {$nomOk = true;}
-				else {echo self::$ERREUR_NOM;}
+			if ($nomOk && $courrielOk && $sujetOk && $msgOk) {
+				echo "tout est ok";
 			}
-			return $nomOk;
 		}
 
 		//-----------------------------------------------
-		// fonction pour vérifier courriel
+		// fonction pour afficher les valeurs du formulaire
 		//-----------------------------------------------
-		private function courrielOk() {
-			$courrielOk = false;
-			if (isset($_POST["courriel"])) {
-				if ($_POST["courriel"] != "") {$courrielOk = true;}
-				else {echo self::$ERREUR_COURRIEL;}
+		public function afficher($cle) {
+			$resultat = "";
+			if (isset($_POST[$cle])) {$resultat = $_POST[$cle];}
+			return $resultat;
+		}
+
+		//-----------------------------------------------
+		// fonction pour vérifier la validité d'une donnée
+		//-----------------------------------------------
+		private function donneeOk($cle) {
+			$donneeOk = false;
+			if (isset($_POST[$cle])) {
+				if ($_POST[$cle] != "") {$donneeOk = true;}
+				else {
+					if ($cle == "nom") {echo self::$ERREUR_NOM;}
+					else if ($cle == "courriel") {echo self::$ERREUR_COURRIEL;}
+					else if ($cle == "sujet") {echo self::$ERREUR_SUJET;}
+					else if ($cle == "msg") {echo self::$ERREUR_MSG;}
+				}
 			}
-			return $courrielOk;
+			return $donneeOk;
 		}
 
 		//-----------------------------------------------
-		// fonction pour vérifier sujet
+		// fonction pour envoyer un courriel
 		//-----------------------------------------------
-		private function sujetOk() {
-			$sujetOk = false;
-			if (isset($_POST["sujet"])) {
-				if ($_POST["sujet"] != "") {$sujetOk = true;}
-				else {echo self::$ERREUR_SUJET;}
-			}
-			return $courrielOk;
-		}
-
-
-		//-----------------------------------------------
-		// fonction pour afficher nom
-		//-----------------------------------------------
-		public function nom() {
-			$nom = "";
-			if (isset($_POST["nom"])) {$nom = $_POST["nom"];}
-			return $nom;
-		}
-
-		//-----------------------------------------------
-		// fonction pour afficher courriel
-		//-----------------------------------------------
-		public function courriel() {
-			$courriel = "";
-			if (isset($_POST["courriel"])) {$nom = $_POST["courriel"];}
-			return $courriel;
-		}
-
-		//-----------------------------------------------
-		// fonctions pour obtenir données
-		//-----------------------------------------------
-		public function messageEstValide() {
-
-			// $messageEstValide = false;
-
-
-			// $valeursNonNulles = 			if (isset($_POST["nom"]) && isset($_POST["courriel"]) && isset($_POST["sujet"]) && isset($_POST["msg"])) {
-
-
-			// if (isset($_POST["nom"]) && isset($_POST["courriel"]) && isset($_POST["sujet"]) && isset($_POST["msg"])) {
-			// 	$messageEstValide = true;
-			// }
-			// else {
-			// 	if (!$this->nomOk()) {
-			// 		echo NousJoindreAction::ERREUR_NOM;
-			// 	}
-
-			// }
-			// $this->courrielOk()
-			// $this->sujetOk()
-			// $this->msgOk()
-
-			// $this->nomOk()
-			// $this->courrielOk()
-			// $this->sujetOk()
-			// $this->msgOk()
-
-			// if (!$nomOk) {
-			// }
-			// elseif ($nomOk && $courrielOk && $sujetOk && $msgOk) {
-			// 	$messageEstValide = true;
-			// }
-
-			// return $messageEstValide;
-		}
-
-		public function envoyerCourriel() {
+		private function envoyerCourriel() {
 
 			// $sujet = $_POST["sujet"];
 			// $messageComplet = $_POST["nom"] . $_POST["courriel"] . $_POST["msg"];

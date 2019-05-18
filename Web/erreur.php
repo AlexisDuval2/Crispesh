@@ -28,7 +28,7 @@
 									font-style: italic;
 									text-align: center;
 									margin-bottom: -55px;">
-									<?php echo $action->getErrorMessage() ?>
+									<?php echo $action->msgErreur() ?>
 								</h1>
 							</div><!-- widget-categories -->
 						</div><!-- col -->

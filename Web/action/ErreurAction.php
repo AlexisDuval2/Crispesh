@@ -11,7 +11,7 @@
 		protected function executeAction() {
 		}
 
-		public function getErrorMessage() {
+		public function msgErreur() {
 
 			$message = "Page \"erreur\"";
 

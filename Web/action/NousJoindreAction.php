@@ -13,6 +13,7 @@
 		public static $ERREUR_COURRIEL = "<script>alert(\"Le champ \\\"courriel\\\" est obligatoire.\")</script>";
 		public static $ERREUR_SUJET = "<script>alert(\"Le champ \\\"sujet\\\" est obligatoire.\")</script>";
 		public static $ERREUR_MSG = "<script>alert(\"Le champ \\\"message\\\" est obligatoire.\")</script>";
+		public static $MSG_SUCCES = "<script>alert(\"Merci! Votre message a été envoyé. Nous vous réponderons sous peu.\")</script>";
 		public static $ADRESSE_COURRIEL = "alexisduval@outlook.com";
 
 		//-----------------------------------------------
@@ -28,10 +29,13 @@
 		protected function executeAction() {
 
 			if ($this->donneeOk("nom")
-					&& $this->donneeOk("courriel")
-					&& $this->donneeOk("sujet")
-					&& $this->donneeOk("msg")) {
-				echo "tout est ok";
+			&& $this->donneeOk("courriel")
+			&& $this->donneeOk("sujet")
+			&& $this->donneeOk("msg")) {
+
+				$this->envoyerCourriel();
+				echo self::$MSG_SUCCES;
+				$_POST = [];
 			}
 		}
 
@@ -70,13 +74,9 @@
 		// fonction pour envoyer un courriel
 		//-----------------------------------------------
 		private function envoyerCourriel() {
-
-			// $sujet = $_POST["sujet"];
-			// $messageComplet = $_POST["nom"] . $_POST["courriel"] . $_POST["msg"];
-
-			// $messageComplet = wordwrap($messageComplet, NousJoindreAction::$NB_CARAC_PAR_LIGNE);
-			// mail("alexisduval@outlook.com", $sujet, $messageComplet, NousJoindreAction::$UTF_8);
-
-			// return $sujet . $messageComplet;
+			$sujet = $_POST["sujet"];
+			$messageComplet = $_POST["nom"] . "<br>" . $_POST["courriel"] . "<br>" . $_POST["msg"];
+			$messageComplet = wordwrap($messageComplet, self::$NB_CARAC_PAR_LIGNE);
+			mail(self::$ADRESSE_COURRIEL, $sujet, $messageComplet, self::$UTF_8);
 		}
 	}

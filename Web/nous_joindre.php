@@ -43,12 +43,12 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-7">
-							<form method="post">
-								<input name="nom" type="text" placeholder="Nom" value="<?php echo $action->afficher("nom") ?>">
-								<input name="courriel" type="email" placeholder="Courriel" value="<?php echo $action->afficher("courriel") ?>">
-								<input name="sujet" type="text" placeholder="Sujet" value="<?php echo $action->afficher("sujet") ?>">
-								<textarea name="msg" placeholder="Message" value="<?php echo $action->afficher("msg") ?>"></textarea>
-								<input type="submit" value="Soumettre">
+							<form id="formulaire-nous-joindre" method="post">
+								<input class="ligne-nous-joindre" name="nom" type="text" placeholder="Nom" value="<?php echo $action->afficher("nom") ?>">
+								<input class="ligne-nous-joindre" name="courriel" type="email" placeholder="Courriel" value="<?php echo $action->afficher("courriel") ?>">
+								<input class="ligne-nous-joindre" name="sujet" type="text" placeholder="Sujet" value="<?php echo $action->afficher("sujet") ?>">
+								<textarea class="ligne-nous-joindre" name="msg" placeholder="Message" value="<?php echo $action->afficher("msg") ?>"></textarea>
+								<input id="bouton-nous-joindre" type="submit" value="Soumettre">
 							</form>
 						</div><!-- col -->
 						<div class="col-sm-5">
@@ -72,10 +72,12 @@
 									<a href="https://www.facebook.com/Crispesh">
 										<img src="images/logos/facebook-icon.png">
 									</a>
+								</div>
+								<div id="linkedin-container">
 									<a href="https://www.linkedin.com/company/crispesh">
 										<img id="linkedin-icon" src="images/logos/linkedin-icon.png">
 									</a>
-								</div><!-- social-media -->
+								</div>
 							</div><!-- widget-contact -->
 							<div class="widget widget-social">
 								<div class="rond_background bleu droite grosseur_2" id="cercle_14"></div>
@@ -84,8 +86,6 @@
 						</div><!-- col -->
 					</div><!-- row -->
 				</div><!-- container -->
-
-				<hr>
 
 				<div class="container">
 					<div class="row">

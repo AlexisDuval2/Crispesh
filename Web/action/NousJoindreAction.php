@@ -13,6 +13,7 @@
 		public static $ERREUR_COURRIEL = "<script>alert(\"Le champ \\\"courriel\\\" est obligatoire\")</script>";
 		public static $ERREUR_SUJET = "<script>alert(\"Le champ \\\"sujet\\\" est obligatoire\")</script>";
 		public static $ERREUR_MSG = "<script>alert(\"Le champ \"message\" est obligatoire\")</script>";
+		public static $ADRESSE_COURRIEL = "alexisduval@outlook.com";
 
 		//-----------------------------------------------
 		// Constructeur
@@ -40,7 +41,7 @@
 			$nomOk = false;
 			if (isset($_POST["nom"])) {
 				if ($_POST["nom"] != "") {$nomOk = true;}
-				else {echo NousJoindreAction::$ERREUR_NOM;}
+				else {echo self::$ERREUR_NOM;}
 			}
 			return $nomOk;
 		}
@@ -52,10 +53,23 @@
 			$courrielOk = false;
 			if (isset($_POST["courriel"])) {
 				if ($_POST["courriel"] != "") {$courrielOk = true;}
-				else {echo NousJoindreAction::$ERREUR_COURRIEL;}
+				else {echo self::$ERREUR_COURRIEL;}
 			}
 			return $courrielOk;
 		}
+
+		//-----------------------------------------------
+		// fonction pour vérifier sujet
+		//-----------------------------------------------
+		private function sujetOk() {
+			$sujetOk = false;
+			if (isset($_POST["sujet"])) {
+				if ($_POST["sujet"] != "") {$sujetOk = true;}
+				else {echo self::$ERREUR_SUJET;}
+			}
+			return $courrielOk;
+		}
+
 
 		//-----------------------------------------------
 		// fonction pour afficher nom

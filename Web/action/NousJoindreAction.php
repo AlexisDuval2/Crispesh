@@ -13,7 +13,6 @@
 		public static $ERREUR_COURRIEL = "<script>alert(\"Le champ \\\"courriel\\\" est obligatoire.\")</script>";
 		public static $ERREUR_SUJET = "<script>alert(\"Le champ \\\"sujet\\\" est obligatoire.\")</script>";
 		public static $ERREUR_MSG = "<script>alert(\"Le champ \\\"message\\\" est obligatoire.\")</script>";
-		public static $ERREUR_MSG_TROP_COURT = "<script>alert(\"Il faut entrer au moins 10 caractères.\")</script>";
 		public static $ADRESSE_COURRIEL = "alexisduval@outlook.com";
 
 		//-----------------------------------------------
@@ -40,15 +39,12 @@
 		// fonction pour vérifier la validité d'une donnée
 		//-----------------------------------------------
 		private function donneeOk($cle) {
+
 			$donneeOk = false;
+
 			if (isset($_POST[$cle])) {
 				if ($_POST[$cle] != "") {
-					if ($_POST[$cle] == "msg" && length < 10) {
-						echo self::$ERREUR_MSG_TROP_COURT;
-					}
-					else {
-						$donneeOk = true;
-					}
+					$donneeOk = true;
 				}
 				else {
 					if ($cle == "nom") {echo self::$ERREUR_NOM;}
@@ -57,6 +53,7 @@
 					else if ($cle == "msg") {echo self::$ERREUR_MSG;}
 				}
 			}
+
 			return $donneeOk;
 		}
 

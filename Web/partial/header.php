@@ -53,7 +53,7 @@
 	<body>
 
 		<?php
-			$action->enModeEcriture();
+			if (!$action->estPageLogout()) {$action->enModeEcriture();}
 			if ($action->aUnFondSpecial()) {echo $action->fondSpecial();}
 			else {echo $action->fondNormal();}
 		?>

@@ -225,7 +225,7 @@ strong {
 	font-weight: 500;
 }
 
-a, input {
+a {
 	color: #a8e12a;
 	-webkit-transition: color 0.2s;
 	transition: color 0.2s;

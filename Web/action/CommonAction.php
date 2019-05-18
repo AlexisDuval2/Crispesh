@@ -67,6 +67,13 @@
 		}
 
 		//-----------------------------------------------
+		// méthode pour s'assurer que ce n'est pas la page logout
+		//-----------------------------------------------
+		public function estPageLogout() {
+			return basename($_SERVER["PHP_SELF"]) == "logout.php";
+		}
+
+		//-----------------------------------------------
 		// méthode pour mettre le fond spécial
 		//-----------------------------------------------
 		public function fondSpecial() {

@@ -12,12 +12,22 @@
 		protected function executeAction() {}
 
 		//-----------------------------------------------
+		// fonction pour trouver le nom de la page sans ".php"
+		//-----------------------------------------------
+		private static function trouverNomPage() {
+
+			$nomCompletPage = basename($_SERVER["PHP_SELF"]);
+
+			return substr_replace($nomCompletPage, "", -4);
+		}
+
+		//-----------------------------------------------
 		// méthode générique pour insérer le html pour un employé
 		//-----------------------------------------------
 		public function optionsEmploye($noEmp) {
 
-			$textareaName = "equipe-pers-admin-emp-" . $noEmp;
-			$formId = "ck-equipe-pers-admin-emp-" . $noEmp;
+			$textareaName = self::trouverNomPage() . $noEmp;
+			$formId = "ck-" . self::trouverNomPage() . $noEmp;
 			$hauteur = 150;
 
 			if (isset($_POST[$textareaName])) {

@@ -11,24 +11,6 @@
 
 		protected function executeAction() {}
 
-		// public function afficherCkEditor($textareaName, $formId, $contenu, $hauteur) {
-
-		// 	$formulaireA = "<form id=\"" . $formId . "\" method=\"post\">";
-		// 	$zoneTexteA = "<textarea name=\"" . $textareaName . "\">";
-		// 	$zoneTexteB = "</textarea>";
-		// 	$cadreBoutonModifierA = "<div class=\"cadre-bouton-modifier\">";
-		// 	$boutonModifier = "<button class=\"bouton-modifier\" type=\"submit\"><a href=\"javascript:;\">Modifier</a></button>";
-		// 	$cadreBoutonModifierB = "</div>";
-		// 	$ckEditor = "<script>CKEDITOR.replace(\"" . $textareaName . "\", {height: \"" . $hauteur . "px\"});</script>";
-		// 	$formulaireB = "</form >";
-
-		// 	$html_1 = $formulaireA . $zoneTexteA . $contenu . $zoneTexteB;
-		// 	$html_2 = $cadreBoutonModifierA . $boutonModifier . $cadreBoutonModifierB;
-		// 	$html_3 = $ckEditor . $formulaireB;
-
-		// 	return $html_1 . $html_2 . $html_3;
-		// }
-
 		//-----------------------------------------------
 		// méthode pour insérer le html pour modifier le titre (admin)
 		//-----------------------------------------------
@@ -39,10 +21,10 @@
 			$hauteur = 102;
 
 			if (isset($_POST[$textareaName])) {
-				ContentDao:: ecrireTitreIndex($_POST[$textareaName]);
+				ContentDao:: ecrire_TitreIndex($_POST[$textareaName]);
 			}
 
-			$contenu = ContentDao::lireTitreIndex();
+			$contenu = ContentDao::lire_TitreIndex();
 
 			return $this->afficherCkEditor($textareaName, $formId, $contenu, $hauteur);
 		}
@@ -57,10 +39,10 @@
 			$hauteur = 550;
 
 			if (isset($_POST[$textareaName])) {
-				ContentDao:: ecrireTexteIndex($_POST[$textareaName]);
+				ContentDao:: ecrire_TexteIndex($_POST[$textareaName]);
 			}
 
-			$contenu = ContentDao::lireTexteIndex();
+			$contenu = ContentDao::lire_TexteIndex();
 
 			return $this->afficherCkEditor($textareaName, $formId, $contenu, $hauteur);
 		}

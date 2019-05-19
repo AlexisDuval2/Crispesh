@@ -10,4 +10,23 @@
 		}
 
 		protected function executeAction() {}
+
+		//-----------------------------------------------
+		// méthode pour insérer le html pour modifier l'employé no 1
+		//-----------------------------------------------
+		public function optionsEmploye1() {
+
+			$textareaName = "equipe-pers-admin-emp-1";
+			$formId = "ck-equipe-pers-admin-emp-1";
+			$hauteur = 200;
+
+			if (isset($_POST[$textareaName])) {
+				ContentDao::ecrireEquipePersAdminChemin_b1($_POST[$textareaName]);
+			}
+
+			$contenu = ContentDao::lireEquipePersAdminChemin_b1();
+
+			return $this->afficherCkEditor($textareaName, $formId, $contenu, $hauteur);
+		}
+
 	}

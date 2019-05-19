@@ -64,7 +64,7 @@
 
 								<?php
 									if ($action->isLoggedIn() && $action->enModeEcriture()) {
-										echo $action->optionsTexte();
+										echo $action->optionsEmploye1();
 									} else {
 								?>
 								<div id="index-texte">

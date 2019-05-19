@@ -24,7 +24,7 @@
 										} else {
 									?>
 									<div id="index-titre">
-										<?php echo ContentDao::lireTitreIndex(); ?>
+										<?php echo ContentDao::lire_TitreIndex(); ?>
 									</div>
 									<?php } ?>
 
@@ -44,7 +44,7 @@
 								} else {
 							?>
 							<div id="index-texte">
-								<?php echo ContentDao::lireTexteIndex(); ?>
+								<?php echo ContentDao::lire_TexteIndex(); ?>
 							</div>
 							<?php } ?>
 

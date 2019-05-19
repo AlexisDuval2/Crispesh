@@ -12,21 +12,20 @@
 		protected function executeAction() {}
 
 		//-----------------------------------------------
-		// méthode pour insérer le html pour modifier l'employé no 1
+		// méthode générique pour insérer le html pour un employé
 		//-----------------------------------------------
-		public function optionsEmploye1() {
+		public function optionsEmploye($noEmp) {
 
-			$textareaName = "equipe-pers-admin-emp-1";
-			$formId = "ck-equipe-pers-admin-emp-1";
-			$hauteur = 200;
+			$textareaName = "equipe-pers-admin-emp-" . $noEmp;
+			$formId = "ck-equipe-pers-admin-emp-" . $noEmp;
+			$hauteur = 150;
 
 			if (isset($_POST[$textareaName])) {
-				ContentDao::ecrire_equipePersAdminChemin_b1($_POST[$textareaName]);
+				if ($noEmp == 1) {ContentDao::ecrire_equipePersAdminChemin_b1($_POST[$textareaName]);}
 			}
 
-			$contenu = ContentDao::lire_equipePersAdminChemin_b1();
+			if ($noEmp == 1) {$contenu = ContentDao::lire_equipePersAdminChemin_b1();}
 
 			return $this->afficherCkEditor($textareaName, $formId, $contenu, $hauteur);
 		}
-
 	}

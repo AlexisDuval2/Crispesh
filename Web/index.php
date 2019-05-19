@@ -16,7 +16,7 @@
 					<div class="full-section-container bg-blanc">
 						<div class="container">
 							<div class="row">
-								<div class="col-sm-12" id="cadre-index-titre">
+								<div class="col-sm-12">
 
 									<?php
 										if ($action->isLoggedIn() && $action->enModeEcriture()) {
@@ -36,7 +36,7 @@
 
 				<div class="container">
 					<div class="row">
-						<div class="col-sm-12" id="index-main" >
+						<div class="col-sm-12" id="index-main">
 
 							<?php
 								if ($action->isLoggedIn() && $action->enModeEcriture()) {

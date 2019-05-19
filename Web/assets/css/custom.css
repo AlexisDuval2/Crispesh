@@ -43,13 +43,14 @@
 -------------------------------------------------------------------------------------*/
 
 #index-titre {
-	color: black;
-	font-weight: bold;
-	font-size: 23px;
 	text-align: center;
-	line-height: 25px;
 	margin: auto;
-	width: 60%;
+	width: 70%;
+}
+
+#index-titre * {
+	margin: 0px;
+	padding: 0px;
 }
 
 .cadre-bouton-modifier {

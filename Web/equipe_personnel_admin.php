@@ -7,6 +7,9 @@
 	require_once("partial/header.php");
 ?>
 
+			<script src="ckeditor/ckeditor.js"></script>
+			<script src="js/boutons_modifier.js"></script>
+
 			<!-- CONTENT -->
 			<div id="content">
 				<div id="page-header" class="style-1">
@@ -68,7 +71,7 @@
 									} else {
 								?>
 								<div id="index-texte">
-									<?php echo ContentDao::lireTexteIndex(); ?>
+									<?php echo ContentDao::lire_equipePersAdminChemin_b1(); ?>
 								</div>
 								<?php } ?>
 

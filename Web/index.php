@@ -8,7 +8,7 @@
 ?>
 
 			<script src="ckeditor/ckeditor.js"></script>
-			<script src="js/index.js"></script>
+			<script src="js/boutons_modifier.js"></script>
 
 			<!-- CONTENT -->
 			<div id="content">
@@ -24,7 +24,7 @@
 										} else {
 									?>
 									<div id="index-titre">
-										<?php echo ContentDao::lire_TitreIndex(); ?>
+										<?php echo ContentDao::lire_titreIndex(); ?>
 									</div>
 									<?php } ?>
 
@@ -44,7 +44,7 @@
 								} else {
 							?>
 							<div id="index-texte">
-								<?php echo ContentDao::lire_TexteIndex(); ?>
+								<?php echo ContentDao::lire_texteIndex(); ?>
 							</div>
 							<?php } ?>
 

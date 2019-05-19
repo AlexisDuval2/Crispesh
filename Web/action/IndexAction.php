@@ -21,10 +21,10 @@
 			$hauteur = 102;
 
 			if (isset($_POST[$textareaName])) {
-				ContentDao:: ecrire_TitreIndex($_POST[$textareaName]);
+				ContentDao:: ecrire_titreIndex($_POST[$textareaName]);
 			}
 
-			$contenu = ContentDao::lire_TitreIndex();
+			$contenu = ContentDao::lire_titreIndex();
 
 			return $this->afficherCkEditor($textareaName, $formId, $contenu, $hauteur);
 		}
@@ -39,10 +39,10 @@
 			$hauteur = 550;
 
 			if (isset($_POST[$textareaName])) {
-				ContentDao:: ecrire_TexteIndex($_POST[$textareaName]);
+				ContentDao:: ecrire_texteIndex($_POST[$textareaName]);
 			}
 
-			$contenu = ContentDao::lire_TexteIndex();
+			$contenu = ContentDao::lire_texteIndex();
 
 			return $this->afficherCkEditor($textareaName, $formId, $contenu, $hauteur);
 		}

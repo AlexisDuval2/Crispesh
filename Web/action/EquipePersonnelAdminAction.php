@@ -21,10 +21,10 @@
 			$hauteur = 200;
 
 			if (isset($_POST[$textareaName])) {
-				ContentDao::ecrireEquipePersAdminChemin_b1($_POST[$textareaName]);
+				ContentDao::ecrire_equipePersAdminChemin_b1($_POST[$textareaName]);
 			}
 
-			$contenu = ContentDao::lireEquipePersAdminChemin_b1();
+			$contenu = ContentDao::lire_equipePersAdminChemin_b1();
 
 			return $this->afficherCkEditor($textareaName, $formId, $contenu, $hauteur);
 		}

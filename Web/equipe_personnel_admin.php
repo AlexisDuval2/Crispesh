@@ -71,7 +71,7 @@
 									} else {
 								?>
 								<div id="index-texte">
-									<?php echo ContentDao::lire_equipePersAdminChemin_b1(); ?>
+									<?php echo ContentDao::lire_emp(1); ?>
 								</div>
 								<?php } ?>
 
@@ -89,7 +89,7 @@
 									} else {
 								?>
 								<div id="index-texte">
-									<?php echo ContentDao::lire_equipePersAdminChemin_b2(); ?>
+									<?php echo ContentDao::lire_emp(2); ?>
 								</div>
 								<?php } ?>
 

@@ -21,12 +21,10 @@
 			$hauteur = 150;
 
 			if (isset($_POST[$textareaName])) {
-				if ($noEmp == 1) {ContentDao::ecrire_equipePersAdminChemin_b1($_POST[$textareaName]);}
-				elseif ($noEmp == 2) {ContentDao::ecrire_equipePersAdminChemin_b2($_POST[$textareaName]);}
+				ContentDao::modifier_emp($noEmp, $_POST[$textareaName]);
 			}
 
-			if ($noEmp == 1) {$contenu = ContentDao::lire_equipePersAdminChemin_b1();}
-			elseif ($noEmp == 2) {$contenu = ContentDao::lire_equipePersAdminChemin_b2();}
+			$contenu = ContentDao::lire_emp($noEmp);
 
 			return $this->afficherCkEditor($textareaName, $formId, $contenu, $hauteur);
 		}

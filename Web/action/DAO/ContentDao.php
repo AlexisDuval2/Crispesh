@@ -29,30 +29,30 @@
 		//-------------------------------------------------
 
 		//-------------------------------------------------
-		// PAGES POUR L'ÉQUIPE
-		//-------------------------------------------------
-		// equipe_personnel_admin.php
+		// LES PAGES DE TYPE "ÉQUIPE"
 		//-------------------------------------------------
 
-		//-------------------------------------------------
-		// employé no 1
-		private static $equipePersAdminChemin_b1 = "action/DAO/data_equipePersAdmin_emp_01.txt";
-		public static function lire_equipePersAdminChemin_b1() {
-			return file_get_contents(self::$equipePersAdminChemin_b1);
-		}
-		public static function ecrire_equipePersAdminChemin_b1($message) {
-			file_put_contents(self::$equipePersAdminChemin_b1, $message);
-		}
-		//-------------------------------------------------
+		// fonction pour trouver le nom de la page sans ".php"
+		private static function trouverNomPage() {
 
-		//-------------------------------------------------
-		// employé no 2
-		private static $equipePersAdminChemin_b2 = "action/DAO/data_equipePersAdmin_emp_02.txt";
-		public static function lire_equipePersAdminChemin_b2() {
-			return file_get_contents(self::$equipePersAdminChemin_b2);
+			$nomCompletPage = basename($_SERVER["PHP_SELF"]);
+
+			return substr_replace($nomCompletPage, "", -4);
 		}
-		public static function ecrire_equipePersAdminChemin_b2($message) {
-			file_put_contents(self::$equipePersAdminChemin_b2, $message);
+
+		// fonction pour lire un employé
+		public static function lire_emp($no) {
+
+			$chemin = "action/DAO/data_" . self::trouverNomPage() . "_emp_" . $no . ".txt";
+
+			return file_get_contents($chemin);
 		}
-		//-------------------------------------------------
+
+		// fonction pour modifier un employé
+		public static function modifier_emp($no, $message) {
+
+			$chemin = "action/DAO/data_" . self::trouverNompage() . "_emp_" . $no . ".txt";
+
+			file_put_contents($chemin, $message);
+		}
 	}

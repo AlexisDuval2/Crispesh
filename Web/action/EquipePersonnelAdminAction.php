@@ -25,6 +25,7 @@
 			}
 
 			if ($noEmp == 1) {$contenu = ContentDao::lire_equipePersAdminChemin_b1();}
+			elseif ($noEmp == 2) {$contenu = ContentDao::lire_equipePersAdminChemin_b2();}
 
 			return $this->afficherCkEditor($textareaName, $formId, $contenu, $hauteur);
 		}

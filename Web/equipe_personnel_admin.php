@@ -75,21 +75,24 @@
 								</div>
 								<?php } ?>
 
-								<!-- <h6>Roch Ducharme</h6>
-								<p>Directeur général</p>
-								<ul>
-									<li>rducharme@cvm.qc.ca</li>
-									<li>514 982-3437, poste 2835</li>
-								</ul> -->
 							</div>
+
 							<div class="col-sm-12">
-								<hr>
-								<h6>Jian Wang</h6>
-								<p>Adjointe administrative</p>
-								<ul>
-									<li>jywang@cvm.qc.ca</li>
-									<li>514 982-3437, poste 2836</li>
-								</ul>
+								<div id="espace-apres-emp"></div>
+							</div>
+
+							<div class="col-sm-12">
+
+								<?php
+									if ($action->isLoggedIn() && $action->enModeEcriture()) {
+										echo $action->optionsEmploye(2);
+									} else {
+								?>
+								<div id="index-texte">
+									<?php echo ContentDao::lire_equipePersAdminChemin_b2(); ?>
+								</div>
+								<?php } ?>
+
 							</div>
 						</div><!-- col -->
 						<div class="rond_background bleu droite grosseur_1" id="cercle_2"></div>

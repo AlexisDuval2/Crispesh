@@ -1,7 +1,13 @@
-﻿<!-- <h6>Roch Ducharme</h6>
+﻿<h6>Roch Ducharme</h6>
 <p>Directeur général</p>
 <ul>
 	<li>rducharme@cvm.qc.ca</li>
 	<li>514 982-3437, poste 2835</li>
 </ul> -->
 
+<h6>Jian Wang</h6>
+<p>Adjointe administrative</p>
+<ul>
+	<li>jywang@cvm.qc.ca</li>
+	<li>514 982-3437, poste 2836</li>
+</ul>

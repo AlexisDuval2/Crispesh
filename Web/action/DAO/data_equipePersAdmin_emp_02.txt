@@ -1,5 +1,7 @@
-﻿<h6>Jian Wang</h6>
+<p><strong>Jian Wang</strong></p>
+
 <p>Adjointe administrative</p>
+
 <ul>
 	<li>jywang@cvm.qc.ca</li>
 	<li>514 982-3437, poste 2836</li>

@@ -22,6 +22,7 @@
 
 			if (isset($_POST[$textareaName])) {
 				if ($noEmp == 1) {ContentDao::ecrire_equipePersAdminChemin_b1($_POST[$textareaName]);}
+				elseif ($noEmp == 2) {ContentDao::ecrire_equipePersAdminChemin_b2($_POST[$textareaName]);}
 			}
 
 			if ($noEmp == 1) {$contenu = ContentDao::lire_equipePersAdminChemin_b1();}

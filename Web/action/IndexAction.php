@@ -69,18 +69,10 @@
 
 			$chemin = self::trouverCheminPrImages();
 
-			// if (isset($_FILES["choix_images"])) {
 			if (!empty($_FILES)) {
-				echo var_dump($_FILES);
 				$nom_temp = $_FILES["image"]["tmp_name"];
 				$nom = basename($_FILES["image"]["name"]);
-				echo move_uploaded_file($nom_temp, $chemin . $nom);
+				move_uploaded_file($nom_temp, $chemin . $nom);
 			}
-
-			// if (move_uploaded_file($nomImage, $chemin)) {
-			// 	echo "téléchargement réussi";
-			// } else {
-			// 	echo "erreur";
-			// }
 		}
 	}

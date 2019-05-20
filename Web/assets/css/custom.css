@@ -121,6 +121,61 @@ div#cercle_2.rond_background.rouge.droite.grosseur_2 {
 }
 
 /*-------------------------------------------------------------------------------------
+ + toutes les pages projets
+-------------------------------------------------------------------------------------*/
+
+.formulaire-image {
+	margin-top: 15px;
+}
+
+.cadre-parcourir {
+	display: flex;
+}
+
+.choisir-image {
+	width: 100%;
+	margin: auto;
+	padding: 10px;
+	border-radius: 3px;
+	text-align: left;
+	border: solid;
+	border-radius: 7px;
+	font-weight: bold;
+	background-color: rgb(255, 241, 0);
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	border-width: 1px;
+	margin-bottom: 12px;
+}
+
+.parcourir {
+	background-color: #000000;
+	width: 138px;
+	margin: auto;
+	font-size: 20px;
+	border: none;
+	border-radius: 5px;
+	margin-bottom: 35px;
+}
+
+.parcourir:hover {
+	cursor: pointer;
+}
+
+.bouton-modifier-image {
+	width: 138px;
+	height: 40px;
+	margin: auto;
+	color: #00abf3;
+	border: none;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+}
+
+/*-------------------------------------------------------------------------------------
  + nous_joindre.php
 -------------------------------------------------------------------------------------*/
 

@@ -18,12 +18,6 @@
 							<div class="row">
 								<div class="col-sm-12">
 
-									<form enctype="multipart/form-data" method="POST">
-										<input type="hidden" name="MAX_FILE_SIZE" value="10000000"/>
-											Choose a file to upload: <input name="image" type="file"/><br />
-										<input type="submit" value="envoyer" />
-									</form>
-
 									<?php
 										if ($action->isLoggedIn() && $action->enModeEcriture()) {
 											echo $action->optionsTitre();

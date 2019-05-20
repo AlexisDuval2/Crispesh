@@ -90,8 +90,44 @@ employés étudiants
 <p>Sciences sociales</p>
 
 -------------------------------------------------
-employés
+employés chercheurs
 -------------------------------------------------
+1
+
+<h6>Catherine Fichten</h6>
+<p>Enseignante au Collège Dawson</p>
+<p>Professeure associée à l’Université McGill</p>
+<p>Département de psychologie</p>
+<p>Codirectrice du Réseau de Recherche Adaptech (www.adaptech.org)</p>
+
+-------------------------------------------------
+2
+
+<h6>Alice Havel</h6>
+<p>Retraitée du Collège Dawson</p>
+<p>Coordonnatrice du AccessAbility Centre</p>
+<p>Chercheuse associée au Réseau de Recherche Adaptech</p>
+
+-------------------------------------------------
+3
+
+<h6>Tara Flanagan</h6>
+<p>Professeure Associée à l’Université McGill</p>
+<p>Département d’Educational and Counselling Psychology</p>
+
+-------------------------------------------------
+4
+
+<h6>Josianne Robert</h6>
+<p>Professeure de formation pratique adjointe à l’Université de Montréal</p>
+<p>Département de psychopédagogie et d’andragogie</p>
+
+-------------------------------------------------
+employés 
+-------------------------------------------------
+1
+
+
 
 
 

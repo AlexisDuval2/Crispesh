@@ -1,10 +1,14 @@
 
 <?php
+	require_once("action/DAO/ContentDao.php");
 	require_once("action/EquipeChercheursAction.php");
 	$action = new EquipeChercheursAction();
 	$action->execute();
 	require_once("partial/header.php");
 ?>
+
+			<script src="ckeditor/ckeditor.js"></script>
+			<script src="js/boutons_modifier.js"></script>
 
 			<!-- CONTENT -->
 			<div id="content">
@@ -58,32 +62,67 @@
 							</div><!-- widget-categories -->
 						</div><!-- col -->
 						<div class="col-sm-7 wrap_liste_personnel">
+
 							<div class="col-sm-12">
-								<h6>Catherine Fichten</h6>
-								<p>Enseignante au Collège Dawson</p>
-								<p>Professeure associée à l’Université McGill</p>
-								<p>Département de psychologie</p>
-								<p>Codirectrice du Réseau de Recherche Adaptech (www.adaptech.org)</p>
+								<?php
+									if ($action->isLoggedIn() && $action->enModeEcriture()) {
+										echo $action->optionsEmploye(1);
+									} else {
+								?>
+								<div id="index-texte">
+									<?php echo ContentDao::lire_emp(1); ?>
+								</div>
+								<?php } ?>
 							</div>
+
 							<div class="col-sm-12">
-								<hr>
-								<h6>Alice Havel</h6>
-								<p>Retraitée du Collège Dawson</p>
-								<p>Coordonnatrice du AccessAbility Centre</p>
-								<p>Chercheuse associée au Réseau de Recherche Adaptech</p>
+								<div class="espace-apres-emp"></div>
 							</div>
+
 							<div class="col-sm-12">
-								<hr>
-								<h6>Tara Flanagan</h6>
-								<p>Professeure Associée à l’Université McGill</p>
-								<p>Département d’Educational and Counselling Psychology</p>
+								<?php
+									if ($action->isLoggedIn() && $action->enModeEcriture()) {
+										echo $action->optionsEmploye(2);
+									} else {
+								?>
+								<div id="index-texte">
+									<?php echo ContentDao::lire_emp(2); ?>
+								</div>
+								<?php } ?>
 							</div>
+
 							<div class="col-sm-12">
-								<hr>
-								<h6>Josianne Robert</h6>
-								<p>Professeure de formation pratique adjointe à l’Université de Montréal</p>
-								<p>Département de psychopédagogie et d’andragogie</p>
+								<div class="espace-apres-emp"></div>
 							</div>
+
+							<div class="col-sm-12">
+								<?php
+									if ($action->isLoggedIn() && $action->enModeEcriture()) {
+										echo $action->optionsEmploye(3);
+									} else {
+								?>
+								<div id="index-texte">
+									<?php echo ContentDao::lire_emp(3); ?>
+								</div>
+								<?php } ?>
+							</div>
+
+							<div class="col-sm-12">
+								<div class="espace-apres-emp"></div>
+							</div>
+
+							<div class="col-sm-12">
+								<?php
+									if ($action->isLoggedIn() && $action->enModeEcriture()) {
+										echo $action->optionsEmploye(4);
+									} else {
+								?>
+								<div id="index-texte">
+									<?php echo ContentDao::lire_emp(4); ?>
+								</div>
+								<?php } ?>
+							</div>
+
 						</div><!-- col -->
 						<div class="rond_background rouge droite grosseur_2" id="cercle_2"></div>
 					</div><!-- row -->

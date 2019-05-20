@@ -86,7 +86,7 @@
 }
 
 /*-------------------------------------------------------------------------------------
- + ÉQUIPE
+ + toutes les pages équipe...
 -------------------------------------------------------------------------------------*/
 
 .espace-apres-emp {
@@ -111,6 +111,11 @@ div#cercle_2.rond_background.jaune.gauche.grosseur_5 {
 }
 
 div#cercle_2.rond_background.vert.droite.grosseur_2 {
+	z-index: -1;
+	margin-top: 0px;
+}
+
+div#cercle_2.rond_background.rouge.droite.grosseur_2 {
 	z-index: -1;
 	margin-top: 0px;
 }

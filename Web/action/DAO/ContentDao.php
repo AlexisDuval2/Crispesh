@@ -1,5 +1,7 @@
 
 <?php
+	require_once("action/CommonAction.php");
+
 	class ContentDao {
 
 		//-------------------------------------------------
@@ -32,27 +34,23 @@
 		// LES PAGES DE TYPE "ÉQUIPE"
 		//-------------------------------------------------
 
-		// fonction pour trouver le nom de la page sans ".php"
-		private static function trouverNomPage() {
-
-			$nomCompletPage = basename($_SERVER["PHP_SELF"]);
-
-			return substr_replace($nomCompletPage, "", -4);
-		}
-
+		//-------------------------------------------------
 		// fonction pour lire un employé
 		public static function lire_emp($no) {
 
-			$chemin = "action/DAO/data_" . self::trouverNomPage() . "_emp_" . $no . ".txt";
+			$chemin = "action/DAO/data_" . CommonAction::trouverNomPage() . "_emp_" . $no . ".txt";
 
 			return file_get_contents($chemin);
 		}
+		//-------------------------------------------------
 
+		//-------------------------------------------------
 		// fonction pour modifier un employé
 		public static function modifier_emp($no, $message) {
 
-			$chemin = "action/DAO/data_" . self::trouverNompage() . "_emp_" . $no . ".txt";
+			$chemin = "action/DAO/data_" . CommonAction::trouverNompage() . "_emp_" . $no . ".txt";
 
 			file_put_contents($chemin, $message);
 		}
+		//-------------------------------------------------
 	}

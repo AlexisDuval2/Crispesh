@@ -1,5 +1,7 @@
 
 <?php
+	require_once("action/DAO/ContentDao.php");
+
 	session_start();
 
 	abstract class CommonAction {
@@ -7,6 +9,7 @@
 		public static $VISIBILITY_PUBLIC = 0;
 		public static $VISIBILITY_MEMBER = 1;
 		public static $MODE_ECRITURE = "Mode écriture";
+		public static $HAUTEUR_PR_EMP = 150;
 
 		private $pageVisibility;
 
@@ -142,5 +145,32 @@
 			$html_3 = $ckEditor . $formulaireB;
 
 			return $html_1 . $html_2 . $html_3;
+		}
+
+		//-----------------------------------------------
+		// fonction pour trouver le nom de la page sans ".php"
+		//-----------------------------------------------
+		public static function trouverNomPage() {
+
+			$nomCompletPage = basename($_SERVER["PHP_SELF"]);
+
+			return substr_replace($nomCompletPage, "", -4);
+		}
+
+		//-----------------------------------------------
+		// méthode générique pour insérer le html pour un employé
+		//-----------------------------------------------
+		public function optionsEmploye($noEmp) {
+
+			$textareaName = self::trouverNomPage() . $noEmp;
+			$formId = "ck-" . self::trouverNomPage() . $noEmp;
+
+			if (isset($_POST[$textareaName])) {
+				ContentDao::modifier_emp($noEmp, $_POST[$textareaName]);
+			}
+
+			$contenu = ContentDao::lire_emp($noEmp);
+
+			return $this->afficherCkEditor($textareaName, $formId, $contenu, self::$HAUTEUR_PR_EMP);
 		}
 	}

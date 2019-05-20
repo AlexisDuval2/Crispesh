@@ -74,9 +74,24 @@ employés personnel scientifique
 <p>Directrice du Conseil scolaire des Premières Nations en éducation aux adultes</p>
 
 -------------------------------------------------
-employés 
+employés étudiants
 -------------------------------------------------
+1
 
+<h6>Amanda Shawayahamish</h6>
+<p>Étudiante à l'université Concordia</p>
+<p>Études des peuples autochtones et biologie</p>
+
+-------------------------------------------------
+2
+
+<h6>Celeste Awashish</h6>
+<p>Étudiante au Collège Dawson</p>
+<p>Sciences sociales</p>
+
+-------------------------------------------------
+employés
+-------------------------------------------------
 
 
 

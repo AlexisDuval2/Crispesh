@@ -1,10 +1,14 @@
 
 <?php
+	require_once("action/DAO/ContentDao.php");
 	require_once("action/EquipeEtudiantsAction.php");
 	$action = new EquipeEtudiantsAction();
 	$action->execute();
 	require_once("partial/header.php");
 ?>
+
+			<script src="ckeditor/ckeditor.js"></script>
+			<script src="js/boutons_modifier.js"></script>
 
 			<!-- CONTENT -->
 			<div id="content">
@@ -58,17 +62,35 @@
 							</div><!-- widget-categories -->
 						</div><!-- col -->
 						<div class="col-sm-7 wrap_liste_personnel">
+
 							<div class="col-sm-12">
-								<h6>Amanda Shawayahamish</h6>
-								<p>Étudiante à l'université Concordia</p>
-								<p>Études des peuples autochtones et biologie</p>
+								<?php
+									if ($action->isLoggedIn() && $action->enModeEcriture()) {
+										echo $action->optionsEmploye(1);
+									} else {
+								?>
+								<div id="index-texte">
+									<?php echo ContentDao::lire_emp(1); ?>
+								</div>
+								<?php } ?>
 							</div>
+
 							<div class="col-sm-12">
-								<hr>
-								<h6>Celeste Awashish</h6>
-								<p>Étudiante au Collège Dawson</p>
-								<p>Sciences sociales</p>
+								<div class="espace-apres-emp"></div>
 							</div>
+
+							<div class="col-sm-12">
+								<?php
+									if ($action->isLoggedIn() && $action->enModeEcriture()) {
+										echo $action->optionsEmploye(2);
+									} else {
+								?>
+								<div id="index-texte">
+									<?php echo ContentDao::lire_emp(2); ?>
+								</div>
+								<?php } ?>
+							</div>
+
 						</div><!-- col -->
 						<div class="rond_background vert droite grosseur_2" id="cercle_2"></div>
 					</div><!-- row -->

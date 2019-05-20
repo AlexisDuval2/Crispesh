@@ -1,7 +1,3 @@
 <p><strong>﻿Shannahn McInnis</strong></p>
 
-<p>Charg&eacute;e de projet</p>
-
-<ul>
-	<li>smcinnis@cvm.qc.ca</li>
-</ul>
+<p>smcinnis@cvm.qc.ca</p>

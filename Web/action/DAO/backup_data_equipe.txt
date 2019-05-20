@@ -127,6 +127,27 @@ employés
 -------------------------------------------------
 1
 
+<h6>Richard Filion</h6>
+<p>Président</p>
+<p>Directeur général du Collège Dawson</p>
+
+-------------------------------------------------
+2
+
+<h6>Mylène Boisclair</h6>
+<p>Vice-présidente</p>
+<p>Directrice générale au Cégep du Vieux Montréal</p>
+
+-------------------------------------------------
+3
+
+<h6>Martin Prévost</h6>
+<p>Secrétaire et trésorier</p>
+<p>Directeur adjoint des études au Cégep du Vieux Montréal</p>
+
+-------------------------------------------------
+employés 
+-------------------------------------------------
 
 
 

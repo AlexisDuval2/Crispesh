@@ -1,10 +1,14 @@
 
 <?php
+	require_once("action/DAO/ContentDao.php");
 	require_once("action/EquipeConseilAction.php");
 	$action = new EquipeConseilAction();
 	$action->execute();
 	require_once("partial/header.php");
 ?>
+
+			<script src="ckeditor/ckeditor.js"></script>
+			<script src="js/boutons_modifier.js"></script>
 
 			<!-- CONTENT -->
 			<div id="content">
@@ -58,26 +62,51 @@
 							</div><!-- widget-categories -->
 						</div><!-- col -->
 						<div class="col-sm-7 wrap_liste_personnel">
+
 							<div class="col-sm-12">
-								<h6>Richard Filion</h6>
-								<p>Président</p>
-								<p>Directeur général du Collège Dawson</p>
+								<?php
+									if ($action->isLoggedIn() && $action->enModeEcriture()) {
+										echo $action->optionsEmploye(1);
+									} else {
+								?>
+								<div id="index-texte">
+									<?php echo ContentDao::lire_emp(1); ?>
+								</div>
+								<?php } ?>
 							</div>
-							<br>
+
 							<div class="col-sm-12">
-								<hr>
-								<h6>Mylène Boisclair</h6>
-								<p>Vice-présidente</p>
-								<p>Directrice générale au Cégep du Vieux Montréal</p>
+								<div class="espace-apres-emp"></div>
 							</div>
-							<br>
+
 							<div class="col-sm-12">
-								<hr>
-								<h6>Martin Prévost</h6>
-								<p>Secrétaire et trésorier</p>
-								<p>Directeur adjoint des études au Cégep du Vieux Montréal</p>
+								<?php
+									if ($action->isLoggedIn() && $action->enModeEcriture()) {
+										echo $action->optionsEmploye(2);
+									} else {
+								?>
+								<div id="index-texte">
+									<?php echo ContentDao::lire_emp(2); ?>
+								</div>
+								<?php } ?>
 							</div>
-							<br>
+
+							<div class="col-sm-12">
+								<div class="espace-apres-emp"></div>
+							</div>
+
+							<div class="col-sm-12">
+								<?php
+									if ($action->isLoggedIn() && $action->enModeEcriture()) {
+										echo $action->optionsEmploye(3);
+									} else {
+								?>
+								<div id="index-texte">
+									<?php echo ContentDao::lire_emp(3); ?>
+								</div>
+								<?php } ?>
+							</div>
+
 						</div><!-- col -->
 						<div class="rond_background jaune droite grosseur_2" id="cercle_2"></div>
 					</div><!-- row -->

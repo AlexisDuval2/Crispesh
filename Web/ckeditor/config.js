@@ -26,7 +26,7 @@ CKEDITOR.editorConfig = function( config ) {
 		{ name: 'about', groups: [ 'about' ] }
 	];
 
-	config.removeButtons = 'Subscript,Superscript,PasteText,PasteFromWord,Scayt,Anchor,Table,SpecialChar,Source,RemoveFormat,Strike,Outdent,Indent,Styles,About';
+	config.removeButtons = 'Subscript,Superscript,PasteText,PasteFromWord,Scayt,Anchor,Table,SpecialChar,Source,RemoveFormat,Strike,Outdent,Indent,Styles,About,EasyImageUpload';
 	config.format_tags = 'p;h1;h2;h3;pre';
 	config.removeDialogTabs = 'image:advanced;link:advanced';
 

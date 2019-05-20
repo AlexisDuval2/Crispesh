@@ -67,15 +67,14 @@
 		//-----------------------------------------------
 		private function image() {
 
-			echo self::trouverCheminPrImages();
+			$chemin = self::trouverCheminPrImages();
 
-
-			$nomImage = "test.png";
-
-			if (isset($_FILES["choix_images"])) {
-				$nom_temp = $_FILES["choix_images"]["tmp_name"];
-				$nom = basename($_FILES["choix_images"]["name"]);
-				move_uploaded_file($nom_temp, "$uploads_dir/$name");
+			// if (isset($_FILES["choix_images"])) {
+			if (!empty($_FILES)) {
+				echo var_dump($_FILES);
+				$nom_temp = $_FILES["image"]["tmp_name"];
+				$nom = basename($_FILES["image"]["name"]);
+				echo move_uploaded_file($nom_temp, $chemin . $nom);
 			}
 
 			// if (move_uploaded_file($nomImage, $chemin)) {

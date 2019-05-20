@@ -5,15 +5,11 @@
 
 	class IndexAction extends CommonAction {
 
-		private static $DOSSIER_IMAGES = "images\\projets\\";
-
 		public function __construct() {
 			parent::__construct(CommonAction::$VISIBILITY_PUBLIC);
 		}
 
-		protected function executeAction() {
-			$this->image();
-		}
+		protected function executeAction() {}
 
 		//-----------------------------------------------
 		// méthode pour insérer le html pour modifier le titre (admin)
@@ -49,30 +45,5 @@
 			$contenu = ContentDao::lire_texteIndex();
 
 			return $this->afficherCkEditor($textareaName, $formId, $contenu, $hauteur);
-		}
-
-		//-----------------------------------------------
-		// fonction pour trouver le nom de la page sans ".php"
-		//-----------------------------------------------
-		private static function trouverCheminPrImages() {
-
-			$cheminAvecAction = dirname(__FILE__);
-			$cheminSansAction = substr_replace($cheminAvecAction, "", -6);
-
-			return $cheminSansAction . self::$DOSSIER_IMAGES;
-		}
-
-		//-----------------------------------------------
-		// méthode pour insérer le html pour modifier le texte (admin)
-		//-----------------------------------------------
-		private function image() {
-
-			$chemin = self::trouverCheminPrImages();
-
-			if (!empty($_FILES)) {
-				$nom_temp = $_FILES["image"]["tmp_name"];
-				$nom = basename($_FILES["image"]["name"]);
-				move_uploaded_file($nom_temp, $chemin . $nom);
-			}
 		}
 	}

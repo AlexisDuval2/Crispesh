@@ -28,7 +28,7 @@
 
 							<form class="formulaire-image" enctype="multipart/form-data" method="POST">
 								<input type="hidden" name="MAX_FILE_SIZE" value="10000000"/>
-								<div class="choisir-image">Cliquez ici pour choisir une image:</div>
+								<div class="choisir-image">Cliquez ici pour choisir une image (doit être un .jpg)</div>
 								<input class="parcourir" name="image" type="file"/>
 								<div class="cadre-bouton-modifier">
 									<input class="bouton-modifier bouton-modifier-image" type="submit" value="Modifier"/>

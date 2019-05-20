@@ -1,0 +1,9 @@
+<p>﻿<strong>Paul Turcotte</strong></p>
+
+<p>Enseignant au C&eacute;gep du Vieux Montr&eacute;al</p>
+
+<p>D&eacute;partement de Philosophie</p>
+
+<ul>
+	<li>pturcotte@cvm.qc.ca</li>
+</ul>

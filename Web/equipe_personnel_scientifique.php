@@ -80,11 +80,15 @@
 							</div>
 
 							<div class="col-sm-12">
-								<h6>Shannahn McInnis</h6>
-								<p>Chargée de projet</p>
-								<ul>
-									<li>smcinnis@cvm.qc.ca</li>
-								</ul>
+								<?php
+									if ($action->isLoggedIn() && $action->enModeEcriture()) {
+										echo $action->optionsEmploye(2);
+									} else {
+								?>
+								<div id="index-texte">
+									<?php echo ContentDao::lire_emp(2); ?>
+								</div>
+								<?php } ?>
 							</div>
 
 							<div class="col-sm-12">
@@ -92,11 +96,15 @@
 							</div>
 
 							<div class="col-sm-12">
-								<h6>Léa Lefevre-Radelli</h6>
-								<p>Coordonnatrice de projet et Assistante de recherche</p>
-								<ul>
-									<li>llefevreRadelli@cvm.qc.ca</li>
-								</ul>
+								<?php
+									if ($action->isLoggedIn() && $action->enModeEcriture()) {
+										echo $action->optionsEmploye(3);
+									} else {
+								?>
+								<div id="index-texte">
+									<?php echo ContentDao::lire_emp(3); ?>
+								</div>
+								<?php } ?>
 							</div>
 
 							<div class="col-sm-12">
@@ -104,12 +112,15 @@
 							</div>
 
 							<div class="col-sm-12">
-								<h6>Paul Turcotte</h6>
-								<p>Enseignant au Cégep du Vieux Montréal</p>
-								<p>Département de Philosophie</p>
-								<ul>
-									<li>pturcotte@cvm.qc.ca</li>
-								</ul>
+								<?php
+									if ($action->isLoggedIn() && $action->enModeEcriture()) {
+										echo $action->optionsEmploye(4);
+									} else {
+								?>
+								<div id="index-texte">
+									<?php echo ContentDao::lire_emp(4); ?>
+								</div>
+								<?php } ?>
 							</div>
 
 							<div class="col-sm-12">
@@ -117,11 +128,15 @@
 							</div>
 
 							<div class="col-sm-12">
-								<h6>Joseph Darrous</h6>
-								<p>Technicien en éducation spécialisée au Collège Dawson</p>
-								<ul>
-									<li>jdarrous@dawsoncollege.qc.ca </li>
-								</ul>
+								<?php
+									if ($action->isLoggedIn() && $action->enModeEcriture()) {
+										echo $action->optionsEmploye(5);
+									} else {
+								?>
+								<div id="index-texte">
+									<?php echo ContentDao::lire_emp(5); ?>
+								</div>
+								<?php } ?>
 							</div>
 
 							<div class="col-sm-12">
@@ -129,8 +144,15 @@
 							</div>
 
 							<div class="col-sm-12">
-								<h6>Rola Helou</h6>
-								<p>Directrice du Conseil scolaire des Premières Nations en éducation aux adultes</p>
+								<?php
+									if ($action->isLoggedIn() && $action->enModeEcriture()) {
+										echo $action->optionsEmploye(6);
+									} else {
+								?>
+								<div id="index-texte">
+									<?php echo ContentDao::lire_emp(6); ?>
+								</div>
+								<?php } ?>
 							</div>
 
 						</div><!-- col -->

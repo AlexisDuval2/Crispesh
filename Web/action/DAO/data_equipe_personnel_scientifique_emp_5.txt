@@ -1,0 +1,7 @@
+<p><strong>Joseph Darrous</strong></p>
+
+<p>Technicien en &eacute;ducation sp&eacute;cialis&eacute;e au Coll&egrave;ge Dawson</p>
+
+<ul>
+	<li>jdarrous@dawsoncollege.qc.ca</li>
+</ul>

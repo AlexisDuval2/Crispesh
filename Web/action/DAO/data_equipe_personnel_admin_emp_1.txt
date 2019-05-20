@@ -3,6 +3,6 @@
 <p>Directeur g&eacute;n&eacute;ral</p>
 
 <ul>
-	<li>rducharme@cvm.qc.ca</li>
+	<li><a href="mailto:rducharme@cvm.qc.ca">rducharme@cvm.qc.ca</a></li>
 	<li>514 982-3437, poste 2835</li>
 </ul>

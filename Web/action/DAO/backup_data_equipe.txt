@@ -49,6 +49,34 @@ employés personnel scientifique
 </ul>
 
 -------------------------------------------------
+4
+
+<h6>Paul Turcotte</h6>
+<p>Enseignant au Cégep du Vieux Montréal</p>
+<p>Département de Philosophie</p>
+<ul>
+	<li>pturcotte@cvm.qc.ca</li>
+</ul>
+
+-------------------------------------------------
+5
+
+<h6>Joseph Darrous</h6>
+<p>Technicien en éducation spécialisée au Collège Dawson</p>
+<ul>
+	<li>jdarrous@dawsoncollege.qc.ca </li>
+</ul>
+
+-------------------------------------------------
+6
+
+<h6>Rola Helou</h6>
+<p>Directrice du Conseil scolaire des Premières Nations en éducation aux adultes</p>
+
+-------------------------------------------------
+employés 
+-------------------------------------------------
+
 
 
 

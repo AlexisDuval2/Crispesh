@@ -24,16 +24,15 @@
 
 						<div class="col-sm-4">
 
-							<img src="images/projets/photographe.jpg" alt="La photographie comme moyen d’expression, de participation sociale, d’autodétermination et d’inclusion  des étudiants en situation de handicap au collégial (2015-2016)">
-
-							<form class="formulaire-image" enctype="multipart/form-data" method="POST">
-								<input type="hidden" name="MAX_FILE_SIZE" value="10000000"/>
-								<div class="choisir-image">Cliquez ici pour choisir une image (doit être un .jpg)</div>
-								<input class="parcourir" name="image" type="file"/>
-								<div class="cadre-bouton-modifier">
-									<input class="bouton-modifier bouton-modifier-image" type="submit" value="Modifier"/>
-								</div>
-							</form>
+							<div class="cadre-image-projet">
+								<img src="images/projets/projet_photographie_expression.jpg">
+							</div>
+							<?php
+								if ($action->isLoggedIn() && $action->enModeEcriture()) {
+									echo $action->optionImage();
+									$action->televerserImage();
+								}
+							?>
 
 						</div>
 

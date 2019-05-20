@@ -10,6 +10,7 @@
 		public static $VISIBILITY_MEMBER = 1;
 		public static $MODE_ECRITURE = "Mode écriture";
 		public static $HAUTEUR_PR_EMP = 150;
+		private static $DOSSIER_IMAGES = "images\\projets\\";
 
 		private $pageVisibility;
 
@@ -172,5 +173,58 @@
 			$contenu = ContentDao::lire_emp($noEmp);
 
 			return $this->afficherCkEditor($textareaName, $formId, $contenu, self::$HAUTEUR_PR_EMP);
+		}
+
+		//-----------------------------------------------
+		// fonction pour trouver le chemin pour les images
+		//-----------------------------------------------
+		private static function trouverCheminPrImages() {
+
+			$cheminAvecAction = dirname(__FILE__);
+			$cheminSansAction = substr_replace($cheminAvecAction, "", -6);
+
+			return $cheminSansAction . self::$DOSSIER_IMAGES;
+		}
+
+		//-----------------------------------------------
+		// méthode pour afficher l'option de téléversement d'image
+		//-----------------------------------------------
+		public function optionImage() {
+
+			$formulaireA = "<form class=\"formulaire-image\" enctype=\"multipart/form-data\" method=\"POST\">";
+			$tailleMax = "<input type=\"hidden\" name=\"MAX_FILE_SIZE\" value=\"10000000\"/>";
+			$divMsgChoisir = "<div class=\"choisir-image\">Cliquez ici pour choisir une image (doit être un .jpg)</div>";
+			$boutonParcourir = "<input class=\"parcourir\" name=\"image\" type=\"file\"/>";
+			$cadreBoutonModifierA = "<div class=\"cadre-bouton-modifier\">";
+			$boutonModifier = "<input class=\"bouton-modifier bouton-modifier-image\" type=\"submit\" value=\"Modifier\"/>";
+			$cadreBoutonModifierB = "</div>";
+			$formulaireB = "</form>";
+
+			$html_1 = $formulaireA . $tailleMax . $divMsgChoisir . $boutonParcourir;
+			$html_2 = $cadreBoutonModifierA . $boutonModifier . $cadreBoutonModifierB . $formulaireB;
+
+			return $html_1 . $html_2;
+		}
+
+		//-----------------------------------------------
+		// fonction pour téléverser une image de projet
+		//-----------------------------------------------
+		public function televerserImage() {
+
+			$chemin = self::trouverCheminPrImages();
+
+			$nomDeLaPage = CommonAction::trouverNomPage();
+
+			if (!empty($_FILES)) {
+
+				$nom_temp = $_FILES["image"]["tmp_name"];
+
+				$nomAutomatique = $nomDeLaPage . ".jpg";
+				$_FILES["image"]["name"] = $nomAutomatique;
+
+				$nom = basename($_FILES["image"]["name"]);
+
+				move_uploaded_file($nom_temp, $chemin . $nom);
+			}
 		}
 	}

@@ -1,0 +1,5 @@
+Audrey Bigras
+<p>Professionnelle de recherche</p>
+<ul>
+	<li>abigras@cvm.qc.ca</li>
+</ul>

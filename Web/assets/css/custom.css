@@ -86,14 +86,33 @@
 }
 
 /*-------------------------------------------------------------------------------------
- + equipe_personnel_admin.php
+ + ÉQUIPE
 -------------------------------------------------------------------------------------*/
 
-#espace-apres-emp {
+.espace-apres-emp {
 	margin-top: 27px;
 	margin-bottom: 27px;
 	height: 2px;
 	background-color: rgb(168, 225, 42);
+}
+
+div#cercle_2.rond_background.bleu.droite.grosseur_1 {
+	z-index: -1;
+	margin-top: 0px;
+}
+
+div#cercle_2.rond_background.jaune.droite.grosseur_2 {
+	z-index: -1;
+	margin-top: 0px;
+}
+
+div#cercle_2.rond_background.jaune.gauche.grosseur_5 {
+	z-index-1;
+}
+
+div#cercle_2.rond_background.vert.droite.grosseur_2 {
+	z-index: -1;
+	margin-top: 0px;
 }
 
 /*-------------------------------------------------------------------------------------

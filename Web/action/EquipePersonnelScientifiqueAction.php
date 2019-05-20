@@ -8,6 +8,5 @@
 			parent::__construct(CommonAction::$VISIBILITY_PUBLIC);
 		}
 
-		protected function executeAction() {
-		}
+		protected function executeAction() {}
 	}

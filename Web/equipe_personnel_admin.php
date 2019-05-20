@@ -63,8 +63,8 @@
 						</div><!-- col -->
 
 						<div class="col-sm-7 wrap_liste_personnel">
-							<div class="col-sm-12">
 
+							<div class="col-sm-12">
 								<?php
 									if ($action->isLoggedIn() && $action->enModeEcriture()) {
 										echo $action->optionsEmploye(1);
@@ -74,15 +74,13 @@
 									<?php echo ContentDao::lire_emp(1); ?>
 								</div>
 								<?php } ?>
-
 							</div>
 
 							<div class="col-sm-12">
-								<div id="espace-apres-emp"></div>
+								<div class="espace-apres-emp"></div>
 							</div>
 
 							<div class="col-sm-12">
-
 								<?php
 									if ($action->isLoggedIn() && $action->enModeEcriture()) {
 										echo $action->optionsEmploye(2);
@@ -92,8 +90,8 @@
 									<?php echo ContentDao::lire_emp(2); ?>
 								</div>
 								<?php } ?>
-
 							</div>
+
 						</div><!-- col -->
 						<div class="rond_background bleu droite grosseur_1" id="cercle_2"></div>
 					</div><!-- row -->

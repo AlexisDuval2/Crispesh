@@ -1,0 +1,65 @@
+﻿
+-------------------------------------------------
+employés personnel admin
+-------------------------------------------------
+
+<h6>Roch Ducharme</h6>
+<p>Directeur général</p>
+<ul>
+	<li>rducharme@cvm.qc.ca</li>
+	<li>514 982-3437, poste 2835</li>
+</ul> -->
+
+-------------------------------------------------
+
+<h6>Jian Wang</h6>
+<p>Adjointe administrative</p>
+<ul>
+	<li>jywang@cvm.qc.ca</li>
+	<li>514 982-3437, poste 2836</li>
+</ul>
+
+-------------------------------------------------
+employés personnel scientifique
+-------------------------------------------------
+1
+
+<h6>Audrey Bigras</h6>
+<p>Professionnelle de recherche</p>
+<ul>
+	<li>abigras@cvm.qc.ca</li>
+</ul>
+
+-------------------------------------------------
+2
+
+<h6>Shannahn McInnis</h6>
+<p>Chargée de projet</p>
+<ul>
+	<li>smcinnis@cvm.qc.ca</li>
+</ul>
+
+-------------------------------------------------
+3
+
+<h6>Léa Lefevre-Radelli</h6>
+<p>Coordonnatrice de projet et Assistante de recherche</p>
+<ul>
+	<li>llefevreRadelli@cvm.qc.ca</li>
+</ul>
+
+-------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+

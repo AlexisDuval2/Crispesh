@@ -1,6 +1,5 @@
 
 <?php
-	require_once("action/DAO/ContentDao.php");
 	require_once("action/CommonAction.php");
 
 	class EquipePersonnelAdminAction extends CommonAction {

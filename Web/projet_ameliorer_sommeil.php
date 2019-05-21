@@ -47,8 +47,8 @@
 									echo ContentDao::lire_texteProjet();
 								}
 							?>
-							<a href="nos_projets" class="btn btn-blue btn_retour_projet">Retour à la liste des projets</a>
 						</div><!-- col -->
+						<a href="nos_projets" class="btn btn-blue btn_retour_projet">Retour à la liste des projets</a>
 
 					</div><!-- row -->
 				</div><!-- container -->

@@ -19,7 +19,7 @@
 
 						<div class="col-sm-4">
 							<div class="cadre-image-projet">
-								<img src="images/projets/projet_amelioration_francais.jpg">
+								<img src="images/projets/projet_ameliorer_sommeil.jpg">
 							</div>
 							<?php
 								if ($action->isLoggedIn() && $action->enModeEcriture()) {
@@ -28,10 +28,6 @@
 								}
 							?>
 						</div>
-
-						<!-- <div class="col-sm-4">
-							<img src="images/projets/ours.jpg" alt="Améliorer les conditions de sommeil de l’enfant vivant avec un trouble du spectre de l’autisme  grâce à un design réfléchi et personnalisé de sa chambre (2016-2017)">
-						</div> -->
 
 						<div class="col-sm-8">
 							<p>La Fédération québécoise de l’autisme estime la prévalence du trouble du spectre de l’autisme (TSA) à près de 1% de la population canadienne, mais des recherches démontrent que cette donnée sous-évalue le nombre réel d’individus touchés par ce trouble. Les problèmes de sommeil sont fréquents chez les enfants qui ont un TSA. Les raisons de ces problèmes de sommeil sont variées et peuvent être, par exemple, d’ordre physiologique, cognitif, sensoriel ou une combinaison de facteurs. Quelles qu’en soient les causes, le manque de sommeil aura inévitablement des conséquences sur la qualité de vie de l’enfant et de sa famille. Bien que l’aménagement de la chambre figure au premier rang des solutions que les parents peuvent apporter, la chambre des enfants ayant un TSA demeure un lieu bien peu étudié en design d’intérieur. De plus, il est démontré que le TSA se manifeste par des réactions inhabituelles à des expériences sensorielles. En effet, les personnes touchées par le TSA ont souvent de la difficulté à traiter et à répondre aux différents stimuli sensoriels, tels que l’ouïe, la vue et le toucher. Elles peuvent être hypo ou hypersensibles. Plusieurs chercheurs suggèrent que l’hypersensibilité peut provoquer des réactions sensorielles à l’origine des difficultés de sommeil. Pourtant, bien que le risque que le sommeil soit perturbé pour des raisons sensorielles chez les enfants ayant un TSA soit particulièrement élevé, cette composante est peu documentée. Ce projet propose de s’intéresser à l’aménagement de la chambre de l’enfant de 2 à 12 ans ayant un TSA en se basant sur les perceptions sensorielles de celui-ci. Pour ce faire, le projet fera le pont entre les études sur l’aménagement d’environnements conviviaux pour les personnes ayant un TSA et transférera ces connaissances vers l’aménagement de la chambre.</p>

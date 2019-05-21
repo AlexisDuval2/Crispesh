@@ -31,7 +31,17 @@
 					<div class="row">
 						<div class="col-sm-4">
 							<div class="widget widget-categories">
-								<img src="images/projets/interordres.jpg" alt="Intégrer les nouvelles populations étudiantes en situation de handicap aux études supérieures : mission possible (2011-2013)" />
+
+								<div class="cadre-image-projet">
+									<img src="images/projets/projet_integrer_etudiants.jpg">
+								</div>
+								<?php
+									if ($action->isLoggedIn() && $action->enModeEcriture()) {
+										echo $action->optionImage();
+										$action->televerserImage();
+									}
+								?>
+
 								<ul>
 									<li class="">
 										<a href="outils_generaux">Outils généraux</a>

@@ -16,9 +16,19 @@
 						</div>
 					</div>
 					<div class="row">
+
 						<div class="col-sm-4">
-							<img src="images/projets/organi.jpg" alt="Formation par simulation en santé mentale (2015-2016)">
+							<div class="cadre-image-projet">
+								<img src="images/projets/projet_formation_simulation.jpg">
+							</div>
+							<?php
+								if ($action->isLoggedIn() && $action->enModeEcriture()) {
+									echo $action->optionImage();
+									$action->televerserImage();
+								}
+							?>
 						</div>
+
 						<div class="col-sm-8">
 							<p>Grâce à une subvention du Ministère de l’Économie et des Importations du Québec, le CRISPESH a développé un modèle de formation par simulation en santé mentale offert sur support multimédia pour les intervenants d’une ressource communautaire œuvrant en région éloignée au sein d’une communauté inuit.</p>
 							<div class="col-sm-12">

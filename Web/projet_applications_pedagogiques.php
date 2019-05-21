@@ -16,9 +16,19 @@
 						</div>
 					</div>
 					<div class="row">
+
 						<div class="col-sm-4">
-							<img src="images/projets/cua.jpg" alt="Les applications pédagogiques de la conception universelle de l’apprentissage (2013-2015)">
+							<div class="cadre-image-projet">
+								<img src="images/projets/projet_applications_pedagogiques.jpg">
+							</div>
+							<?php
+								if ($action->isLoggedIn() && $action->enModeEcriture()) {
+									echo $action->optionImage();
+									$action->televerserImage();
+								}
+							?>
 						</div>
+
 						<div class="col-sm-8">
 							<p>Ce projet a conduit à l’élaboration de stratégies pédagogiques conçues selon les principes de la conception universelle de l’apprentissage (CUA). L’objectif était de soutenir les enseignants dans la planification de cours qui répondent à la fois aux besoins des étudiants en situation de handicap et à ceux de l’ensemble des étudiants de la classe. Ce projet s’inscrivait dans une perspective proactive en proposant des solutions pédagogiques axées sur la planification plutôt que sur des réponses rétroactives à des besoins individuels.</p>
 							<p>Grâce à ce projet interordres, cinq établissements postsecondaires ont travaillé de concert: l’Université de Montréal, l’Université du Québec à Montréal (UQAM), le Collège Montmorency, le Cégep Marie-Victorin et le Cégep du Vieux Montréal.</p>

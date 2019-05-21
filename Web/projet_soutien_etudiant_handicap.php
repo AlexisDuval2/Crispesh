@@ -16,9 +16,19 @@
 						</div>
 					</div>
 					<div class="row">
+
 						<div class="col-sm-4">
-							<img src="images/projets/filles.jpg" alt="Soutien à l’intégration des étudiants en situation de handicap: développement d’un instrument d’évaluation des besoins de l’apprenant (2015-2017)">
+							<div class="cadre-image-projet">
+								<img src="images/projets/projet_soutien_etudiant_handicap.jpg">
+							</div>
+							<?php
+								if ($action->isLoggedIn() && $action->enModeEcriture()) {
+									echo $action->optionImage();
+									$action->televerserImage();
+								}
+							?>
 						</div>
+
 						<div class="col-sm-8">
 							<p>L’objectif de ce projet est de développer un instrument d’évaluation à l’intention des intervenants des services adaptés pour soutenir les étudiants en situation de handicap dans leur réussite éducative. Le nombre d’étudiants en situation de handicap (ESH) au collégial s’est accru de manière remarquable au cours de la dernière décennie et leur profil s’est largement transformé. Les collèges disposent de services adaptés (SA) qui ont pour mandat l’accompagnement des ESH vers la réussite éducative. Ces SA ont démontré, depuis leur implantation, qu’ils favorisent la réussite des ESH qui les utilisent. Or, l’accompagnement des ESH se complexifie. Le constat actuel sur les pratiques d’accompagnement basées sur le modèle médical qui prévaut au sein des SA des collèges permet de conclure que ces pratiques ne sont pas à la hauteur des défis d’aujourd’hui. Le manque d’outils d’évaluation et de suivi des ESH est établi et met en évidence la limite actuelle des pratiques en accompagnement vers la réussite des ESH. Ce projet permettra, à terme, de dépasser cette limite.</p>
 							<p>Au  terme de ce projet, nous développerons un instrument d’évaluation du profil d’apprenant des ESH en milieu collégial qui, en plus de générer un profil personnalisé, proposera diverses ressources (humaines et matérielles) encourageant la réussite éducative des ESH. De plus, cet outil de travail permettra le développement de comportements d’autodétermination chez les ESH, ce qui favorisa également leur réussite éducative. En plus d’offrir des réponses aux besoins des ESH de manière plus pointue et systématique, cet outil servira aux conseillers en services adaptés de tous les établissements de niveau collégial (privés et publics) de la province et favorisera une harmonisation des pratiques en la matière.</p>

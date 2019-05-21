@@ -16,9 +16,19 @@
 						</div>
 					</div>
 					<div class="row">
+
 						<div class="col-sm-4">
-							<img src="images/projets/iphone.jpg" alt="Développement d’un modèle d’incubateur d’entreprises inclusif destiné aux Autochtones (2016-2018)">
+							<div class="cadre-image-projet">
+								<img src="images/projets/projet_incubateur_autochtones.jpg">
+							</div>
+							<?php
+								if ($action->isLoggedIn() && $action->enModeEcriture()) {
+									echo $action->optionImage();
+									$action->televerserImage();
+								}
+							?>
 						</div>
+
 						<div class="col-sm-8">
 							<p>Les inégalités salariales et d’accès à l’emploi persistent entre les Autochtones et le reste de la population canadienne. Par ailleurs, les membres des Premières Nations qui se retrouvent en situation de handicap (troubles de santé mentale, handicap physique, sensoriel ou moteur, trouble ou difficulté d’apprentissage, etc.) peuvent facilement être sujets à une double discrimination sur le marché de l’emploi, de par leur appartenance culturelle et leurs besoins particuliers. Ces facteurs freinent leur épanouissement professionnel et empêchent le marché du travail de bénéficier de travailleurs qualifiés qui pourraient contribuer au maintien d’une économie locale prospère.</p>
 							<p>L'entrepreneuriat représente une voie qui peut faciliter l'inclusion sociale et économique de personnes marginalisées en misant sur leurs intérêts et leurs compétences. Cette avenue est flexible, facilement adaptable aux besoins particuliers des individus qui s'y engagent et respectueuse des conceptions sociales et culturelles spécifiques de l'économie locale. Toutefois, du soutien et de l'accompagnement sont essentiels afin de rendre cette voie possible et durable. En ce sens, l'incubateur d'entreprises est une structure d'accompagnement adaptée qui offre différents services afin de faciliter le passage de l'idée à la mise en place d'un projet d'entreprise.</p>

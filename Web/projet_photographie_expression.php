@@ -24,7 +24,6 @@
 								<?php echo ContentDao::lire_titreProjet(); ?>
 							</div>
 							<?php } ?>
-							<!-- <h1>La photographie comme moyen d’expression, de participation sociale, d’autodétermination et d’inclusion  des étudiants en situation de handicap au collégial (2015-2016)</h1> -->
 						</div>
 
 					</div>

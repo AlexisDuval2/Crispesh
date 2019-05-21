@@ -21,8 +21,6 @@
 								<?php echo ContentDao::lire_titreProjet(); ?>
 							</div>
 							<?php } ?>
-							<!-- <br>
-							<center><h1>Développement d’un modèle d’incubateur d’entreprises inclusif destiné aux Autochtones (2016-2018)</h1></center> -->
 						</div>
 
 					</div>

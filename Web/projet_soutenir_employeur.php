@@ -21,8 +21,6 @@
 								<?php echo ContentDao::lire_titreProjet(); ?>
 							</div>
 							<?php } ?>
-							<!-- <br>
-							<center><h1>Soutenir l’employeur dans l’inclusion professionnelle des personnes vivant avec une déficience intellectuelle ou un trouble du spectre de l’autisme (2016-2017)</h1></center> -->
 						</div>
 					</div>
 					<div class="row">

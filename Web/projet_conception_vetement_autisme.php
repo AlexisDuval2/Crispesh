@@ -21,8 +21,6 @@
 								<?php echo ContentDao::lire_titreProjet(); ?>
 							</div>
 							<?php } ?>
-							<!-- <br>
-							<center><h1>Conception d’un vêtement de compression adapté pour des adolescents et de jeunes adultes vivant avec un trouble du spectre de l’autisme (2015-2016)</h1></center> -->
 						</div>
 					</div>
 					<div class="row">

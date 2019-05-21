@@ -21,8 +21,6 @@
 								<?php echo ContentDao::lire_titreProjet(); ?>
 							</div>
 							<?php } ?>
-							<!-- <br>
-							<center><h1>Les applications pédagogiques de la conception universelle de l’apprentissage (2013-2015)</h1></center> -->
 						</div>
 
 					</div>

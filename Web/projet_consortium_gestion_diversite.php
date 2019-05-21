@@ -21,8 +21,6 @@
 								<?php echo ContentDao::lire_titreProjet(); ?>
 							</div>
 							<?php } ?>
-							<!-- <br>
-							<center><h1>Consortium de recherche sur la gestion de la diversité en emploi (2014-2015)</h1></center> -->
 						</div>
 					</div>
 					<div class="row">

@@ -22,10 +22,6 @@
 									<?php echo ContentDao::lire_titreProjet(); ?>
 								</div>
 								<?php } ?>
-								<!-- <h4>Intégrer les nouvelles populations étudiantes en situation de handicap aux études supérieures : mission possible (2011-2013)</h4>
-								<li class="active">
-										<a href="projet_integrer_etudiants">Comité INTERORDRES</a>
-								</li> -->
 							</div><!-- col -->
 
 						</div><!-- row -->

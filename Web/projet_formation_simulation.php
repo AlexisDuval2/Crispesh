@@ -21,8 +21,6 @@
 								<?php echo ContentDao::lire_titreProjet(); ?>
 							</div>
 							<?php } ?>
-							<!-- <br>
-							<center><h1>Formation par simulation en santé mentale (2015-2016)</h1></center> -->
 						</div>
 					</div>
 					<div class="row">

@@ -24,8 +24,6 @@
 								<?php echo ContentDao::lire_titreProjet(); ?>
 							</div>
 							<?php } ?>
-							<!-- <br>
-							<center><h1>L’amélioration du français écrit des adultes ayant un trouble d’apprentissage, soutenus par les aides technologiques (2012-2014)</h1></center> -->
 						</div>
 
 					</div>

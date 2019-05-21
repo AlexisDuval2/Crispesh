@@ -21,8 +21,6 @@
 								<?php echo ContentDao::lire_titreProjet(); ?>
 							</div>
 							<?php } ?>
-							<!-- <br>
-							<center><h1>Soutien à l’intégration des étudiants en situation de handicap: développement d’un instrument d’évaluation des besoins de l’apprenant (2015-2017)</h1></center> -->
 						</div>
 
 					</div>

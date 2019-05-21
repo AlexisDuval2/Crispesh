@@ -1,0 +1,29 @@
+
+--------------------------------------------------
+TITRES
+--------------------------------------------------
+1
+<h1>L’amélioration du français écrit des adultes ayant un trouble d’apprentissage, soutenus par les aides technologiques (2012-2014)</h1>
+--------------------------------------------------
+2
+<center><h1>Améliorer les conditions de sommeil de l’enfant vivant avec un trouble du spectre de l’autisme  grâce à un design réfléchi et personnalisé de sa chambre (2016-2017)</h1></center>
+--------------------------------------------------
+3
+<center><h1>Les applications pédagogiques de la conception universelle de l’apprentissage (2013-2015)</h1></center>
+--------------------------------------------------
+4
+<center><h1>Conception d’un vêtement de compression adapté pour des adolescents et de jeunes adultes vivant avec un trouble du spectre de l’autisme (2015-2016)</h1></center>
+--------------------------------------------------
+5
+<center><h1>Consortium de recherche sur la gestion de la diversité en emploi (2014-2015)</h1></center>
+--------------------------------------------------
+6
+<center><h1>Formation par simulation en santé mentale (2015-2016)</h1></center>
+--------------------------------------------------
+7
+<center><h1>Développement d’un modèle d’incubateur d’entreprises inclusif destiné aux Autochtones (2016-2018)</h1></center>
+--------------------------------------------------
+8
+--------------------------------------------------
+9
+

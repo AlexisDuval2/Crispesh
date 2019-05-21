@@ -68,11 +68,9 @@
 									if ($action->isLoggedIn() && $action->enModeEcriture()) {
 										echo $action->optionsEmploye(1);
 									} else {
+										echo ContentDao::lire_emp(1);
+									}
 								?>
-								<div id="index-texte">
-									<?php echo ContentDao::lire_emp(1); ?>
-								</div>
-								<?php } ?>
 							</div>
 
 							<div class="col-sm-12">
@@ -84,11 +82,9 @@
 									if ($action->isLoggedIn() && $action->enModeEcriture()) {
 										echo $action->optionsEmploye(2);
 									} else {
+										echo ContentDao::lire_emp(2);
+									}
 								?>
-								<div id="index-texte">
-									<?php echo ContentDao::lire_emp(2); ?>
-								</div>
-								<?php } ?>
 							</div>
 
 							<div class="col-sm-12">
@@ -100,11 +96,9 @@
 									if ($action->isLoggedIn() && $action->enModeEcriture()) {
 										echo $action->optionsEmploye(3);
 									} else {
+										echo ContentDao::lire_emp(3);
+									}
 								?>
-								<div id="index-texte">
-									<?php echo ContentDao::lire_emp(3); ?>
-								</div>
-								<?php } ?>
 							</div>
 
 							<div class="col-sm-12">
@@ -116,11 +110,9 @@
 									if ($action->isLoggedIn() && $action->enModeEcriture()) {
 										echo $action->optionsEmploye(4);
 									} else {
+										echo ContentDao::lire_emp(4);
+									}
 								?>
-								<div id="index-texte">
-									<?php echo ContentDao::lire_emp(4); ?>
-								</div>
-								<?php } ?>
 							</div>
 
 						</div><!-- col -->

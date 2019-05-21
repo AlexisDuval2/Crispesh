@@ -22,11 +22,9 @@
 										if ($action->isLoggedIn() && $action->enModeEcriture()) {
 											echo $action->optionsTitre();
 										} else {
+											echo ContentDao::lire_titreIndex();
+										}
 									?>
-									<div id="index-titre">
-										<?php echo ContentDao::lire_titreIndex(); ?>
-									</div>
-									<?php } ?>
 								</div>
 
 							</div>

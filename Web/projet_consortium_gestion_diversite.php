@@ -19,11 +19,9 @@
 								if ($action->isLoggedIn() && $action->enModeEcriture()) {
 									echo $action->optionsTitreProjet();
 								} else {
+									echo ContentDao::lire_titreProjet();
+								}
 							?>
-							<div id="index-texte">
-								<?php echo ContentDao::lire_titreProjet(); ?>
-							</div>
-							<?php } ?>
 						</div>
 					</div>
 					<div class="row">

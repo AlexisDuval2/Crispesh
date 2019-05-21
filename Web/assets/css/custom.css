@@ -128,17 +128,12 @@ div#cercle_2.rond_background.rouge.droite.grosseur_2 {
  + toutes les pages projets
 -------------------------------------------------------------------------------------*/
 
-.titre-projet {
+.titre-projet .texte-projet {
 	width: 100%;
 	margin: auto;
 	margin-top: 20px;
 	margin-bottom: 20px;
 	text-align: center;
-}
-
-.titre-projet * {
-	margin: 0px;
-	padding: 0px;
 }
 
 .formulaire-image {

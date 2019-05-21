@@ -36,7 +36,7 @@
 
 			$textareaName = "texte-index-main";
 			$formId = "ck-index-main";
-			$hauteur = 550;
+			$hauteur = 500;
 
 			if (isset($_POST[$textareaName])) {
 				ContentDao:: ecrire_texteIndex($_POST[$textareaName]);

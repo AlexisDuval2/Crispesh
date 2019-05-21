@@ -15,9 +15,9 @@
 				<section class="full-section" id="section-23">
 					<div class="full-section-container bg-blanc">
 						<div class="container">
-							<div class="row" id="index-titre">
+							<div class="row" id="cadre-index-titre">
 
-								<div class="col-sm-12">
+								<div class="col-sm-12" id="index-titre"">
 									<?php
 										if ($action->isLoggedIn() && $action->enModeEcriture()) {
 											echo $action->optionsTitre();

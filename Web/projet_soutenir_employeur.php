@@ -6,12 +6,15 @@
 	require_once("partial/header.php");
 ?>
 
+			<script src="ckeditor/ckeditor.js"></script>
+			<script src="js/boutons_modifier.js"></script>
+
 			<!-- CONTENT -->
 			<div id="content">
 				<div class="container">
 					<div class="row">
 
-						<div class="col-sm-12">
+						<div class="col-sm-12 titre-projet">
 							<?php
 								if ($action->isLoggedIn() && $action->enModeEcriture()) {
 									echo $action->optionsTitreProjet();

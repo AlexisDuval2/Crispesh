@@ -192,6 +192,10 @@ div#cercle_2.rond_background.rouge.droite.grosseur_2 {
 	justify-content: center;
 }
 
+div.col-sm-8.texte-projet {
+	background-color: red;
+}
+
 /*-------------------------------------------------------------------------------------
  + nous_joindre.php
 -------------------------------------------------------------------------------------*/

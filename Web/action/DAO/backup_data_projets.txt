@@ -1,56 +1,56 @@
-
+ï»¿
 --------------------------------------------------
 TITRES
 --------------------------------------------------
 1
-<h1>L’amélioration du français écrit des adultes ayant un trouble d’apprentissage, soutenus par les aides technologiques (2012-2014)</h1>
+<h1>Lâ€™amÃ©lioration du franÃ§ais Ã©crit des adultes ayant un trouble dâ€™apprentissage, soutenus par les aides technologiques (2012-2014)</h1>
 --------------------------------------------------
 2
-<center><h1>Améliorer les conditions de sommeil de l’enfant vivant avec un trouble du spectre de l’autisme  grâce à un design réfléchi et personnalisé de sa chambre (2016-2017)</h1></center>
+<center><h1>AmÃ©liorer les conditions de sommeil de lâ€™enfant vivant avec un trouble du spectre de lâ€™autisme  grÃ¢ce Ã  un design rÃ©flÃ©chi et personnalisÃ© de sa chambre (2016-2017)</h1></center>
 --------------------------------------------------
 3
-<center><h1>Les applications pédagogiques de la conception universelle de l’apprentissage (2013-2015)</h1></center>
+<center><h1>Les applications pÃ©dagogiques de la conception universelle de lâ€™apprentissage (2013-2015)</h1></center>
 --------------------------------------------------
 4
-<center><h1>Conception d’un vêtement de compression adapté pour des adolescents et de jeunes adultes vivant avec un trouble du spectre de l’autisme (2015-2016)</h1></center>
+<center><h1>Conception dâ€™un vÃªtement de compression adaptÃ© pour des adolescents et de jeunes adultes vivant avec un trouble du spectre de lâ€™autisme (2015-2016)</h1></center>
 --------------------------------------------------
 5
-<center><h1>Consortium de recherche sur la gestion de la diversité en emploi (2014-2015)</h1></center>
+<center><h1>Consortium de recherche sur la gestion de la diversitÃ© en emploi (2014-2015)</h1></center>
 --------------------------------------------------
 6
-<center><h1>Formation par simulation en santé mentale (2015-2016)</h1></center>
+<center><h1>Formation par simulation en santÃ© mentale (2015-2016)</h1></center>
 --------------------------------------------------
 7
-<center><h1>Développement d’un modèle d’incubateur d’entreprises inclusif destiné aux Autochtones (2016-2018)</h1></center>
+<center><h1>DÃ©veloppement dâ€™un modÃ¨le dâ€™incubateur dâ€™entreprises inclusif destinÃ© aux Autochtones (2016-2018)</h1></center>
 --------------------------------------------------
 8
-<h4>Intégrer les nouvelles populations étudiantes en situation de handicap aux études supérieures : mission possible (2011-2013)</h4>
+<h4>IntÃ©grer les nouvelles populations Ã©tudiantes en situation de handicap aux Ã©tudes supÃ©rieures : mission possible (2011-2013)</h4>
 <li>
-<a href="projet_integrer_etudiants">Comité INTERORDRES</a>
+<a href="projet_integrer_etudiants">ComitÃ© INTERORDRES</a>
 </li>
 --------------------------------------------------
 9
-<h1>La photographie comme moyen d’expression, de participation sociale, d’autodétermination et d’inclusion  des étudiants en situation de handicap au collégial (2015-2016)</h1>
+<h1>La photographie comme moyen dâ€™expression, de participation sociale, dâ€™autodÃ©termination et dâ€™inclusion  des Ã©tudiants en situation de handicap au collÃ©gial (2015-2016)</h1>
 --------------------------------------------------
 10
-<center><h1>Soutenir l’employeur dans l’inclusion professionnelle des personnes vivant avec une déficience intellectuelle ou un trouble du spectre de l’autisme (2016-2017)</h1></center>
+<center><h1>Soutenir lâ€™employeur dans lâ€™inclusion professionnelle des personnes vivant avec une dÃ©ficience intellectuelle ou un trouble du spectre de lâ€™autisme (2016-2017)</h1></center>
 --------------------------------------------------
 11
-<center><h1>Soutien à l’intégration des étudiants en situation de handicap: développement d’un instrument d’évaluation des besoins de l’apprenant (2015-2017)</h1></center>
+<center><h1>Soutien Ã  lâ€™intÃ©gration des Ã©tudiants en situation de handicap: dÃ©veloppement dâ€™un instrument dâ€™Ã©valuation des besoins de lâ€™apprenant (2015-2017)</h1></center>
 --------------------------------------------------
 
 --------------------------------------------------
 TEXTES
 --------------------------------------------------
 1
-<p>La problématique à l’origine de cette recherche est liée à la croissance de l’utilisation des aides technologiques pour améliorer la qualité du français écrit des adultes ayant un trouble d’apprentissage. L’omniprésence de l’écriture dans notre société actuelle justifie d’ailleurs cet intérêt marqué. Le problème, par contre, est que cette utilisation est peu documentée et peu évaluée. De plus, jusqu’à ce jour, aucune recherche n’a évalué l’effet de l’accompagnement dans l’utilisation des aides technologiques dans une perspective d’amélioration de l’écriture.</p>
-<p>Donc, présentement, on offre différents services et fonctions d’aide de logiciels sans vraiment connaître l’impact réel des technologies sur le processus d’écriture ou même sur la qualité du français écrit. C’est pour pallier cette situation que, dans le cadre de cette recherche, un devis à cas unique, pour cinq sujets, a été retenu afin de permettre l’évaluation à la fois de l’effet de l’utilisation de certaines fonctions d’aide à l’écriture (édition de texte, dictionnaires, révision-correction et rétroaction vocale) et l’effet de l’accompagnement. La volonté d’élaborer un guide d’accompagnement dans l’utilisation des aides technologiques auprès des adultes ayant un trouble d’apprentissage soutenait également ce choix.</p>
-<p>Les sujets ont donc été accompagnés dans leur processus d’écriture avec aides technologiques pendant 15 semaines à raison d’une fois par semaine. Tout au long de l’expérimentation, ceux-ci ont dû produire une rédaction hebdomadaire, ce qui nous a permis d’obtenir des données. L’analyse des résultats a permis de tirer un certain nombre de recommandations permettant de moduler l’accompagnement dans les aides technologiques afin  qu’il soit plus efficace. Ainsi, il est permis de recommander l’utilisation des fonctions Édition de texte et Révision-correction à tout adulte ayant un trouble d’apprentissage à la condition essentielle qu’y soit associé un accompagnement sur la technique du logiciel ainsi que sur le développement de stratégies d’écriture intégrant les différentes fonctions d’aide. En contrepartie, la prudence est de mise  en ce qui concerne l’utilisation des fonctions Dictionnaires et Rétroaction vocale puisque la recherche a aussi mis en lumière l’efficacité moins constante de ces outils. Il devient donc nécessaire de s’assurer que l’utilisateur répond bien à cette mesure d’aide et qu’il y a effectivement une amélioration de la qualité de son français écrit avant de lui en permettre une utilisation autonome. L’encadrement est essentiel. Le transfert de ces résultats au partenaire, l’Institut des troubles d’apprentissage (ITA), s’est fait et se poursuivra par une collaboration entre les personnes ressources de l’organisme et les chercheurs. En dernier lieu, il apparaît important de poursuivre la recherche dans ce domaine encore peu exploré puisqu’un trop grand décalage subsiste entre la progression de la demande d’utilisation des aides technologiques et le développement des connaissances sur le sujet.</p>
+<p>La problÃ©matique Ã  lâ€™origine de cette recherche est liÃ©e Ã  la croissance de lâ€™utilisation des aides technologiques pour amÃ©liorer la qualitÃ© du franÃ§ais Ã©crit des adultes ayant un trouble dâ€™apprentissage. Lâ€™omniprÃ©sence de lâ€™Ã©criture dans notre sociÃ©tÃ© actuelle justifie dâ€™ailleurs cet intÃ©rÃªt marquÃ©. Le problÃ¨me, par contre, est que cette utilisation est peu documentÃ©e et peu Ã©valuÃ©e. De plus, jusquâ€™Ã  ce jour, aucune recherche nâ€™a Ã©valuÃ© lâ€™effet de lâ€™accompagnement dans lâ€™utilisation des aides technologiques dans une perspective dâ€™amÃ©lioration de lâ€™Ã©criture.</p>
+<p>Donc, prÃ©sentement, on offre diffÃ©rents services et fonctions dâ€™aide de logiciels sans vraiment connaÃ®tre lâ€™impact rÃ©el des technologies sur le processus dâ€™Ã©criture ou mÃªme sur la qualitÃ© du franÃ§ais Ã©crit. Câ€™est pour pallier cette situation que, dans le cadre de cette recherche, un devis Ã  cas unique, pour cinq sujets, a Ã©tÃ© retenu afin de permettre lâ€™Ã©valuation Ã  la fois de lâ€™effet de lâ€™utilisation de certaines fonctions dâ€™aide Ã  lâ€™Ã©criture (Ã©dition de texte, dictionnaires, rÃ©vision-correction et rÃ©troaction vocale) et lâ€™effet de lâ€™accompagnement. La volontÃ© dâ€™Ã©laborer un guide dâ€™accompagnement dans lâ€™utilisation des aides technologiques auprÃ¨s des adultes ayant un trouble dâ€™apprentissage soutenait Ã©galement ce choix.</p>
+<p>Les sujets ont donc Ã©tÃ© accompagnÃ©s dans leur processus dâ€™Ã©criture avec aides technologiques pendant 15 semaines Ã  raison dâ€™une fois par semaine. Tout au long de lâ€™expÃ©rimentation, ceux-ci ont dÃ» produire une rÃ©daction hebdomadaire, ce qui nous a permis dâ€™obtenir des donnÃ©es. Lâ€™analyse des rÃ©sultats a permis de tirer un certain nombre de recommandations permettant de moduler lâ€™accompagnement dans les aides technologiques afin  quâ€™il soit plus efficace. Ainsi, il est permis de recommander lâ€™utilisation des fonctions Ã‰dition de texte et RÃ©vision-correction Ã  tout adulte ayant un trouble dâ€™apprentissage Ã  la condition essentielle quâ€™y soit associÃ© un accompagnement sur la technique du logiciel ainsi que sur le dÃ©veloppement de stratÃ©gies dâ€™Ã©criture intÃ©grant les diffÃ©rentes fonctions dâ€™aide. En contrepartie, la prudence est de mise  en ce qui concerne lâ€™utilisation des fonctions Dictionnaires et RÃ©troaction vocale puisque la recherche a aussi mis en lumiÃ¨re lâ€™efficacitÃ© moins constante de ces outils. Il devient donc nÃ©cessaire de sâ€™assurer que lâ€™utilisateur rÃ©pond bien Ã  cette mesure dâ€™aide et quâ€™il y a effectivement une amÃ©lioration de la qualitÃ© de son franÃ§ais Ã©crit avant de lui en permettre une utilisation autonome. Lâ€™encadrement est essentiel. Le transfert de ces rÃ©sultats au partenaire, lâ€™Institut des troubles dâ€™apprentissage (ITA), sâ€™est fait et se poursuivra par une collaboration entre les personnes ressources de lâ€™organisme et les chercheurs. En dernier lieu, il apparaÃ®t important de poursuivre la recherche dans ce domaine encore peu explorÃ© puisquâ€™un trop grand dÃ©calage subsiste entre la progression de la demande dâ€™utilisation des aides technologiques et le dÃ©veloppement des connaissances sur le sujet.</p>
 <hr>
 <h6>Chercheuse</h6>
 <p>Evelyne Pitre</p>
-<p>Enseignante au Cégep du Vieux Montréal</p>
-<p>Département de français</p>
+<p>Enseignante au CÃ©gep du Vieux MontrÃ©al</p>
+<p>DÃ©partement de franÃ§ais</p>
 <hr>
 <h6>Chercheur</h6>
 <p>Marc Tremblay</p>
@@ -63,14 +63,14 @@ TEXTES
 <hr>
 --------------------------------------------------
 2
-<p>La Fédération québécoise de l’autisme estime la prévalence du trouble du spectre de l’autisme (TSA) à près de 1% de la population canadienne, mais des recherches démontrent que cette donnée sous-évalue le nombre réel d’individus touchés par ce trouble. Les problèmes de sommeil sont fréquents chez les enfants qui ont un TSA. Les raisons de ces problèmes de sommeil sont variées et peuvent être, par exemple, d’ordre physiologique, cognitif, sensoriel ou une combinaison de facteurs. Quelles qu’en soient les causes, le manque de sommeil aura inévitablement des conséquences sur la qualité de vie de l’enfant et de sa famille. Bien que l’aménagement de la chambre figure au premier rang des solutions que les parents peuvent apporter, la chambre des enfants ayant un TSA demeure un lieu bien peu étudié en design d’intérieur. De plus, il est démontré que le TSA se manifeste par des réactions inhabituelles à des expériences sensorielles. En effet, les personnes touchées par le TSA ont souvent de la difficulté à traiter et à répondre aux différents stimuli sensoriels, tels que l’ouïe, la vue et le toucher. Elles peuvent être hypo ou hypersensibles. Plusieurs chercheurs suggèrent que l’hypersensibilité peut provoquer des réactions sensorielles à l’origine des difficultés de sommeil. Pourtant, bien que le risque que le sommeil soit perturbé pour des raisons sensorielles chez les enfants ayant un TSA soit particulièrement élevé, cette composante est peu documentée. Ce projet propose de s’intéresser à l’aménagement de la chambre de l’enfant de 2 à 12 ans ayant un TSA en se basant sur les perceptions sensorielles de celui-ci. Pour ce faire, le projet fera le pont entre les études sur l’aménagement d’environnements conviviaux pour les personnes ayant un TSA et transférera ces connaissances vers l’aménagement de la chambre.</p>
-<p>L’objectif général de ce projet est de développer un cadre général, adaptable aux besoins individuels, d’aménagement de chambre pour enfants  de 2 à 12 ans vivant avec un TSA, qui se base sur les perceptions sensorielles. Les objectifs particuliers sont : 1) consolider et répertorier les connaissances sur les besoins sensoriels des enfants vivant avec un TSA (ex : toucher, sentir, goûter, voir, entendre, mouvement); 2) établir les paramètres à prendre en considération pour un design réfléchi et personnalisé; 3) proposer un ensemble flexible de directives qui puisse guider vers une réponse personnalisée et basée sur les profils de perception sensorielle (hypo/hypersensibilité).</p>
-<p>Grâce à la réalisation de ce projet, le CRISPESH pourra consolider ses connaissances et développer un créneau d’expertise peu étudié. Les programmes de Techniques de design d’intérieur du Cégep du Vieux Montréal et du Collège Dawson pourront bénéficier de nouveaux apprentissages visant à concevoir des aménagements réfléchis et personnalisés. Cela permettra au CRISPESH et à ses deux collèges affiliés de développer davantage leur capacité de recherche. L’originalité et la pertinence de ce projet résident dans une consolidation de connaissances qui n’ont jamais été regroupées à cette fin, mais aussi dans la prise en compte de l’expérience des personnes et des milieux concernés. Aucun effort n’a été déployé auparavant pour réunir toutes ces connaissances en vue d’apporter du soutien dans ce grand défi qui peut paraître banal pour toute personne qui n’est pas familière avec le sujet. Les ergothérapeutes peuvent certes aider dans cette entreprise et les informations obtenues grâce à l’évaluation sensorielle des enfants sont également utiles, mais aucun cadre de référence d’aménagement de la chambre de l’enfant ayant un trouble du spectre de l’autisme n’existe à l’heure actuelle. De façon générale, ce projet pourra améliorer la qualité de vie de plusieurs enfants et de leurs familles en contribuant à satisfaire ce besoin vital qu’est le sommeil.</p>
+<p>La FÃ©dÃ©ration quÃ©bÃ©coise de lâ€™autisme estime la prÃ©valence du trouble du spectre de lâ€™autisme (TSA) Ã  prÃ¨s de 1% de la population canadienne, mais des recherches dÃ©montrent que cette donnÃ©e sous-Ã©value le nombre rÃ©el dâ€™individus touchÃ©s par ce trouble. Les problÃ¨mes de sommeil sont frÃ©quents chez les enfants qui ont un TSA. Les raisons de ces problÃ¨mes de sommeil sont variÃ©es et peuvent Ãªtre, par exemple, dâ€™ordre physiologique, cognitif, sensoriel ou une combinaison de facteurs. Quelles quâ€™en soient les causes, le manque de sommeil aura inÃ©vitablement des consÃ©quences sur la qualitÃ© de vie de lâ€™enfant et de sa famille. Bien que lâ€™amÃ©nagement de la chambre figure au premier rang des solutions que les parents peuvent apporter, la chambre des enfants ayant un TSA demeure un lieu bien peu Ã©tudiÃ© en design dâ€™intÃ©rieur. De plus, il est dÃ©montrÃ© que le TSA se manifeste par des rÃ©actions inhabituelles Ã  des expÃ©riences sensorielles. En effet, les personnes touchÃ©es par le TSA ont souvent de la difficultÃ© Ã  traiter et Ã  rÃ©pondre aux diffÃ©rents stimuli sensoriels, tels que lâ€™ouÃ¯e, la vue et le toucher. Elles peuvent Ãªtre hypo ou hypersensibles. Plusieurs chercheurs suggÃ¨rent que lâ€™hypersensibilitÃ© peut provoquer des rÃ©actions sensorielles Ã  lâ€™origine des difficultÃ©s de sommeil. Pourtant, bien que le risque que le sommeil soit perturbÃ© pour des raisons sensorielles chez les enfants ayant un TSA soit particuliÃ¨rement Ã©levÃ©, cette composante est peu documentÃ©e. Ce projet propose de sâ€™intÃ©resser Ã  lâ€™amÃ©nagement de la chambre de lâ€™enfant de 2 Ã  12 ans ayant un TSA en se basant sur les perceptions sensorielles de celui-ci. Pour ce faire, le projet fera le pont entre les Ã©tudes sur lâ€™amÃ©nagement dâ€™environnements conviviaux pour les personnes ayant un TSA et transfÃ©rera ces connaissances vers lâ€™amÃ©nagement de la chambre.</p>
+<p>Lâ€™objectif gÃ©nÃ©ral de ce projet est de dÃ©velopper un cadre gÃ©nÃ©ral, adaptable aux besoins individuels, dâ€™amÃ©nagement de chambre pour enfants  de 2 Ã  12 ans vivant avec un TSA, qui se base sur les perceptions sensorielles. Les objectifs particuliers sont : 1) consolider et rÃ©pertorier les connaissances sur les besoins sensoriels des enfants vivant avec un TSA (ex : toucher, sentir, goÃ»ter, voir, entendre, mouvement); 2) Ã©tablir les paramÃ¨tres Ã  prendre en considÃ©ration pour un design rÃ©flÃ©chi et personnalisÃ©; 3) proposer un ensemble flexible de directives qui puisse guider vers une rÃ©ponse personnalisÃ©e et basÃ©e sur les profils de perception sensorielle (hypo/hypersensibilitÃ©).</p>
+<p>GrÃ¢ce Ã  la rÃ©alisation de ce projet, le CRISPESH pourra consolider ses connaissances et dÃ©velopper un crÃ©neau dâ€™expertise peu Ã©tudiÃ©. Les programmes de Techniques de design dâ€™intÃ©rieur du CÃ©gep du Vieux MontrÃ©al et du CollÃ¨ge Dawson pourront bÃ©nÃ©ficier de nouveaux apprentissages visant Ã  concevoir des amÃ©nagements rÃ©flÃ©chis et personnalisÃ©s. Cela permettra au CRISPESH et Ã  ses deux collÃ¨ges affiliÃ©s de dÃ©velopper davantage leur capacitÃ© de recherche. Lâ€™originalitÃ© et la pertinence de ce projet rÃ©sident dans une consolidation de connaissances qui nâ€™ont jamais Ã©tÃ© regroupÃ©es Ã  cette fin, mais aussi dans la prise en compte de lâ€™expÃ©rience des personnes et des milieux concernÃ©s. Aucun effort nâ€™a Ã©tÃ© dÃ©ployÃ© auparavant pour rÃ©unir toutes ces connaissances en vue dâ€™apporter du soutien dans ce grand dÃ©fi qui peut paraÃ®tre banal pour toute personne qui nâ€™est pas familiÃ¨re avec le sujet. Les ergothÃ©rapeutes peuvent certes aider dans cette entreprise et les informations obtenues grÃ¢ce Ã  lâ€™Ã©valuation sensorielle des enfants sont Ã©galement utiles, mais aucun cadre de rÃ©fÃ©rence dâ€™amÃ©nagement de la chambre de lâ€™enfant ayant un trouble du spectre de lâ€™autisme nâ€™existe Ã  lâ€™heure actuelle. De faÃ§on gÃ©nÃ©rale, ce projet pourra amÃ©liorer la qualitÃ© de vie de plusieurs enfants et de leurs familles en contribuant Ã  satisfaire ce besoin vital quâ€™est le sommeil.</p>
 <hr>
-<h6>Chargée de projet et chercheuse</h6>
+<h6>ChargÃ©e de projet et chercheuse</h6>
 <p>Marise Lachapelle</p>
 <hr>
-<h6>Professionnelle de recherche et coordonnatrice des activités </h6>
+<h6>Professionnelle de recherche et coordonnatrice des activitÃ©s </h6>
 <p>Audrey Bigras</p>
 <hr>
 <h6>Chercheuse</h6>
@@ -81,130 +81,130 @@ TEXTES
 <hr>
 <h6>Assistantes de recherche</h6>
 <p>Charlotte Leroux</p>
-<p>Étudiante en Techniques de design d’intérieur au Cégep du Vieux Montréal</p>
+<p>Ã‰tudiante en Techniques de design dâ€™intÃ©rieur au CÃ©gep du Vieux MontrÃ©al</p>
 <p>Tess Perron-Laurin</p>
-<p>Étudiante en Techniques de design d’intérieur au Cégep du Vieux Montréal</p>
+<p>Ã‰tudiante en Techniques de design dâ€™intÃ©rieur au CÃ©gep du Vieux MontrÃ©al</p>
 <hr>
 <h6>Organisme subventionnaire</h6>
-<p>Ministère de l’éducation et de l’enseignement supérieur</p>
+<p>MinistÃ¨re de lâ€™Ã©ducation et de lâ€™enseignement supÃ©rieur</p>
 <hr>
 --------------------------------------------------
 3
-<p>Ce projet a conduit à l’élaboration de stratégies pédagogiques conçues selon les principes de la conception universelle de l’apprentissage (CUA). L’objectif était de soutenir les enseignants dans la planification de cours qui répondent à la fois aux besoins des étudiants en situation de handicap et à ceux de l’ensemble des étudiants de la classe. Ce projet s’inscrivait dans une perspective proactive en proposant des solutions pédagogiques axées sur la planification plutôt que sur des réponses rétroactives à des besoins individuels.</p>
-<p>Grâce à ce projet interordres, cinq établissements postsecondaires ont travaillé de concert: l’Université de Montréal, l’Université du Québec à Montréal (UQAM), le Collège Montmorency, le Cégep Marie-Victorin et le Cégep du Vieux Montréal.</p>
-<p>Pour plus d’information :
+<p>Ce projet a conduit Ã  lâ€™Ã©laboration de stratÃ©gies pÃ©dagogiques conÃ§ues selon les principes de la conception universelle de lâ€™apprentissage (CUA). Lâ€™objectif Ã©tait de soutenir les enseignants dans la planification de cours qui rÃ©pondent Ã  la fois aux besoins des Ã©tudiants en situation de handicap et Ã  ceux de lâ€™ensemble des Ã©tudiants de la classe. Ce projet sâ€™inscrivait dans une perspective proactive en proposant des solutions pÃ©dagogiques axÃ©es sur la planification plutÃ´t que sur des rÃ©ponses rÃ©troactives Ã  des besoins individuels.</p>
+<p>GrÃ¢ce Ã  ce projet interordres, cinq Ã©tablissements postsecondaires ont travaillÃ© de concert: lâ€™UniversitÃ© de MontrÃ©al, lâ€™UniversitÃ© du QuÃ©bec Ã  MontrÃ©al (UQAM), le CollÃ¨ge Montmorency, le CÃ©gep Marie-Victorin et le CÃ©gep du Vieux MontrÃ©al.</p>
+<p>Pour plus dâ€™information :
 	<a href="http://www.pcua.ca" target="_blank">www.pcua.ca</a>
 </p>
 <hr>
 <h6>Coordination</h6>
-<p>Stéphanie Tremblay</p>
-<p>Chargée de projet, d’octobre 2013 à novembre 2014</p>
+<p>StÃ©phanie Tremblay</p>
+<p>ChargÃ©e de projet, dâ€™octobre 2013 Ã  novembre 2014</p>
 <p>Paul Turcotte</p>
-<p>Chargé de projet, de novembre 2014 jusqu’à la fin du projet</p>
+<p>ChargÃ© de projet, de novembre 2014 jusquâ€™Ã  la fin du projet</p>
 <p>Florence Lebeau</p>
-<p>Chargée de projet, de novembre 2014 à juin 2015</p>
+<p>ChargÃ©e de projet, de novembre 2014 Ã  juin 2015</p>
 <hr>
-<h6>Comité de direction</h6>
+<h6>ComitÃ© de direction</h6>
 <p>Marie Blain</p>
-<p>Directrice adjointe aux études, Cégep Marie-Victorin</p>
+<p>Directrice adjointe aux Ã©tudes, CÃ©gep Marie-Victorin</p>
 <p>Yves Carignan</p>
-<p>Directeur des affaires étudiantes et relations avec la communauté, Collège Montmorency, 2013-2014</p>
-<p>Nathalie Giguère</p>
-<p>Directrice des études, Cégep du Vieux Montréal, 2014-2015</p>
+<p>Directeur des affaires Ã©tudiantes et relations avec la communautÃ©, CollÃ¨ge Montmorency, 2013-2014</p>
+<p>Nathalie GiguÃ¨re</p>
+<p>Directrice des Ã©tudes, CÃ©gep du Vieux MontrÃ©al, 2014-2015</p>
 <p>Thomas Henderson</p>
-<p>Directeur du Centre de recherche pour l’inclusion scolaire et professionnelle des étudiants en situation de handicap (CRISPESH), 2013-2014</p>
-<p>Carole Lavallée</p>
-<p>Directrice adjointe des études, Cégep du Vieux Montréal, 2013</p>
+<p>Directeur du Centre de recherche pour lâ€™inclusion scolaire et professionnelle des Ã©tudiants en situation de handicap (CRISPESH), 2013-2014</p>
+<p>Carole LavallÃ©e</p>
+<p>Directrice adjointe des Ã©tudes, CÃ©gep du Vieux MontrÃ©al, 2013</p>
 <p>Catherine Loiselle</p>
-<p>Directrice générale du Centre de recherche pour l’inclusion scolaire et professionnelle des étudiants en situation de handicap (CRISPESH), 2014-2015</p>
+<p>Directrice gÃ©nÃ©rale du Centre de recherche pour lâ€™inclusion scolaire et professionnelle des Ã©tudiants en situation de handicap (CRISPESH), 2014-2015</p>
 <p>Dolores Otero</p>
-<p>Directrice, Services à la vie étudiante – Centre des services d’accueil et de soutien socioéconomique, Université du Québec à Montréal</p>
-<p>Hélène Trifiro</p>
-<p>Directrice du Centre étudiant du soutien à la réussite, Université de Montréal</p>
+<p>Directrice, Services Ã  la vie Ã©tudiante â€“ Centre des services dâ€™accueil et de soutien socioÃ©conomique, UniversitÃ© du QuÃ©bec Ã  MontrÃ©al</p>
+<p>HÃ©lÃ¨ne Trifiro</p>
+<p>Directrice du Centre Ã©tudiant du soutien Ã  la rÃ©ussite, UniversitÃ© de MontrÃ©al</p>
 <hr>
-<h6>Comité de travail</h6>
+<h6>ComitÃ© de travail</h6>
 <p>Brigitte Auclair</p>
-<p>Enseignante  de français, Collège Montmorency </p>
-<p>Véronique Besançon</p>
-<p>Conseillère  pédagogique, Université de Montréal </p>
-<p>Jean-René Corbeil</p>
-<p>Enseignant en Technologies de l’architecture, Collège Montmorency</p>
+<p>Enseignante  de franÃ§ais, CollÃ¨ge Montmorency </p>
+<p>VÃ©ronique BesanÃ§on</p>
+<p>ConseillÃ¨re  pÃ©dagogique, UniversitÃ© de MontrÃ©al </p>
+<p>Jean-RenÃ© Corbeil</p>
+<p>Enseignant en Technologies de lâ€™architecture, CollÃ¨ge Montmorency</p>
 <p>Antoine Coulombe</p>
-<p>Enseignant en Techniques de travail social, Cégep Marie-Victorin</p>
+<p>Enseignant en Techniques de travail social, CÃ©gep Marie-Victorin</p>
 <p>Johanne Morin</p>
-<p>Enseignante en Techniques de travail social, Cégep Marie-Victorin </p>
-<p>Cédric Lamathe</p>
-<p>Enseignant de mathématiques, Cégep du Vieux Montréal</p>
+<p>Enseignante en Techniques de travail social, CÃ©gep Marie-Victorin </p>
+<p>CÃ©dric Lamathe</p>
+<p>Enseignant de mathÃ©matiques, CÃ©gep du Vieux MontrÃ©al</p>
 <p>Florence Lebeau</p>
-<p>Chargée  de cours à la Faculté de l’Aménagement, Université de Montréal </p>
+<p>ChargÃ©e  de cours Ã  la FacultÃ© de lâ€™AmÃ©nagement, UniversitÃ© de MontrÃ©al </p>
 <p>Paul Turcotte</p>
-<p>Enseignant de philosophie, Cégep du Vieux Montréal</p>
+<p>Enseignant de philosophie, CÃ©gep du Vieux MontrÃ©al</p>
 <p>Steve Vezeau</p>
-<p>Enseignant à l’École de design, Université du Québec à Montréal</p>
+<p>Enseignant Ã  lâ€™Ã‰cole de design, UniversitÃ© du QuÃ©bec Ã  MontrÃ©al</p>
 <hr>
 --------------------------------------------------
 4
-<p>Dans le cadre du Programme d’aide à la recherche et au transfert (PART), Vestechpro et le CRISPESH se sont associées à une entreprise québécoise pour concevoir un vêtement de compression adapté pour les adolescents et les jeunes adultes atteints d’un trouble du spectre de l’autisme. En effet, les vêtements disponibles à l’heure actuelle ne répondent pas aux besoins de cette clientèle. Les clients trouvent que ces vêtements sont volumineux, coûtent cher, ne sont pas totalement confortables et sont rarement ajustables au besoin de chacun en matière de pression ou compression. De plus, les produits disponibles visent surtout les jeunes enfants et permettent souvent d’identifier les personnes les portant comme étant différentes en raison de leur style particulier.</p>
-<p>Ainsi, l’objectif principal de ce projet était la conception d’un vêtement adapté pour les adolescents et les jeunes adultes atteints d’un trouble du spectre de l’autisme.</p>
+<p>Dans le cadre du Programme dâ€™aide Ã  la recherche et au transfert (PART), Vestechpro et le CRISPESH se sont associÃ©es Ã  une entreprise quÃ©bÃ©coise pour concevoir un vÃªtement de compression adaptÃ© pour les adolescents et les jeunes adultes atteints dâ€™un trouble du spectre de lâ€™autisme. En effet, les vÃªtements disponibles Ã  lâ€™heure actuelle ne rÃ©pondent pas aux besoins de cette clientÃ¨le. Les clients trouvent que ces vÃªtements sont volumineux, coÃ»tent cher, ne sont pas totalement confortables et sont rarement ajustables au besoin de chacun en matiÃ¨re de pression ou compression. De plus, les produits disponibles visent surtout les jeunes enfants et permettent souvent dâ€™identifier les personnes les portant comme Ã©tant diffÃ©rentes en raison de leur style particulier.</p>
+<p>Ainsi, lâ€™objectif principal de ce projet Ã©tait la conception dâ€™un vÃªtement adaptÃ© pour les adolescents et les jeunes adultes atteints dâ€™un trouble du spectre de lâ€™autisme.</p>
 <hr>
-<h6>Chargée de projet et chercheuse</h6>
+<h6>ChargÃ©e de projet et chercheuse</h6>
 <p>Marise Lachapelle</p>
 <hr>
 <h6>Chercheur</h6>
 <p>Joseph Darrous</p>
 <hr>
 <h6>Assistantes de recherche</h6>
-<p>Mélissa Miller</p>
-<p>Étudiante en Histoire et civilisation au Cégep du Vieux Montréal</p>
+<p>MÃ©lissa Miller</p>
+<p>Ã‰tudiante en Histoire et civilisation au CÃ©gep du Vieux MontrÃ©al</p>
 <p>Odile Trudeau-Richard</p>
-<p>Étudiante en Histoire et civilisation au Cégep du Vieux Montréal</p>
+<p>Ã‰tudiante en Histoire et civilisation au CÃ©gep du Vieux MontrÃ©al</p>
 <hr>
 --------------------------------------------------
 5
-<p>Ce projet a regroupé trois centres collégiaux de transfert de technologie en pratiques sociales novatrices (CCTT-PSN) en vue de promouvoir et de favoriser l’inclusion professionnelle des jeunes âgés entre 25 et 34 ans de divers horizons, dont les immigrants et les personnes en situation de handicap. Le CRISPESH, le Centre d’études des conditions de vie et des besoins de la population (ÉCOBES) et l’Institut de recherche sur l’intégration professionnelle des immigrants (IRIPI) ont uni leurs expertises dans le cadre de cette alliance stratégique qui, à terme, a proposé une offre de service visant à améliorer le taux d’emploi de cette population et à répondre aux besoins de main-d’œuvre des entreprises québécoises.</p>
+<p>Ce projet a regroupÃ© trois centres collÃ©giaux de transfert de technologie en pratiques sociales novatrices (CCTT-PSN) en vue de promouvoir et de favoriser lâ€™inclusion professionnelle des jeunes Ã¢gÃ©s entre 25 et 34 ans de divers horizons, dont les immigrants et les personnes en situation de handicap. Le CRISPESH, le Centre dâ€™Ã©tudes des conditions de vie et des besoins de la population (Ã‰COBES) et lâ€™Institut de recherche sur lâ€™intÃ©gration professionnelle des immigrants (IRIPI) ont uni leurs expertises dans le cadre de cette alliance stratÃ©gique qui, Ã  terme, a proposÃ© une offre de service visant Ã  amÃ©liorer le taux dâ€™emploi de cette population et Ã  rÃ©pondre aux besoins de main-dâ€™Å“uvre des entreprises quÃ©bÃ©coises.</p>
 <hr>
 <h6>Chercheuse</h6>
 <p>Marise Lachapelle</p>
 <hr>
 --------------------------------------------------
 6
-<p>Grâce à une subvention du Ministère de l’Économie et des Importations du Québec, le CRISPESH a développé un modèle de formation par simulation en santé mentale offert sur support multimédia pour les intervenants d’une ressource communautaire œuvrant en région éloignée au sein d’une communauté inuit.</p>
+<p>GrÃ¢ce Ã  une subvention du MinistÃ¨re de lâ€™Ã‰conomie et des Importations du QuÃ©bec, le CRISPESH a dÃ©veloppÃ© un modÃ¨le de formation par simulation en santÃ© mentale offert sur support multimÃ©dia pour les intervenants dâ€™une ressource communautaire Å“uvrant en rÃ©gion Ã©loignÃ©e au sein dâ€™une communautÃ© inuit.</p>
 <hr>
-<h6>Chargées de projet</h6>
+<h6>ChargÃ©es de projet</h6>
 <p>Marise Lachapelle et Jian Wang</p>
 <hr>
-<h6>Chargée de projet et Chercheuse</h6>
+<h6>ChargÃ©e de projet et Chercheuse</h6>
 <p>Christine Morin</p>
 <hr>
 <h6>Stagiaires</h6>
-<p>Frédérique Lemay</p>
-<p>Étudiante au Cégep du Vieux Montréal</p>
-<p>Arts, lettres et communication, profil Médias</p>
-<p>Xavier Bossé</p>
-<p>Étudiant au Cégep du Vieux Montréal</p>
-<p>Arts, lettres et communication, profil Médias</p>
+<p>FrÃ©dÃ©rique Lemay</p>
+<p>Ã‰tudiante au CÃ©gep du Vieux MontrÃ©al</p>
+<p>Arts, lettres et communication, profil MÃ©dias</p>
+<p>Xavier BossÃ©</p>
+<p>Ã‰tudiant au CÃ©gep du Vieux MontrÃ©al</p>
+<p>Arts, lettres et communication, profil MÃ©dias</p>
 <p>Camille Archambault</p>
-<p>Étudiante au Cégep du Vieux Montréal</p>
-<p>Arts, lettres et communication, profil Médias</p>
+<p>Ã‰tudiante au CÃ©gep du Vieux MontrÃ©al</p>
+<p>Arts, lettres et communication, profil MÃ©dias</p>
 <hr>
 --------------------------------------------------
 7
-<p>Les inégalités salariales et d’accès à l’emploi persistent entre les Autochtones et le reste de la population canadienne. Par ailleurs, les membres des Premières Nations qui se retrouvent en situation de handicap (troubles de santé mentale, handicap physique, sensoriel ou moteur, trouble ou difficulté d’apprentissage, etc.) peuvent facilement être sujets à une double discrimination sur le marché de l’emploi, de par leur appartenance culturelle et leurs besoins particuliers. Ces facteurs freinent leur épanouissement professionnel et empêchent le marché du travail de bénéficier de travailleurs qualifiés qui pourraient contribuer au maintien d’une économie locale prospère.</p>
-<p>L'entrepreneuriat représente une voie qui peut faciliter l'inclusion sociale et économique de personnes marginalisées en misant sur leurs intérêts et leurs compétences. Cette avenue est flexible, facilement adaptable aux besoins particuliers des individus qui s'y engagent et respectueuse des conceptions sociales et culturelles spécifiques de l'économie locale. Toutefois, du soutien et de l'accompagnement sont essentiels afin de rendre cette voie possible et durable. En ce sens, l'incubateur d'entreprises est une structure d'accompagnement adaptée qui offre différents services afin de faciliter le passage de l'idée à la mise en place d'un projet d'entreprise.</p>
-<p>Ce projet permettra de développer un modèle d’incubateur d’entreprises inclusif qui répondrait aux besoins et aux aspirations des membres des Premières Nations du Québec. Celui-ci sera inclusif puisqu’il sera adapté d’emblée pour les personnes en situation de handicap.</p>
-<p>Pour ce faire, quatre étapes seront nécessaires :</p>
+<p>Les inÃ©galitÃ©s salariales et dâ€™accÃ¨s Ã  lâ€™emploi persistent entre les Autochtones et le reste de la population canadienne. Par ailleurs, les membres des PremiÃ¨res Nations qui se retrouvent en situation de handicap (troubles de santÃ© mentale, handicap physique, sensoriel ou moteur, trouble ou difficultÃ© dâ€™apprentissage, etc.) peuvent facilement Ãªtre sujets Ã  une double discrimination sur le marchÃ© de lâ€™emploi, de par leur appartenance culturelle et leurs besoins particuliers. Ces facteurs freinent leur Ã©panouissement professionnel et empÃªchent le marchÃ© du travail de bÃ©nÃ©ficier de travailleurs qualifiÃ©s qui pourraient contribuer au maintien dâ€™une Ã©conomie locale prospÃ¨re.</p>
+<p>L'entrepreneuriat reprÃ©sente une voie qui peut faciliter l'inclusion sociale et Ã©conomique de personnes marginalisÃ©es en misant sur leurs intÃ©rÃªts et leurs compÃ©tences. Cette avenue est flexible, facilement adaptable aux besoins particuliers des individus qui s'y engagent et respectueuse des conceptions sociales et culturelles spÃ©cifiques de l'Ã©conomie locale. Toutefois, du soutien et de l'accompagnement sont essentiels afin de rendre cette voie possible et durable. En ce sens, l'incubateur d'entreprises est une structure d'accompagnement adaptÃ©e qui offre diffÃ©rents services afin de faciliter le passage de l'idÃ©e Ã  la mise en place d'un projet d'entreprise.</p>
+<p>Ce projet permettra de dÃ©velopper un modÃ¨le dâ€™incubateur dâ€™entreprises inclusif qui rÃ©pondrait aux besoins et aux aspirations des membres des PremiÃ¨res Nations du QuÃ©bec. Celui-ci sera inclusif puisquâ€™il sera adaptÃ© dâ€™emblÃ©e pour les personnes en situation de handicap.</p>
+<p>Pour ce faire, quatre Ã©tapes seront nÃ©cessaires :</p>
 <ul>
-<li>Répertorier les modèles d’incubateurs d’entreprises et la littérature sur leurs succès et leurs échecs</li>
-<li>Documenter les perspectives spécifiques des populations autochtones en matière d’entrepreneuriat et de développement économique et social</li>
-<li>Concevoir un modèle d’incubateur d’entreprises inclusif prêt à être mis en fonction</li>
-<li>Développer les outils nécessaires à l’opérationnalisation de l’incubateur</li>
+<li>RÃ©pertorier les modÃ¨les dâ€™incubateurs dâ€™entreprises et la littÃ©rature sur leurs succÃ¨s et leurs Ã©checs</li>
+<li>Documenter les perspectives spÃ©cifiques des populations autochtones en matiÃ¨re dâ€™entrepreneuriat et de dÃ©veloppement Ã©conomique et social</li>
+<li>Concevoir un modÃ¨le dâ€™incubateur dâ€™entreprises inclusif prÃªt Ã  Ãªtre mis en fonction</li>
+<li>DÃ©velopper les outils nÃ©cessaires Ã  lâ€™opÃ©rationnalisation de lâ€™incubateur</li>
 </ul>
 <hr>
 <h6>Directrice de projet</h6>
 <p>Marise Lachapelle</p>
 <hr>
 <h6>Coordonnatrice de projet et Assistante de recherche</h6>
-<p>Léa Lefevre-Radelli</p>
+<p>LÃ©a Lefevre-Radelli</p>
 <hr>
 <h6>Chercheur</h6>
 <p>Paul Turcotte</p>
@@ -213,106 +213,106 @@ TEXTES
 <p>Rola Helou</p>
 <hr>
 <h6>Organismes partenaires</h6>
-<p>Conseil scolaire des Premières Nations en éducation aux adultes (CSPNEA)</p>
-<p>Commission de développement des ressources humaines des Premières Nations du Québec (CDRHPNQ)</p>
-<p>Commission de développement économique des Premières Nations du Québec et du Labrador (CDEPNQL)</p>
-<p>Tewatonhnhi’saktha</p>
+<p>Conseil scolaire des PremiÃ¨res Nations en Ã©ducation aux adultes (CSPNEA)</p>
+<p>Commission de dÃ©veloppement des ressources humaines des PremiÃ¨res Nations du QuÃ©bec (CDRHPNQ)</p>
+<p>Commission de dÃ©veloppement Ã©conomique des PremiÃ¨res Nations du QuÃ©bec et du Labrador (CDEPNQL)</p>
+<p>Tewatonhnhiâ€™saktha</p>
 <p>Fondation Martin</p>
-<p>Cégep du Vieux Montréal</p>
-<p>Collège Dawson</p>
+<p>CÃ©gep du Vieux MontrÃ©al</p>
+<p>CollÃ¨ge Dawson</p>
 <hr>
 <h6>Organisme subventionnaire</h6>
 <p>Conseil de recherches en sciences humaines du Canada (CRSH)</p>
 <hr>
 --------------------------------------------------
 8
-<p>Ce projet a permis l’élaboration d’un modèle d’intégration pour les populations dites émergentes que nous convenons d’appeler dorénavant les nouvelles populations en situation de handicap. Par le développement d’outils généraux pour les étudiants, les intervenants, les enseignants et les établissements, ce projet a réuni les efforts de quatre établissements d’études postsecondaires: l’Université de Montréal, l’Université du Québec à Montréal (UQAM), le Collège Montmorency et le Cégep du Vieux Montréal.</p>
-<p>Ainsi, dans le cadre du réinvestissement en enseignement supérieur par le Ministère de l’Éducation, du Loisir et du Sport (MELS, maintenant MEES), une équipe a travaillé à la mise en œuvre d’un projet intitulé : Intégrer les populations dites émergentes aux études supérieures: mission possible!</p>
-<p>Les populations visées par ce projet sont les étudiants ayant des troubles d’apprentissage (TA), des troubles envahissants du développement (TED), des troubles déficitaires de l’attention (TDA/H) et des troubles graves de santé mentale (TGSM). Ce projet comportait trois volets auxquels étaient associés un ou deux groupes de travail composés de personnes travaillant dans les établissements participants, d’experts et de partenaires de l’externe pour mener à bien les huit activités sur une période de trois ans.</p>
-<p>Ce projet s’est décliné en trois volets, qui vont comme suit:</p>
+<p>Ce projet a permis lâ€™Ã©laboration dâ€™un modÃ¨le dâ€™intÃ©gration pour les populations dites Ã©mergentes que nous convenons dâ€™appeler dorÃ©navant les nouvelles populations en situation de handicap. Par le dÃ©veloppement dâ€™outils gÃ©nÃ©raux pour les Ã©tudiants, les intervenants, les enseignants et les Ã©tablissements, ce projet a rÃ©uni les efforts de quatre Ã©tablissements dâ€™Ã©tudes postsecondaires: lâ€™UniversitÃ© de MontrÃ©al, lâ€™UniversitÃ© du QuÃ©bec Ã  MontrÃ©al (UQAM), le CollÃ¨ge Montmorency et le CÃ©gep du Vieux MontrÃ©al.</p>
+<p>Ainsi, dans le cadre du rÃ©investissement en enseignement supÃ©rieur par le MinistÃ¨re de lâ€™Ã‰ducation, du Loisir et du Sport (MELS, maintenant MEES), une Ã©quipe a travaillÃ© Ã  la mise en Å“uvre dâ€™un projet intitulÃ© : IntÃ©grer les populations dites Ã©mergentes aux Ã©tudes supÃ©rieures: mission possible!</p>
+<p>Les populations visÃ©es par ce projet sont les Ã©tudiants ayant des troubles dâ€™apprentissage (TA), des troubles envahissants du dÃ©veloppement (TED), des troubles dÃ©ficitaires de lâ€™attention (TDA/H) et des troubles graves de santÃ© mentale (TGSM). Ce projet comportait trois volets auxquels Ã©taient associÃ©s un ou deux groupes de travail composÃ©s de personnes travaillant dans les Ã©tablissements participants, dâ€™experts et de partenaires de lâ€™externe pour mener Ã  bien les huit activitÃ©s sur une pÃ©riode de trois ans.</p>
+<p>Ce projet sâ€™est dÃ©clinÃ© en trois volets, qui vont comme suit:</p>
 <ul>
-<li>Volet 1 : Favoriser la transition interordres (collèges-universités)</li>
-<li>Volet 2 : Identifier, harmoniser et consolider les meilleures pratiques en appui à leurs études</li>
-<li>Volet 3 : Développer le soutien pédagogique aux enseignants</li>
+<li>Volet 1 : Favoriser la transition interordres (collÃ¨ges-universitÃ©s)</li>
+<li>Volet 2 : Identifier, harmoniser et consolider les meilleures pratiques en appui Ã  leurs Ã©tudes</li>
+<li>Volet 3 : DÃ©velopper le soutien pÃ©dagogique aux enseignants</li>
 </ul>
-<p>Lors de la mise en œuvre des trois volets, des outils ont été réalisés et sont disponibles pour tous.</p>
+<p>Lors de la mise en Å“uvre des trois volets, des outils ont Ã©tÃ© rÃ©alisÃ©s et sont disponibles pour tous.</p>
 <hr>
 --------------------------------------------------
 9
-<p>Grâce à une subvention de l’Office des personnes handicapées du Québec (OPHQ) le CRISPESH favorise la participation sociale des étudiants en situation de handicap du collégial. En utilisant la photographie comme moyen d’expression, les étudiants qui participent au projet ont l’occasion de partager leurs perspectives sur leur expérience au sein de la communauté collégiale.</p>
-<p>Les cadres autour desquels s’articule ce projet sont l’autodétermination et la photographie participative. En favorisant le développement de l’autodétermination, ce projet permet à chacun des participants d’être le principal agent d’amélioration de sa qualité de vie et d’avoir un impact positif sur son milieu d’études. La photographie participative génère quant à elle un pouvoir d’expression par l’image qui se fonde sur l’idée que toute personne est la mieux placée pour communiquer son point de vue à une communauté.</p>
-<p>Divisé en deux volets distincts (Création et Sensibilisation), ce projet se déroule tout au long de l’année 2016. Le volet Création, qui a eu lieu durant la session d’hiver 2016, vise à ce que les étudiants développent une perspective critique de leur propre expérience et qu’ils soient en mesure d’extérioriser un point de vue personnel en utilisant une démarche de création. Le volet Sensibilisation, qui a lieu au cours de la session d’automne 2016, a pour objectif le partage du point de vue développé, afin de sensibiliser la communauté collégiale à la diversité des expériences et des perspectives sur le handicap.</p>
-<p>Tout au long de ce projet, les étudiants sont accompagnés par un photographe professionnel qui les soutient dans la démarche de création et la réalisation des aspects techniques de la production des images.  L’offre du support technique nécessaire à la réalisation de l’œuvre constitue une force de cette approche. Ce soutien technique réduit considérablement le risque que le créateur échoue suite à un trop grand écart séparant l’idée initiale du résultat final. De cette façon, les étudiants pourront s’exprimer librement tout en bénéficiant du large potentiel créatif de la photographie.</p>
+<p>GrÃ¢ce Ã  une subvention de lâ€™Office des personnes handicapÃ©es du QuÃ©bec (OPHQ) le CRISPESH favorise la participation sociale des Ã©tudiants en situation de handicap du collÃ©gial. En utilisant la photographie comme moyen dâ€™expression, les Ã©tudiants qui participent au projet ont lâ€™occasion de partager leurs perspectives sur leur expÃ©rience au sein de la communautÃ© collÃ©giale.</p>
+<p>Les cadres autour desquels sâ€™articule ce projet sont lâ€™autodÃ©termination et la photographie participative. En favorisant le dÃ©veloppement de lâ€™autodÃ©termination, ce projet permet Ã  chacun des participants dâ€™Ãªtre le principal agent dâ€™amÃ©lioration de sa qualitÃ© de vie et dâ€™avoir un impact positif sur son milieu dâ€™Ã©tudes. La photographie participative gÃ©nÃ¨re quant Ã  elle un pouvoir dâ€™expression par lâ€™image qui se fonde sur lâ€™idÃ©e que toute personne est la mieux placÃ©e pour communiquer son point de vue Ã  une communautÃ©.</p>
+<p>DivisÃ© en deux volets distincts (CrÃ©ation et Sensibilisation), ce projet se dÃ©roule tout au long de lâ€™annÃ©e 2016. Le volet CrÃ©ation, qui a eu lieu durant la session dâ€™hiver 2016, vise Ã  ce que les Ã©tudiants dÃ©veloppent une perspective critique de leur propre expÃ©rience et quâ€™ils soient en mesure dâ€™extÃ©rioriser un point de vue personnel en utilisant une dÃ©marche de crÃ©ation. Le volet Sensibilisation, qui a lieu au cours de la session dâ€™automne 2016, a pour objectif le partage du point de vue dÃ©veloppÃ©, afin de sensibiliser la communautÃ© collÃ©giale Ã  la diversitÃ© des expÃ©riences et des perspectives sur le handicap.</p>
+<p>Tout au long de ce projet, les Ã©tudiants sont accompagnÃ©s par un photographe professionnel qui les soutient dans la dÃ©marche de crÃ©ation et la rÃ©alisation des aspects techniques de la production des images.  Lâ€™offre du support technique nÃ©cessaire Ã  la rÃ©alisation de lâ€™Å“uvre constitue une force de cette approche. Ce soutien technique rÃ©duit considÃ©rablement le risque que le crÃ©ateur Ã©choue suite Ã  un trop grand Ã©cart sÃ©parant lâ€™idÃ©e initiale du rÃ©sultat final. De cette faÃ§on, les Ã©tudiants pourront sâ€™exprimer librement tout en bÃ©nÃ©ficiant du large potentiel crÃ©atif de la photographie.</p>
 <hr>
-<h6>Chargée de projet</h6>
+<h6>ChargÃ©e de projet</h6>
 <p>Marise Lachapelle</p>
 <hr>
-<h6>Coordonnatrice des activités</h6>
+<h6>Coordonnatrice des activitÃ©s</h6>
 <p>Jian Wang</p>
 <hr>
-<h6>Coordonnateur des activités photographiques</h6>
+<h6>Coordonnateur des activitÃ©s photographiques</h6>
 <p>Gopesa Paquette</p>
 <hr>
 <h6>Partenaires</h6>
-<p>Centre collégial de soutien à l’intégration (CCSI) de l’Ouest</p>
-<p>L’association québécoise des étudiants ayant des incapacités au postsecondaire (AQEIPS)</p>
+<p>Centre collÃ©gial de soutien Ã  lâ€™intÃ©gration (CCSI) de lâ€™Ouest</p>
+<p>Lâ€™association quÃ©bÃ©coise des Ã©tudiants ayant des incapacitÃ©s au postsecondaire (AQEIPS)</p>
 <hr>
 <h6>Partenaire financier</h6>
-<p>Office des personnes handicapées du Québec</p>
+<p>Office des personnes handicapÃ©es du QuÃ©bec</p>
 <hr>
 --------------------------------------------------
 10
-<p>Le Centre intégré de santé et de services sociaux de la Montérégie-Ouest (CISSSMO) offre des services d’adaptation, de réadaptation et d’intégration sociale aux personnes qui vivent avec une déficience intellectuelle (DI) ou un trouble du spectre de l’autisme (TSA). Pour ce faire, il leur fournit une gamme de services de soutien et d’accompagnement. Dans un souci d’offrir des services basés sur des données probantes et de faciliter l’implantation de meilleures pratiques, le CISSSMO a remis à jour son programme d’intégration et de réadaptation au travail. Afin de permettre à ses usagers de vivre une intégration au travail positive et valorisante, le CISSSMO constate que le soutien à l’employeur est primordial. Toutefois, la force de son expertise réside davantage dans l’identification des besoins et le soutien des personnes vivant avec une DI ou un TSA. Pour remédier à la situation, le CISSSMO bénéficiera de l’expertise du Centre de recherche pour l’inclusion scolaire et professionnelle des étudiants en situation de handicap (CRISPESH) afin de mieux répondre aux besoins des employeurs avec lesquels il collabore. Cela facilitera la mise en place d’environnements de travail inclusifs où les contextes qui mettraient leurs usagers en situation de handicap seraient réduits. L’obligation légale d’égalité à l’emploi au Québec se fonde sur le constat d’une discrimination systémique à l’endroit de certaines personnes, dont les personnes en situation de handicap (PSH). Plusieurs employeurs croient que celles-ci sont moins productives, ce qui engendre des pratiques discriminatoires. Pour contrer cette tendance, le monde de la gestion s’est donné un cadre d’opération vers un engagement planifié et systématique à recruter et maintenir en emploi des personnes ayant des profils (expériences, habiletés, etc.) diversifiés. Sous la bannière du concept de « gestion de la diversité », ce cadre vise l’équité et l’égalité des chances dans le monde du travail. Il s’agit de valoriser et reconnaître les différences individuelles en partant du postulat que chaque personne a le potentiel de contribuer à la performance d’une entreprise. Toutefois, ce cadre ne s’est pas encore généralisé dans les pratiques et au Québec, il comprend rarement les PSH.</p>
-<p>Dans le cadre de ce projet, le CRISPESH et le CISSSMO uniront leurs efforts et leurs expertises pour développer des stratégies visant à favoriser la mise en place de pratiques de gestion de la diversité inclusive pour les PSH. En s’inspirant du concept d’inclusion, tel que défini en éducation, et du domaine de la gestion de la diversité, ce projet a pour objectif général le développement de bonnes pratiques de préparation et de soutien aux employeurs vers une gestion plus inclusive des personnes vivant avec une DI ou un TSA dans les milieux de travail. Les objectifs particuliers visent à élargir et à consolider les connaissances en matière de gestion de la diversité, de leadership d’inclusion et de changements de pratiques de gestion, en portant une attention particulière au handicap. Aussi, les chercheurs documenteront le point de vue de l’employeur sur les pratiques d’inclusion et d’intégration des personnes vivant avec une DI ou un TSA. Ce projet est novateur, puisqu’il compte développer un cadre de gestion de la diversité au Québec qui s’intéresse spécifiquement au handicap.</p>
-<p>De façon générale, ce projet favorisera l’augmentation de la participation sociale des PSH grâce à une plus grande inclusion dans le monde professionnel. Il permettra au CISSSMO de mieux soutenir les employeurs avec lesquels il collabore, en plus de faciliter l’intégration des usagers. Les collèges et le CRISPESH innoveront et renforceront leur capacité de recherche et de transfert des connaissances grâce à une nouvelle expertise.</p>
+<p>Le Centre intÃ©grÃ© de santÃ© et de services sociaux de la MontÃ©rÃ©gie-Ouest (CISSSMO) offre des services dâ€™adaptation, de rÃ©adaptation et dâ€™intÃ©gration sociale aux personnes qui vivent avec une dÃ©ficience intellectuelle (DI) ou un trouble du spectre de lâ€™autisme (TSA). Pour ce faire, il leur fournit une gamme de services de soutien et dâ€™accompagnement. Dans un souci dâ€™offrir des services basÃ©s sur des donnÃ©es probantes et de faciliter lâ€™implantation de meilleures pratiques, le CISSSMO a remis Ã  jour son programme dâ€™intÃ©gration et de rÃ©adaptation au travail. Afin de permettre Ã  ses usagers de vivre une intÃ©gration au travail positive et valorisante, le CISSSMO constate que le soutien Ã  lâ€™employeur est primordial. Toutefois, la force de son expertise rÃ©side davantage dans lâ€™identification des besoins et le soutien des personnes vivant avec une DI ou un TSA. Pour remÃ©dier Ã  la situation, le CISSSMO bÃ©nÃ©ficiera de lâ€™expertise du Centre de recherche pour lâ€™inclusion scolaire et professionnelle des Ã©tudiants en situation de handicap (CRISPESH) afin de mieux rÃ©pondre aux besoins des employeurs avec lesquels il collabore. Cela facilitera la mise en place dâ€™environnements de travail inclusifs oÃ¹ les contextes qui mettraient leurs usagers en situation de handicap seraient rÃ©duits. Lâ€™obligation lÃ©gale dâ€™Ã©galitÃ© Ã  lâ€™emploi au QuÃ©bec se fonde sur le constat dâ€™une discrimination systÃ©mique Ã  lâ€™endroit de certaines personnes, dont les personnes en situation de handicap (PSH). Plusieurs employeurs croient que celles-ci sont moins productives, ce qui engendre des pratiques discriminatoires. Pour contrer cette tendance, le monde de la gestion sâ€™est donnÃ© un cadre dâ€™opÃ©ration vers un engagement planifiÃ© et systÃ©matique Ã  recruter et maintenir en emploi des personnes ayant des profils (expÃ©riences, habiletÃ©s, etc.) diversifiÃ©s. Sous la banniÃ¨re du concept de Â« gestion de la diversitÃ© Â», ce cadre vise lâ€™Ã©quitÃ© et lâ€™Ã©galitÃ© des chances dans le monde du travail. Il sâ€™agit de valoriser et reconnaÃ®tre les diffÃ©rences individuelles en partant du postulat que chaque personne a le potentiel de contribuer Ã  la performance dâ€™une entreprise. Toutefois, ce cadre ne sâ€™est pas encore gÃ©nÃ©ralisÃ© dans les pratiques et au QuÃ©bec, il comprend rarement les PSH.</p>
+<p>Dans le cadre de ce projet, le CRISPESH et le CISSSMO uniront leurs efforts et leurs expertises pour dÃ©velopper des stratÃ©gies visant Ã  favoriser la mise en place de pratiques de gestion de la diversitÃ© inclusive pour les PSH. En sâ€™inspirant du concept dâ€™inclusion, tel que dÃ©fini en Ã©ducation, et du domaine de la gestion de la diversitÃ©, ce projet a pour objectif gÃ©nÃ©ral le dÃ©veloppement de bonnes pratiques de prÃ©paration et de soutien aux employeurs vers une gestion plus inclusive des personnes vivant avec une DI ou un TSA dans les milieux de travail. Les objectifs particuliers visent Ã  Ã©largir et Ã  consolider les connaissances en matiÃ¨re de gestion de la diversitÃ©, de leadership dâ€™inclusion et de changements de pratiques de gestion, en portant une attention particuliÃ¨re au handicap. Aussi, les chercheurs documenteront le point de vue de lâ€™employeur sur les pratiques dâ€™inclusion et dâ€™intÃ©gration des personnes vivant avec une DI ou un TSA. Ce projet est novateur, puisquâ€™il compte dÃ©velopper un cadre de gestion de la diversitÃ© au QuÃ©bec qui sâ€™intÃ©resse spÃ©cifiquement au handicap.</p>
+<p>De faÃ§on gÃ©nÃ©rale, ce projet favorisera lâ€™augmentation de la participation sociale des PSH grÃ¢ce Ã  une plus grande inclusion dans le monde professionnel. Il permettra au CISSSMO de mieux soutenir les employeurs avec lesquels il collabore, en plus de faciliter lâ€™intÃ©gration des usagers. Les collÃ¨ges et le CRISPESH innoveront et renforceront leur capacitÃ© de recherche et de transfert des connaissances grÃ¢ce Ã  une nouvelle expertise.</p>
 <hr>
-<h6>Chargée de projet et chercheuse</h6>
+<h6>ChargÃ©e de projet et chercheuse</h6>
 <p>Marise Lachapelle</p>
 <hr>
 <h6>Chercheur</h6>
-<p>Jean-Sébastien Goulet</p>
+<p>Jean-SÃ©bastien Goulet</p>
 <hr>
 <h6>Assistante de recherche</h6>
-<p>Aurélie Angrignon Atkins</p>
-<p>Étudiante en Techniques de gestion de commerces au Cégep du Vieux Montréal</p>
+<p>AurÃ©lie Angrignon Atkins</p>
+<p>Ã‰tudiante en Techniques de gestion de commerces au CÃ©gep du Vieux MontrÃ©al</p>
 <hr>
 <h6>Partenaire</h6>
-<p>Centre intégré de santé et de services sociaux de la Montérégie-Ouest (CISSSMO)</p>
+<p>Centre intÃ©grÃ© de santÃ© et de services sociaux de la MontÃ©rÃ©gie-Ouest (CISSSMO)</p>
 <hr>
 <h6>Organisme subventionnaire</h6>
-<p>Ministère de l’éducation et de l’enseignement supérieur</p>
+<p>MinistÃ¨re de lâ€™Ã©ducation et de lâ€™enseignement supÃ©rieur</p>
 <hr>
 --------------------------------------------------
 11
-<p>L’objectif de ce projet est de développer un instrument d’évaluation à l’intention des intervenants des services adaptés pour soutenir les étudiants en situation de handicap dans leur réussite éducative. Le nombre d’étudiants en situation de handicap (ESH) au collégial s’est accru de manière remarquable au cours de la dernière décennie et leur profil s’est largement transformé. Les collèges disposent de services adaptés (SA) qui ont pour mandat l’accompagnement des ESH vers la réussite éducative. Ces SA ont démontré, depuis leur implantation, qu’ils favorisent la réussite des ESH qui les utilisent. Or, l’accompagnement des ESH se complexifie. Le constat actuel sur les pratiques d’accompagnement basées sur le modèle médical qui prévaut au sein des SA des collèges permet de conclure que ces pratiques ne sont pas à la hauteur des défis d’aujourd’hui. Le manque d’outils d’évaluation et de suivi des ESH est établi et met en évidence la limite actuelle des pratiques en accompagnement vers la réussite des ESH. Ce projet permettra, à terme, de dépasser cette limite.</p>
-<p>Au  terme de ce projet, nous développerons un instrument d’évaluation du profil d’apprenant des ESH en milieu collégial qui, en plus de générer un profil personnalisé, proposera diverses ressources (humaines et matérielles) encourageant la réussite éducative des ESH. De plus, cet outil de travail permettra le développement de comportements d’autodétermination chez les ESH, ce qui favorisa également leur réussite éducative. En plus d’offrir des réponses aux besoins des ESH de manière plus pointue et systématique, cet outil servira aux conseillers en services adaptés de tous les établissements de niveau collégial (privés et publics) de la province et favorisera une harmonisation des pratiques en la matière.</p>
-<p>La réussite éducative des étudiants est au cœur de la mission et des préoccupations de tous les établissements de niveau collégial de la province. Ce projet revêt une importance capitale pour le partenaire (CCSI), les collèges du Québec et leurs différents acteurs (personnel de direction, conseillers en services adaptés, aides pédagogiques individuels, enseignants, ESH), mais aussi la société dans son ensemble. En effet, une plus grande réussite éducative des ESH est un facteur déterminant d’une meilleure intégration future au marché de l’emploi et, ainsi, à la pleine valorisation et participation des ESH au sein de la société.</p>
+<p>Lâ€™objectif de ce projet est de dÃ©velopper un instrument dâ€™Ã©valuation Ã  lâ€™intention des intervenants des services adaptÃ©s pour soutenir les Ã©tudiants en situation de handicap dans leur rÃ©ussite Ã©ducative. Le nombre dâ€™Ã©tudiants en situation de handicap (ESH) au collÃ©gial sâ€™est accru de maniÃ¨re remarquable au cours de la derniÃ¨re dÃ©cennie et leur profil sâ€™est largement transformÃ©. Les collÃ¨ges disposent de services adaptÃ©s (SA) qui ont pour mandat lâ€™accompagnement des ESH vers la rÃ©ussite Ã©ducative. Ces SA ont dÃ©montrÃ©, depuis leur implantation, quâ€™ils favorisent la rÃ©ussite des ESH qui les utilisent. Or, lâ€™accompagnement des ESH se complexifie. Le constat actuel sur les pratiques dâ€™accompagnement basÃ©es sur le modÃ¨le mÃ©dical qui prÃ©vaut au sein des SA des collÃ¨ges permet de conclure que ces pratiques ne sont pas Ã  la hauteur des dÃ©fis dâ€™aujourdâ€™hui. Le manque dâ€™outils dâ€™Ã©valuation et de suivi des ESH est Ã©tabli et met en Ã©vidence la limite actuelle des pratiques en accompagnement vers la rÃ©ussite des ESH. Ce projet permettra, Ã  terme, de dÃ©passer cette limite.</p>
+<p>Au  terme de ce projet, nous dÃ©velopperons un instrument dâ€™Ã©valuation du profil dâ€™apprenant des ESH en milieu collÃ©gial qui, en plus de gÃ©nÃ©rer un profil personnalisÃ©, proposera diverses ressources (humaines et matÃ©rielles) encourageant la rÃ©ussite Ã©ducative des ESH. De plus, cet outil de travail permettra le dÃ©veloppement de comportements dâ€™autodÃ©termination chez les ESH, ce qui favorisa Ã©galement leur rÃ©ussite Ã©ducative. En plus dâ€™offrir des rÃ©ponses aux besoins des ESH de maniÃ¨re plus pointue et systÃ©matique, cet outil servira aux conseillers en services adaptÃ©s de tous les Ã©tablissements de niveau collÃ©gial (privÃ©s et publics) de la province et favorisera une harmonisation des pratiques en la matiÃ¨re.</p>
+<p>La rÃ©ussite Ã©ducative des Ã©tudiants est au cÅ“ur de la mission et des prÃ©occupations de tous les Ã©tablissements de niveau collÃ©gial de la province. Ce projet revÃªt une importance capitale pour le partenaire (CCSI), les collÃ¨ges du QuÃ©bec et leurs diffÃ©rents acteurs (personnel de direction, conseillers en services adaptÃ©s, aides pÃ©dagogiques individuels, enseignants, ESH), mais aussi la sociÃ©tÃ© dans son ensemble. En effet, une plus grande rÃ©ussite Ã©ducative des ESH est un facteur dÃ©terminant dâ€™une meilleure intÃ©gration future au marchÃ© de lâ€™emploi et, ainsi, Ã  la pleine valorisation et participation des ESH au sein de la sociÃ©tÃ©.</p>
 <hr>
-<h6>Chargée de projet et chercheuse</h6>
+<h6>ChargÃ©e de projet et chercheuse</h6>
 <p>Marise Lachapelle</p>
 <hr>
 <h6>Professionnelle de recherche</h6>
-<p>Danièle Paquet</p>
+<p>DaniÃ¨le Paquet</p>
 <hr>
 <h6>Chercheur</h6>
 <p>Paul Turcotte</p>
 <hr>
-<h6>Chercheuse associée</h6>
+<h6>Chercheuse associÃ©e</h6>
 <p>Josianne Robert</p>
 <hr>
 <h6>Chercheuse (2015-2016)</h6>
 <p>Christine Morin</p>
 <hr>
 <h6>Assistantes de recherche</h6>
-<p>Mélissa Miller</p>
-<p>Étudiante en Histoire et civilisation au Cégep du Vieux Montréal</p>
+<p>MÃ©lissa Miller</p>
+<p>Ã‰tudiante en Histoire et civilisation au CÃ©gep du Vieux MontrÃ©al</p>
 <p>Odile Trudeau-Richard</p>
-<p>Étudiante en Histoire et civilisation au Cégep du Vieux Montréal</p>
+<p>Ã‰tudiante en Histoire et civilisation au CÃ©gep du Vieux MontrÃ©al</p>
 <hr>
 <h6>Organisme partenaire</h6>
-<p>Centre collégial de soutien à l’intégration (CCSI)</p>
+<p>Centre collÃ©gial de soutien Ã  lâ€™intÃ©gration (CCSI)</p>
 <hr>
 <h6>Organisme subventionnaire</h6>
-<p>Ministère de l’éducation et de l’enseignement supérieur</p>
+<p>MinistÃ¨re de lâ€™Ã©ducation et de lâ€™enseignement supÃ©rieur</p>
 <hr>
 --------------------------------------------------

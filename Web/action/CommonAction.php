@@ -12,7 +12,7 @@
 		public static $HAUTEUR_PR_EMP = 150;
 		private static $DOSSIER_IMAGES = "images\\projets\\";
 		public static $HAUTEUR_PR_TITRE_PROJET = 150;
-		public static $HAUTEUR_PR_TEXTE_PROJET = 300;
+		public static $HAUTEUR_PR_TEXTE_PROJET = 150;
 
 		private $pageVisibility;
 
@@ -235,8 +235,8 @@
 		//-----------------------------------------------
 		public function optionsTitreProjet() {
 
-			$textareaName = self::trouverNomPage();
-			$formId = "ck-" . self::trouverNomPage();
+			$textareaName = self::trouverNomPage() . "titre";
+			$formId = "ck-" . self::trouverNomPage() . "titre";
 
 			if (isset($_POST[$textareaName])) {
 				ContentDao::modifier_titreProjet($_POST[$textareaName]);
@@ -252,8 +252,8 @@
 		//-----------------------------------------------
 		public function optionsTexteProjet() {
 
-			$textareaName = self::trouverNomPage();
-			$formId = "ck-" . self::trouverNomPage();
+			$textareaName = self::trouverNomPage() . "texte";
+			$formId = "ck-" . self::trouverNomPage() . "texte";
 
 			if (isset($_POST[$textareaName])) {
 				ContentDao::modifier_texteProjet($_POST[$textareaName]);
@@ -261,6 +261,6 @@
 
 			$contenu = ContentDao::lire_texteProjet();
 
-			return $this->afficherCkEditor($textareaName, $formId, $contenu, self::$HAUTEUR_PR_TITRE_PROJET);
+			return $this->afficherCkEditor($textareaName, $formId, $contenu, self::$HAUTEUR_PR_TEXTE_PROJET);
 		}
 	}

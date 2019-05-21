@@ -12,6 +12,7 @@
 		public static $HAUTEUR_PR_EMP = 150;
 		private static $DOSSIER_IMAGES = "images\\projets\\";
 		public static $HAUTEUR_PR_TITRE_PROJET = 150;
+		public static $HAUTEUR_PR_TEXTE_PROJET = 300;
 
 		private $pageVisibility;
 
@@ -242,6 +243,23 @@
 			}
 
 			$contenu = ContentDao::lire_titreProjet();
+
+			return $this->afficherCkEditor($textareaName, $formId, $contenu, self::$HAUTEUR_PR_TITRE_PROJET);
+		}
+
+		//-----------------------------------------------
+		// méthode générique pour insérer le html pour le texte d'un projet
+		//-----------------------------------------------
+		public function optionsTexteProjet() {
+
+			$textareaName = self::trouverNomPage();
+			$formId = "ck-" . self::trouverNomPage();
+
+			if (isset($_POST[$textareaName])) {
+				ContentDao::modifier_texteProjet($_POST[$textareaName]);
+			}
+
+			$contenu = ContentDao::lire_texteProjet();
 
 			return $this->afficherCkEditor($textareaName, $formId, $contenu, self::$HAUTEUR_PR_TITRE_PROJET);
 		}

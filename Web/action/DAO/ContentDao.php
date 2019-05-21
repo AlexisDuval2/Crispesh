@@ -59,7 +59,7 @@
 		//-------------------------------------------------
 
 		//-------------------------------------------------
-		// titre
+		// lire titre
 		//-------------------------------------------------
 		public static function lire_titreProjet() {
 
@@ -70,11 +70,32 @@
 		//-------------------------------------------------
 
 		//-------------------------------------------------
-		// texte principal
+		// modifier titre
 		//-------------------------------------------------
 		public static function modifier_titreProjet($message) {
 
 			$chemin = "action/DAO/data_" . CommonAction::trouverNompage() . "_titreProjet.txt";
+
+			file_put_contents($chemin, $message);
+		}
+
+		//-------------------------------------------------
+		// lire texte
+		//-------------------------------------------------
+		public static function lire_texteProjet() {
+
+			$chemin = "action/DAO/data_" . CommonAction::trouverNomPage() . "_texteProjet.txt";
+
+			return file_get_contents($chemin);
+		}
+		//-------------------------------------------------
+
+		//-------------------------------------------------
+		// modifier texte
+		//-------------------------------------------------
+		public static function modifier_texteProjet($message) {
+
+			$chemin = "action/DAO/data_" . CommonAction::trouverNompage() . "_texteProjet.txt";
 
 			file_put_contents($chemin, $message);
 		}

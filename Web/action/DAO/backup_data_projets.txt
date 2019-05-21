@@ -24,6 +24,21 @@ TITRES
 <center><h1>Développement d’un modèle d’incubateur d’entreprises inclusif destiné aux Autochtones (2016-2018)</h1></center>
 --------------------------------------------------
 8
+<h4>Intégrer les nouvelles populations étudiantes en situation de handicap aux études supérieures : mission possible (2011-2013)</h4>
+<li>
+<a href="projet_integrer_etudiants">Comité INTERORDRES</a>
+</li>
 --------------------------------------------------
 9
+<h1>La photographie comme moyen d’expression, de participation sociale, d’autodétermination et d’inclusion  des étudiants en situation de handicap au collégial (2015-2016)</h1>
+--------------------------------------------------
+10
+<center><h1>Soutenir l’employeur dans l’inclusion professionnelle des personnes vivant avec une déficience intellectuelle ou un trouble du spectre de l’autisme (2016-2017)</h1></center>
+--------------------------------------------------
+11
+<center><h1>Soutien à l’intégration des étudiants en situation de handicap: développement d’un instrument d’évaluation des besoins de l’apprenant (2015-2017)</h1></center>
+--------------------------------------------------
 
+--------------------------------------------------
+TEXTES
+--------------------------------------------------

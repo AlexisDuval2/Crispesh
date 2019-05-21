@@ -51,15 +51,16 @@
  + index.php
 -------------------------------------------------------------------------------------*/
 
-#index-titre {
+div#index-titre.col-sm-12 {
 	text-align: center;
-	margin: auto;
 	width: 70%;
+	margin: auto;
 }
 
 #index-titre * {
 	margin: 0px;
 	padding: 0px;
+	text-align: center;
 }
 
 .cadre-bouton-modifier {
@@ -128,12 +129,9 @@ div#cercle_2.rond_background.rouge.droite.grosseur_2 {
  + toutes les pages projets
 -------------------------------------------------------------------------------------*/
 
-.titre-projet .texte-projet {
-	width: 100%;
-	margin: auto;
-	margin-top: 20px;
-	margin-bottom: 20px;
+div.col-sm-12.titre-projet {
 	text-align: center;
+	margin-top: 20px;
 }
 
 .formulaire-image {

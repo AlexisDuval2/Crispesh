@@ -15,7 +15,7 @@
 				<section class="full-section" id="section-23">
 					<div class="full-section-container bg-blanc">
 						<div class="container">
-							<div class="row">
+							<div class="row" id="index-titre">
 
 								<div class="col-sm-12">
 									<?php

@@ -1,31 +1,53 @@
-﻿<p>L’objectif de ce projet est de développer un instrument d’évaluation à l’intention des intervenants des services adaptés pour soutenir les étudiants en situation de handicap dans leur réussite éducative. Le nombre d’étudiants en situation de handicap (ESH) au collégial s’est accru de manière remarquable au cours de la dernière décennie et leur profil s’est largement transformé. Les collèges disposent de services adaptés (SA) qui ont pour mandat l’accompagnement des ESH vers la réussite éducative. Ces SA ont démontré, depuis leur implantation, qu’ils favorisent la réussite des ESH qui les utilisent. Or, l’accompagnement des ESH se complexifie. Le constat actuel sur les pratiques d’accompagnement basées sur le modèle médical qui prévaut au sein des SA des collèges permet de conclure que ces pratiques ne sont pas à la hauteur des défis d’aujourd’hui. Le manque d’outils d’évaluation et de suivi des ESH est établi et met en évidence la limite actuelle des pratiques en accompagnement vers la réussite des ESH. Ce projet permettra, à terme, de dépasser cette limite.</p>
-<p>Au  terme de ce projet, nous développerons un instrument d’évaluation du profil d’apprenant des ESH en milieu collégial qui, en plus de générer un profil personnalisé, proposera diverses ressources (humaines et matérielles) encourageant la réussite éducative des ESH. De plus, cet outil de travail permettra le développement de comportements d’autodétermination chez les ESH, ce qui favorisa également leur réussite éducative. En plus d’offrir des réponses aux besoins des ESH de manière plus pointue et systématique, cet outil servira aux conseillers en services adaptés de tous les établissements de niveau collégial (privés et publics) de la province et favorisera une harmonisation des pratiques en la matière.</p>
-<p>La réussite éducative des étudiants est au cœur de la mission et des préoccupations de tous les établissements de niveau collégial de la province. Ce projet revêt une importance capitale pour le partenaire (CCSI), les collèges du Québec et leurs différents acteurs (personnel de direction, conseillers en services adaptés, aides pédagogiques individuels, enseignants, ESH), mais aussi la société dans son ensemble. En effet, une plus grande réussite éducative des ESH est un facteur déterminant d’une meilleure intégration future au marché de l’emploi et, ainsi, à la pleine valorisation et participation des ESH au sein de la société.</p>
-<hr>
-<h6>Chargée de projet et chercheuse</h6>
+<p>﻿L&rsquo;objectif de ce projet est de d&eacute;velopper un instrument d&rsquo;&eacute;valuation &agrave; l&rsquo;intention des intervenants des services adapt&eacute;s pour soutenir les &eacute;tudiants en situation de handicap dans leur r&eacute;ussite &eacute;ducative. Le nombre d&rsquo;&eacute;tudiants en situation de handicap (ESH) au coll&eacute;gial s&rsquo;est accru de mani&egrave;re remarquable au cours de la derni&egrave;re d&eacute;cennie et leur profil s&rsquo;est largement transform&eacute;. Les coll&egrave;ges disposent de services adapt&eacute;s (SA) qui ont pour mandat l&rsquo;accompagnement des ESH vers la r&eacute;ussite &eacute;ducative. Ces SA ont d&eacute;montr&eacute;, depuis leur implantation, qu&rsquo;ils favorisent la r&eacute;ussite des ESH qui les utilisent. Or, l&rsquo;accompagnement des ESH se complexifie. Le constat actuel sur les pratiques d&rsquo;accompagnement bas&eacute;es sur le mod&egrave;le m&eacute;dical qui pr&eacute;vaut au sein des SA des coll&egrave;ges permet de conclure que ces pratiques ne sont pas &agrave; la hauteur des d&eacute;fis d&rsquo;aujourd&rsquo;hui. Le manque d&rsquo;outils d&rsquo;&eacute;valuation et de suivi des ESH est &eacute;tabli et met en &eacute;vidence la limite actuelle des pratiques en accompagnement vers la r&eacute;ussite des ESH. Ce projet permettra, &agrave; terme, de d&eacute;passer cette limite.</p>
+
+<p>Au terme de ce projet, nous d&eacute;velopperons un instrument d&rsquo;&eacute;valuation du profil d&rsquo;apprenant des ESH en milieu coll&eacute;gial qui, en plus de g&eacute;n&eacute;rer un profil personnalis&eacute;, proposera diverses ressources (humaines et mat&eacute;rielles) encourageant la r&eacute;ussite &eacute;ducative des ESH. De plus, cet outil de travail permettra le d&eacute;veloppement de comportements d&rsquo;autod&eacute;termination chez les ESH, ce qui favorisa &eacute;galement leur r&eacute;ussite &eacute;ducative. En plus d&rsquo;offrir des r&eacute;ponses aux besoins des ESH de mani&egrave;re plus pointue et syst&eacute;matique, cet outil servira aux conseillers en services adapt&eacute;s de tous les &eacute;tablissements de niveau coll&eacute;gial (priv&eacute;s et publics) de la province et favorisera une harmonisation des pratiques en la mati&egrave;re.</p>
+
+<p>La r&eacute;ussite &eacute;ducative des &eacute;tudiants est au c&oelig;ur de la mission et des pr&eacute;occupations de tous les &eacute;tablissements de niveau coll&eacute;gial de la province. Ce projet rev&ecirc;t une importance capitale pour le partenaire (CCSI), les coll&egrave;ges du Qu&eacute;bec et leurs diff&eacute;rents acteurs (personnel de direction, conseillers en services adapt&eacute;s, aides p&eacute;dagogiques individuels, enseignants, ESH), mais aussi la soci&eacute;t&eacute; dans son ensemble. En effet, une plus grande r&eacute;ussite &eacute;ducative des ESH est un facteur d&eacute;terminant d&rsquo;une meilleure int&eacute;gration future au march&eacute; de l&rsquo;emploi et, ainsi, &agrave; la pleine valorisation et participation des ESH au sein de la soci&eacute;t&eacute;.</p>
+
+<hr />
+<p>Charg&eacute;e de projet et chercheuse</p>
+
 <p>Marise Lachapelle</p>
-<hr>
-<h6>Professionnelle de recherche</h6>
-<p>Danièle Paquet</p>
-<hr>
-<h6>Chercheur</h6>
+
+<hr />
+<p>Professionnelle de recherche</p>
+
+<p>Dani&egrave;le Paquet</p>
+
+<hr />
+<p>Chercheur</p>
+
 <p>Paul Turcotte</p>
-<hr>
-<h6>Chercheuse associée</h6>
+
+<hr />
+<p>Chercheuse associ&eacute;e</p>
+
 <p>Josianne Robert</p>
-<hr>
-<h6>Chercheuse (2015-2016)</h6>
+
+<hr />
+<p>Chercheuse (2015-2016)</p>
+
 <p>Christine Morin</p>
-<hr>
-<h6>Assistantes de recherche</h6>
-<p>Mélissa Miller</p>
-<p>Étudiante en Histoire et civilisation au Cégep du Vieux Montréal</p>
+
+<hr />
+<p>Assistantes de recherche</p>
+
+<p>M&eacute;lissa Miller</p>
+
+<p>&Eacute;tudiante en Histoire et civilisation au C&eacute;gep du Vieux Montr&eacute;al</p>
+
 <p>Odile Trudeau-Richard</p>
-<p>Étudiante en Histoire et civilisation au Cégep du Vieux Montréal</p>
-<hr>
-<h6>Organisme partenaire</h6>
-<p>Centre collégial de soutien à l’intégration (CCSI)</p>
-<hr>
-<h6>Organisme subventionnaire</h6>
-<p>Ministère de l’éducation et de l’enseignement supérieur</p>
-<hr>
+
+<p>&Eacute;tudiante en Histoire et civilisation au C&eacute;gep du Vieux Montr&eacute;al</p>
+
+<hr />
+<p>Organisme partenaire</p>
+
+<p>Centre coll&eacute;gial de soutien &agrave; l&rsquo;int&eacute;gration (CCSI)</p>
+
+<hr />
+<p>Organisme subventionnaire</p>
+
+<p>Minist&egrave;re de l&rsquo;&eacute;ducation et de l&rsquo;enseignement sup&eacute;rieur</p>
+
+<hr />

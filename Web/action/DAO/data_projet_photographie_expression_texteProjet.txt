@@ -1,1 +1,32 @@
-<h1>﻿La photographie comme moyen d&rsquo;expression, de participation sociale, d&rsquo;autod&eacute;termination et d&rsquo;inclusion des &eacute;tudiants en situation de handicap au coll&eacute;gial (2015-2016)</h1>
+<p>﻿La probl&eacute;matique &agrave; l&rsquo;origine de cette recherche est li&eacute;e &agrave; la croissance de l&rsquo;utilisation des aides technologiques pour am&eacute;liorer la qualit&eacute; du fran&ccedil;ais &eacute;crit des adultes ayant un trouble d&rsquo;apprentissage. L&rsquo;omnipr&eacute;sence de l&rsquo;&eacute;criture dans notre soci&eacute;t&eacute; actuelle justifie d&rsquo;ailleurs cet int&eacute;r&ecirc;t marqu&eacute;. Le probl&egrave;me, par contre, est que cette utilisation est peu document&eacute;e et peu &eacute;valu&eacute;e. De plus, jusqu&rsquo;&agrave; ce jour, aucune recherche n&rsquo;a &eacute;valu&eacute; l&rsquo;effet de l&rsquo;accompagnement dans l&rsquo;utilisation des aides technologiques dans une perspective d&rsquo;am&eacute;lioration de l&rsquo;&eacute;criture.</p>
+
+<p>Donc, pr&eacute;sentement, on offre diff&eacute;rents services et fonctions d&rsquo;aide de logiciels sans vraiment conna&icirc;tre l&rsquo;impact r&eacute;el des technologies sur le processus d&rsquo;&eacute;criture ou m&ecirc;me sur la qualit&eacute; du fran&ccedil;ais &eacute;crit. C&rsquo;est pour pallier cette situation que, dans le cadre de cette recherche, un devis &agrave; cas unique, pour cinq sujets, a &eacute;t&eacute; retenu afin de permettre l&rsquo;&eacute;valuation &agrave; la fois de l&rsquo;effet de l&rsquo;utilisation de certaines fonctions d&rsquo;aide &agrave; l&rsquo;&eacute;criture (&eacute;dition de texte, dictionnaires, r&eacute;vision-correction et r&eacute;troaction vocale) et l&rsquo;effet de l&rsquo;accompagnement. La volont&eacute; d&rsquo;&eacute;laborer un guide d&rsquo;accompagnement dans l&rsquo;utilisation des aides technologiques aupr&egrave;s des adultes ayant un trouble d&rsquo;apprentissage soutenait &eacute;galement ce choix.</p>
+
+<p>Les sujets ont donc &eacute;t&eacute; accompagn&eacute;s dans leur processus d&rsquo;&eacute;criture avec aides technologiques pendant 15 semaines &agrave; raison d&rsquo;une fois par semaine. Tout au long de l&rsquo;exp&eacute;rimentation, ceux-ci ont d&ucirc; produire une r&eacute;daction hebdomadaire, ce qui nous a permis d&rsquo;obtenir des donn&eacute;es. L&rsquo;analyse des r&eacute;sultats a permis de tirer un certain nombre de recommandations permettant de moduler l&rsquo;accompagnement dans les aides technologiques afin qu&rsquo;il soit plus efficace. Ainsi, il est permis de recommander l&rsquo;utilisation des fonctions &Eacute;dition de texte et R&eacute;vision-correction &agrave; tout adulte ayant un trouble d&rsquo;apprentissage &agrave; la condition essentielle qu&rsquo;y soit associ&eacute; un accompagnement sur la technique du logiciel ainsi que sur le d&eacute;veloppement de strat&eacute;gies d&rsquo;&eacute;criture int&eacute;grant les diff&eacute;rentes fonctions d&rsquo;aide. En contrepartie, la prudence est de mise en ce qui concerne l&rsquo;utilisation des fonctions Dictionnaires et R&eacute;troaction vocale puisque la recherche a aussi mis en lumi&egrave;re l&rsquo;efficacit&eacute; moins constante de ces outils. Il devient donc n&eacute;cessaire de s&rsquo;assurer que l&rsquo;utilisateur r&eacute;pond bien &agrave; cette mesure d&rsquo;aide et qu&rsquo;il y a effectivement une am&eacute;lioration de la qualit&eacute; de son fran&ccedil;ais &eacute;crit avant de lui en permettre une utilisation autonome. L&rsquo;encadrement est essentiel. Le transfert de ces r&eacute;sultats au partenaire, l&rsquo;Institut des troubles d&rsquo;apprentissage (ITA), s&rsquo;est fait et se poursuivra par une collaboration entre les personnes ressources de l&rsquo;organisme et les chercheurs. En dernier lieu, il appara&icirc;t important de poursuivre la recherche dans ce domaine encore peu explor&eacute; puisqu&rsquo;un trop grand d&eacute;calage subsiste entre la progression de la demande d&rsquo;utilisation des aides technologiques et le d&eacute;veloppement des connaissances sur le sujet.</p>
+
+<hr />
+<p>Chercheuse</p>
+
+<p>Evelyne Pitre</p>
+
+<p>Enseignante au C&eacute;gep du Vieux Montr&eacute;al</p>
+
+<p>D&eacute;partement de fran&ccedil;ais</p>
+
+<hr />
+<p>Chercheur</p>
+
+<p>Marc Tremblay</p>
+
+<p>Fondateur et Coordonnateur, Solutions aides technologiques</p>
+
+<hr />
+<p>Assistants de recherche</p>
+
+<p>Alexandra Cloutier</p>
+
+<p>Mathieu Lauzon-Dicso</p>
+
+<p>Camille Raunet</p>
+
+<hr />

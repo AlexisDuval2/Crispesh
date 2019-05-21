@@ -1,19 +1,34 @@
-﻿<p>Grâce à une subvention du Ministère de l’Économie et des Importations du Québec, le CRISPESH a développé un modèle de formation par simulation en santé mentale offert sur support multimédia pour les intervenants d’une ressource communautaire œuvrant en région éloignée au sein d’une communauté inuit.</p>
-<hr>
-<h6>Chargées de projet</h6>
+<p>﻿Gr&acirc;ce &agrave; une subvention du Minist&egrave;re de l&rsquo;&Eacute;conomie et des Importations du Qu&eacute;bec, le CRISPESH a d&eacute;velopp&eacute; un mod&egrave;le de formation par simulation en sant&eacute; mentale offert sur support multim&eacute;dia pour les intervenants d&rsquo;une ressource communautaire &oelig;uvrant en r&eacute;gion &eacute;loign&eacute;e au sein d&rsquo;une communaut&eacute; inuit.</p>
+
+<hr />
+<p>Charg&eacute;es de projet</p>
+
 <p>Marise Lachapelle et Jian Wang</p>
-<hr>
-<h6>Chargée de projet et Chercheuse</h6>
+
+<hr />
+<p>Charg&eacute;e de projet et Chercheuse</p>
+
 <p>Christine Morin</p>
-<hr>
-<h6>Stagiaires</h6>
-<p>Frédérique Lemay</p>
-<p>Étudiante au Cégep du Vieux Montréal</p>
-<p>Arts, lettres et communication, profil Médias</p>
-<p>Xavier Bossé</p>
-<p>Étudiant au Cégep du Vieux Montréal</p>
-<p>Arts, lettres et communication, profil Médias</p>
+
+<hr />
+<p>Stagiaires</p>
+
+<p>Fr&eacute;d&eacute;rique Lemay</p>
+
+<p>&Eacute;tudiante au C&eacute;gep du Vieux Montr&eacute;al</p>
+
+<p>Arts, lettres et communication, profil M&eacute;dias</p>
+
+<p>Xavier Boss&eacute;</p>
+
+<p>&Eacute;tudiant au C&eacute;gep du Vieux Montr&eacute;al</p>
+
+<p>Arts, lettres et communication, profil M&eacute;dias</p>
+
 <p>Camille Archambault</p>
-<p>Étudiante au Cégep du Vieux Montréal</p>
-<p>Arts, lettres et communication, profil Médias</p>
-<hr>
+
+<p>&Eacute;tudiante au C&eacute;gep du Vieux Montr&eacute;al</p>
+
+<p>Arts, lettres et communication, profil M&eacute;dias</p>
+
+<hr />

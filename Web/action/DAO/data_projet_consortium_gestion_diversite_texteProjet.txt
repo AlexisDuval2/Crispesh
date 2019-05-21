@@ -1,5 +1,8 @@
-﻿<p>Ce projet a regroupé trois centres collégiaux de transfert de technologie en pratiques sociales novatrices (CCTT-PSN) en vue de promouvoir et de favoriser l’inclusion professionnelle des jeunes âgés entre 25 et 34 ans de divers horizons, dont les immigrants et les personnes en situation de handicap. Le CRISPESH, le Centre d’études des conditions de vie et des besoins de la population (ÉCOBES) et l’Institut de recherche sur l’intégration professionnelle des immigrants (IRIPI) ont uni leurs expertises dans le cadre de cette alliance stratégique qui, à terme, a proposé une offre de service visant à améliorer le taux d’emploi de cette population et à répondre aux besoins de main-d’œuvre des entreprises québécoises.</p>
-<hr>
-<h6>Chercheuse</h6>
+<p>﻿Ce projet a regroup&eacute; trois centres coll&eacute;giaux de transfert de technologie en pratiques sociales novatrices (CCTT-PSN) en vue de promouvoir et de favoriser l&rsquo;inclusion professionnelle des jeunes &acirc;g&eacute;s entre 25 et 34 ans de divers horizons, dont les immigrants et les personnes en situation de handicap. Le CRISPESH, le Centre d&rsquo;&eacute;tudes des conditions de vie et des besoins de la population (&Eacute;COBES) et l&rsquo;Institut de recherche sur l&rsquo;int&eacute;gration professionnelle des immigrants (IRIPI) ont uni leurs expertises dans le cadre de cette alliance strat&eacute;gique qui, &agrave; terme, a propos&eacute; une offre de service visant &agrave; am&eacute;liorer le taux d&rsquo;emploi de cette population et &agrave; r&eacute;pondre aux besoins de main-d&rsquo;&oelig;uvre des entreprises qu&eacute;b&eacute;coises.</p>
+
+<hr />
+<p>Chercheuse</p>
+
 <p>Marise Lachapelle</p>
-<hr>
+
+<hr />

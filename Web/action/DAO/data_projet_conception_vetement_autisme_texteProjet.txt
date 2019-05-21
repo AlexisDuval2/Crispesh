@@ -1,15 +1,26 @@
-﻿<p>Dans le cadre du Programme d’aide à la recherche et au transfert (PART), Vestechpro et le CRISPESH se sont associées à une entreprise québécoise pour concevoir un vêtement de compression adapté pour les adolescents et les jeunes adultes atteints d’un trouble du spectre de l’autisme. En effet, les vêtements disponibles à l’heure actuelle ne répondent pas aux besoins de cette clientèle. Les clients trouvent que ces vêtements sont volumineux, coûtent cher, ne sont pas totalement confortables et sont rarement ajustables au besoin de chacun en matière de pression ou compression. De plus, les produits disponibles visent surtout les jeunes enfants et permettent souvent d’identifier les personnes les portant comme étant différentes en raison de leur style particulier.</p>
-<p>Ainsi, l’objectif principal de ce projet était la conception d’un vêtement adapté pour les adolescents et les jeunes adultes atteints d’un trouble du spectre de l’autisme.</p>
-<hr>
-<h6>Chargée de projet et chercheuse</h6>
+<p>﻿Dans le cadre du Programme d&rsquo;aide &agrave; la recherche et au transfert (PART), Vestechpro et le CRISPESH se sont associ&eacute;es &agrave; une entreprise qu&eacute;b&eacute;coise pour concevoir un v&ecirc;tement de compression adapt&eacute; pour les adolescents et les jeunes adultes atteints d&rsquo;un trouble du spectre de l&rsquo;autisme. En effet, les v&ecirc;tements disponibles &agrave; l&rsquo;heure actuelle ne r&eacute;pondent pas aux besoins de cette client&egrave;le. Les clients trouvent que ces v&ecirc;tements sont volumineux, co&ucirc;tent cher, ne sont pas totalement confortables et sont rarement ajustables au besoin de chacun en mati&egrave;re de pression ou compression. De plus, les produits disponibles visent surtout les jeunes enfants et permettent souvent d&rsquo;identifier les personnes les portant comme &eacute;tant diff&eacute;rentes en raison de leur style particulier.</p>
+
+<p>Ainsi, l&rsquo;objectif principal de ce projet &eacute;tait la conception d&rsquo;un v&ecirc;tement adapt&eacute; pour les adolescents et les jeunes adultes atteints d&rsquo;un trouble du spectre de l&rsquo;autisme.</p>
+
+<hr />
+<p>Charg&eacute;e de projet et chercheuse</p>
+
 <p>Marise Lachapelle</p>
-<hr>
-<h6>Chercheur</h6>
+
+<hr />
+<p>Chercheur</p>
+
 <p>Joseph Darrous</p>
-<hr>
-<h6>Assistantes de recherche</h6>
-<p>Mélissa Miller</p>
-<p>Étudiante en Histoire et civilisation au Cégep du Vieux Montréal</p>
+
+<hr />
+<p>Assistantes de recherche</p>
+
+<p>M&eacute;lissa Miller</p>
+
+<p>&Eacute;tudiante en Histoire et civilisation au C&eacute;gep du Vieux Montr&eacute;al</p>
+
 <p>Odile Trudeau-Richard</p>
-<p>Étudiante en Histoire et civilisation au Cégep du Vieux Montréal</p>
-<hr>
+
+<p>&Eacute;tudiante en Histoire et civilisation au C&eacute;gep du Vieux Montr&eacute;al</p>
+
+<hr />

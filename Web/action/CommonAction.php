@@ -12,7 +12,7 @@
 		public static $HAUTEUR_PR_EMP = 150;
 		private static $DOSSIER_IMAGES = "images\\projets\\";
 		public static $HAUTEUR_PR_TITRE_PROJET = 150;
-		public static $HAUTEUR_PR_TEXTE_PROJET = 150;
+		public static $HAUTEUR_PR_TEXTE_PROJET = 500;
 
 		private $pageVisibility;
 

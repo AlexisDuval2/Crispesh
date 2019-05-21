@@ -1,35 +1,58 @@
-﻿<p>Les inégalités salariales et d’accès à l’emploi persistent entre les Autochtones et le reste de la population canadienne. Par ailleurs, les membres des Premières Nations qui se retrouvent en situation de handicap (troubles de santé mentale, handicap physique, sensoriel ou moteur, trouble ou difficulté d’apprentissage, etc.) peuvent facilement être sujets à une double discrimination sur le marché de l’emploi, de par leur appartenance culturelle et leurs besoins particuliers. Ces facteurs freinent leur épanouissement professionnel et empêchent le marché du travail de bénéficier de travailleurs qualifiés qui pourraient contribuer au maintien d’une économie locale prospère.</p>
-<p>L'entrepreneuriat représente une voie qui peut faciliter l'inclusion sociale et économique de personnes marginalisées en misant sur leurs intérêts et leurs compétences. Cette avenue est flexible, facilement adaptable aux besoins particuliers des individus qui s'y engagent et respectueuse des conceptions sociales et culturelles spécifiques de l'économie locale. Toutefois, du soutien et de l'accompagnement sont essentiels afin de rendre cette voie possible et durable. En ce sens, l'incubateur d'entreprises est une structure d'accompagnement adaptée qui offre différents services afin de faciliter le passage de l'idée à la mise en place d'un projet d'entreprise.</p>
-<p>Ce projet permettra de développer un modèle d’incubateur d’entreprises inclusif qui répondrait aux besoins et aux aspirations des membres des Premières Nations du Québec. Celui-ci sera inclusif puisqu’il sera adapté d’emblée pour les personnes en situation de handicap.</p>
-<p>Pour ce faire, quatre étapes seront nécessaires :</p>
+<p>﻿Les in&eacute;galit&eacute;s salariales et d&rsquo;acc&egrave;s &agrave; l&rsquo;emploi persistent entre les Autochtones et le reste de la population canadienne. Par ailleurs, les membres des Premi&egrave;res Nations qui se retrouvent en situation de handicap (troubles de sant&eacute; mentale, handicap physique, sensoriel ou moteur, trouble ou difficult&eacute; d&rsquo;apprentissage, etc.) peuvent facilement &ecirc;tre sujets &agrave; une double discrimination sur le march&eacute; de l&rsquo;emploi, de par leur appartenance culturelle et leurs besoins particuliers. Ces facteurs freinent leur &eacute;panouissement professionnel et emp&ecirc;chent le march&eacute; du travail de b&eacute;n&eacute;ficier de travailleurs qualifi&eacute;s qui pourraient contribuer au maintien d&rsquo;une &eacute;conomie locale prosp&egrave;re.</p>
+
+<p>L&#39;entrepreneuriat repr&eacute;sente une voie qui peut faciliter l&#39;inclusion sociale et &eacute;conomique de personnes marginalis&eacute;es en misant sur leurs int&eacute;r&ecirc;ts et leurs comp&eacute;tences. Cette avenue est flexible, facilement adaptable aux besoins particuliers des individus qui s&#39;y engagent et respectueuse des conceptions sociales et culturelles sp&eacute;cifiques de l&#39;&eacute;conomie locale. Toutefois, du soutien et de l&#39;accompagnement sont essentiels afin de rendre cette voie possible et durable. En ce sens, l&#39;incubateur d&#39;entreprises est une structure d&#39;accompagnement adapt&eacute;e qui offre diff&eacute;rents services afin de faciliter le passage de l&#39;id&eacute;e &agrave; la mise en place d&#39;un projet d&#39;entreprise.</p>
+
+<p>Ce projet permettra de d&eacute;velopper un mod&egrave;le d&rsquo;incubateur d&rsquo;entreprises inclusif qui r&eacute;pondrait aux besoins et aux aspirations des membres des Premi&egrave;res Nations du Qu&eacute;bec. Celui-ci sera inclusif puisqu&rsquo;il sera adapt&eacute; d&rsquo;embl&eacute;e pour les personnes en situation de handicap.</p>
+
+<p>Pour ce faire, quatre &eacute;tapes seront n&eacute;cessaires :</p>
+
 <ul>
-<li>Répertorier les modèles d’incubateurs d’entreprises et la littérature sur leurs succès et leurs échecs</li>
-<li>Documenter les perspectives spécifiques des populations autochtones en matière d’entrepreneuriat et de développement économique et social</li>
-<li>Concevoir un modèle d’incubateur d’entreprises inclusif prêt à être mis en fonction</li>
-<li>Développer les outils nécessaires à l’opérationnalisation de l’incubateur</li>
+	<li>R&eacute;pertorier les mod&egrave;les d&rsquo;incubateurs d&rsquo;entreprises et la litt&eacute;rature sur leurs succ&egrave;s et leurs &eacute;checs</li>
+	<li>Documenter les perspectives sp&eacute;cifiques des populations autochtones en mati&egrave;re d&rsquo;entrepreneuriat et de d&eacute;veloppement &eacute;conomique et social</li>
+	<li>Concevoir un mod&egrave;le d&rsquo;incubateur d&rsquo;entreprises inclusif pr&ecirc;t &agrave; &ecirc;tre mis en fonction</li>
+	<li>D&eacute;velopper les outils n&eacute;cessaires &agrave; l&rsquo;op&eacute;rationnalisation de l&rsquo;incubateur</li>
 </ul>
-<hr>
-<h6>Directrice de projet</h6>
+
+<hr />
+<p>Directrice de projet</p>
+
 <p>Marise Lachapelle</p>
-<hr>
-<h6>Coordonnatrice de projet et Assistante de recherche</h6>
-<p>Léa Lefevre-Radelli</p>
-<hr>
-<h6>Chercheur</h6>
+
+<hr />
+<p>Coordonnatrice de projet et Assistante de recherche</p>
+
+<p>L&eacute;a Lefevre-Radelli</p>
+
+<hr />
+<p>Chercheur</p>
+
 <p>Paul Turcotte</p>
-<hr>
-<h6>Chercheuse</h6>
+
+<hr />
+<p>Chercheuse</p>
+
 <p>Rola Helou</p>
-<hr>
-<h6>Organismes partenaires</h6>
-<p>Conseil scolaire des Premières Nations en éducation aux adultes (CSPNEA)</p>
-<p>Commission de développement des ressources humaines des Premières Nations du Québec (CDRHPNQ)</p>
-<p>Commission de développement économique des Premières Nations du Québec et du Labrador (CDEPNQL)</p>
-<p>Tewatonhnhi’saktha</p>
+
+<hr />
+<p>Organismes partenaires</p>
+
+<p>Conseil scolaire des Premi&egrave;res Nations en &eacute;ducation aux adultes (CSPNEA)</p>
+
+<p>Commission de d&eacute;veloppement des ressources humaines des Premi&egrave;res Nations du Qu&eacute;bec (CDRHPNQ)</p>
+
+<p>Commission de d&eacute;veloppement &eacute;conomique des Premi&egrave;res Nations du Qu&eacute;bec et du Labrador (CDEPNQL)</p>
+
+<p>Tewatonhnhi&rsquo;saktha</p>
+
 <p>Fondation Martin</p>
-<p>Cégep du Vieux Montréal</p>
-<p>Collège Dawson</p>
-<hr>
-<h6>Organisme subventionnaire</h6>
+
+<p>C&eacute;gep du Vieux Montr&eacute;al</p>
+
+<p>Coll&egrave;ge Dawson</p>
+
+<hr />
+<p>Organisme subventionnaire</p>
+
 <p>Conseil de recherches en sciences humaines du Canada (CRSH)</p>
-<hr>
+
+<hr />

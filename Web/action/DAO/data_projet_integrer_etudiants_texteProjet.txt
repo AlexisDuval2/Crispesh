@@ -1,11 +1,17 @@
-﻿<p>Ce projet a permis l’élaboration d’un modèle d’intégration pour les populations dites émergentes que nous convenons d’appeler dorénavant les nouvelles populations en situation de handicap. Par le développement d’outils généraux pour les étudiants, les intervenants, les enseignants et les établissements, ce projet a réuni les efforts de quatre établissements d’études postsecondaires: l’Université de Montréal, l’Université du Québec à Montréal (UQAM), le Collège Montmorency et le Cégep du Vieux Montréal.</p>
-<p>Ainsi, dans le cadre du réinvestissement en enseignement supérieur par le Ministère de l’Éducation, du Loisir et du Sport (MELS, maintenant MEES), une équipe a travaillé à la mise en œuvre d’un projet intitulé : Intégrer les populations dites émergentes aux études supérieures: mission possible!</p>
-<p>Les populations visées par ce projet sont les étudiants ayant des troubles d’apprentissage (TA), des troubles envahissants du développement (TED), des troubles déficitaires de l’attention (TDA/H) et des troubles graves de santé mentale (TGSM). Ce projet comportait trois volets auxquels étaient associés un ou deux groupes de travail composés de personnes travaillant dans les établissements participants, d’experts et de partenaires de l’externe pour mener à bien les huit activités sur une période de trois ans.</p>
-<p>Ce projet s’est décliné en trois volets, qui vont comme suit:</p>
+<p>﻿Ce projet a permis l&rsquo;&eacute;laboration d&rsquo;un mod&egrave;le d&rsquo;int&eacute;gration pour les populations dites &eacute;mergentes que nous convenons d&rsquo;appeler dor&eacute;navant les nouvelles populations en situation de handicap. Par le d&eacute;veloppement d&rsquo;outils g&eacute;n&eacute;raux pour les &eacute;tudiants, les intervenants, les enseignants et les &eacute;tablissements, ce projet a r&eacute;uni les efforts de quatre &eacute;tablissements d&rsquo;&eacute;tudes postsecondaires: l&rsquo;Universit&eacute; de Montr&eacute;al, l&rsquo;Universit&eacute; du Qu&eacute;bec &agrave; Montr&eacute;al (UQAM), le Coll&egrave;ge Montmorency et le C&eacute;gep du Vieux Montr&eacute;al.</p>
+
+<p>Ainsi, dans le cadre du r&eacute;investissement en enseignement sup&eacute;rieur par le Minist&egrave;re de l&rsquo;&Eacute;ducation, du Loisir et du Sport (MELS, maintenant MEES), une &eacute;quipe a travaill&eacute; &agrave; la mise en &oelig;uvre d&rsquo;un projet intitul&eacute; : Int&eacute;grer les populations dites &eacute;mergentes aux &eacute;tudes sup&eacute;rieures: mission possible!</p>
+
+<p>Les populations vis&eacute;es par ce projet sont les &eacute;tudiants ayant des troubles d&rsquo;apprentissage (TA), des troubles envahissants du d&eacute;veloppement (TED), des troubles d&eacute;ficitaires de l&rsquo;attention (TDA/H) et des troubles graves de sant&eacute; mentale (TGSM). Ce projet comportait trois volets auxquels &eacute;taient associ&eacute;s un ou deux groupes de travail compos&eacute;s de personnes travaillant dans les &eacute;tablissements participants, d&rsquo;experts et de partenaires de l&rsquo;externe pour mener &agrave; bien les huit activit&eacute;s sur une p&eacute;riode de trois ans.</p>
+
+<p>Ce projet s&rsquo;est d&eacute;clin&eacute; en trois volets, qui vont comme suit:</p>
+
 <ul>
-<li>Volet 1 : Favoriser la transition interordres (collèges-universités)</li>
-<li>Volet 2 : Identifier, harmoniser et consolider les meilleures pratiques en appui à leurs études</li>
-<li>Volet 3 : Développer le soutien pédagogique aux enseignants</li>
+	<li>Volet 1 : Favoriser la transition interordres (coll&egrave;ges-universit&eacute;s)</li>
+	<li>Volet 2 : Identifier, harmoniser et consolider les meilleures pratiques en appui &agrave; leurs &eacute;tudes</li>
+	<li>Volet 3 : D&eacute;velopper le soutien p&eacute;dagogique aux enseignants</li>
 </ul>
-<p>Lors de la mise en œuvre des trois volets, des outils ont été réalisés et sont disponibles pour tous.</p>
-<hr>
+
+<p>Lors de la mise en &oelig;uvre des trois volets, des outils ont &eacute;t&eacute; r&eacute;alis&eacute;s et sont disponibles pour tous.</p>
+
+<hr />

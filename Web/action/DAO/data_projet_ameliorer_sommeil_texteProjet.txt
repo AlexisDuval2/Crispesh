@@ -1,25 +1,43 @@
-﻿<p>La Fédération québécoise de l’autisme estime la prévalence du trouble du spectre de l’autisme (TSA) à près de 1% de la population canadienne, mais des recherches démontrent que cette donnée sous-évalue le nombre réel d’individus touchés par ce trouble. Les problèmes de sommeil sont fréquents chez les enfants qui ont un TSA. Les raisons de ces problèmes de sommeil sont variées et peuvent être, par exemple, d’ordre physiologique, cognitif, sensoriel ou une combinaison de facteurs. Quelles qu’en soient les causes, le manque de sommeil aura inévitablement des conséquences sur la qualité de vie de l’enfant et de sa famille. Bien que l’aménagement de la chambre figure au premier rang des solutions que les parents peuvent apporter, la chambre des enfants ayant un TSA demeure un lieu bien peu étudié en design d’intérieur. De plus, il est démontré que le TSA se manifeste par des réactions inhabituelles à des expériences sensorielles. En effet, les personnes touchées par le TSA ont souvent de la difficulté à traiter et à répondre aux différents stimuli sensoriels, tels que l’ouïe, la vue et le toucher. Elles peuvent être hypo ou hypersensibles. Plusieurs chercheurs suggèrent que l’hypersensibilité peut provoquer des réactions sensorielles à l’origine des difficultés de sommeil. Pourtant, bien que le risque que le sommeil soit perturbé pour des raisons sensorielles chez les enfants ayant un TSA soit particulièrement élevé, cette composante est peu documentée. Ce projet propose de s’intéresser à l’aménagement de la chambre de l’enfant de 2 à 12 ans ayant un TSA en se basant sur les perceptions sensorielles de celui-ci. Pour ce faire, le projet fera le pont entre les études sur l’aménagement d’environnements conviviaux pour les personnes ayant un TSA et transférera ces connaissances vers l’aménagement de la chambre.</p>
-<p>L’objectif général de ce projet est de développer un cadre général, adaptable aux besoins individuels, d’aménagement de chambre pour enfants  de 2 à 12 ans vivant avec un TSA, qui se base sur les perceptions sensorielles. Les objectifs particuliers sont : 1) consolider et répertorier les connaissances sur les besoins sensoriels des enfants vivant avec un TSA (ex : toucher, sentir, goûter, voir, entendre, mouvement); 2) établir les paramètres à prendre en considération pour un design réfléchi et personnalisé; 3) proposer un ensemble flexible de directives qui puisse guider vers une réponse personnalisée et basée sur les profils de perception sensorielle (hypo/hypersensibilité).</p>
-<p>Grâce à la réalisation de ce projet, le CRISPESH pourra consolider ses connaissances et développer un créneau d’expertise peu étudié. Les programmes de Techniques de design d’intérieur du Cégep du Vieux Montréal et du Collège Dawson pourront bénéficier de nouveaux apprentissages visant à concevoir des aménagements réfléchis et personnalisés. Cela permettra au CRISPESH et à ses deux collèges affiliés de développer davantage leur capacité de recherche. L’originalité et la pertinence de ce projet résident dans une consolidation de connaissances qui n’ont jamais été regroupées à cette fin, mais aussi dans la prise en compte de l’expérience des personnes et des milieux concernés. Aucun effort n’a été déployé auparavant pour réunir toutes ces connaissances en vue d’apporter du soutien dans ce grand défi qui peut paraître banal pour toute personne qui n’est pas familière avec le sujet. Les ergothérapeutes peuvent certes aider dans cette entreprise et les informations obtenues grâce à l’évaluation sensorielle des enfants sont également utiles, mais aucun cadre de référence d’aménagement de la chambre de l’enfant ayant un trouble du spectre de l’autisme n’existe à l’heure actuelle. De façon générale, ce projet pourra améliorer la qualité de vie de plusieurs enfants et de leurs familles en contribuant à satisfaire ce besoin vital qu’est le sommeil.</p>
-<hr>
-<h6>Chargée de projet et chercheuse</h6>
+<p>﻿La F&eacute;d&eacute;ration qu&eacute;b&eacute;coise de l&rsquo;autisme estime la pr&eacute;valence du trouble du spectre de l&rsquo;autisme (TSA) &agrave; pr&egrave;s de 1% de la population canadienne, mais des recherches d&eacute;montrent que cette donn&eacute;e sous-&eacute;value le nombre r&eacute;el d&rsquo;individus touch&eacute;s par ce trouble. Les probl&egrave;mes de sommeil sont fr&eacute;quents chez les enfants qui ont un TSA. Les raisons de ces probl&egrave;mes de sommeil sont vari&eacute;es et peuvent &ecirc;tre, par exemple, d&rsquo;ordre physiologique, cognitif, sensoriel ou une combinaison de facteurs. Quelles qu&rsquo;en soient les causes, le manque de sommeil aura in&eacute;vitablement des cons&eacute;quences sur la qualit&eacute; de vie de l&rsquo;enfant et de sa famille. Bien que l&rsquo;am&eacute;nagement de la chambre figure au premier rang des solutions que les parents peuvent apporter, la chambre des enfants ayant un TSA demeure un lieu bien peu &eacute;tudi&eacute; en design d&rsquo;int&eacute;rieur. De plus, il est d&eacute;montr&eacute; que le TSA se manifeste par des r&eacute;actions inhabituelles &agrave; des exp&eacute;riences sensorielles. En effet, les personnes touch&eacute;es par le TSA ont souvent de la difficult&eacute; &agrave; traiter et &agrave; r&eacute;pondre aux diff&eacute;rents stimuli sensoriels, tels que l&rsquo;ou&iuml;e, la vue et le toucher. Elles peuvent &ecirc;tre hypo ou hypersensibles. Plusieurs chercheurs sugg&egrave;rent que l&rsquo;hypersensibilit&eacute; peut provoquer des r&eacute;actions sensorielles &agrave; l&rsquo;origine des difficult&eacute;s de sommeil. Pourtant, bien que le risque que le sommeil soit perturb&eacute; pour des raisons sensorielles chez les enfants ayant un TSA soit particuli&egrave;rement &eacute;lev&eacute;, cette composante est peu document&eacute;e. Ce projet propose de s&rsquo;int&eacute;resser &agrave; l&rsquo;am&eacute;nagement de la chambre de l&rsquo;enfant de 2 &agrave; 12 ans ayant un TSA en se basant sur les perceptions sensorielles de celui-ci. Pour ce faire, le projet fera le pont entre les &eacute;tudes sur l&rsquo;am&eacute;nagement d&rsquo;environnements conviviaux pour les personnes ayant un TSA et transf&eacute;rera ces connaissances vers l&rsquo;am&eacute;nagement de la chambre.</p>
+
+<p>L&rsquo;objectif g&eacute;n&eacute;ral de ce projet est de d&eacute;velopper un cadre g&eacute;n&eacute;ral, adaptable aux besoins individuels, d&rsquo;am&eacute;nagement de chambre pour enfants de 2 &agrave; 12 ans vivant avec un TSA, qui se base sur les perceptions sensorielles. Les objectifs particuliers sont : 1) consolider et r&eacute;pertorier les connaissances sur les besoins sensoriels des enfants vivant avec un TSA (ex : toucher, sentir, go&ucirc;ter, voir, entendre, mouvement); 2) &eacute;tablir les param&egrave;tres &agrave; prendre en consid&eacute;ration pour un design r&eacute;fl&eacute;chi et personnalis&eacute;; 3) proposer un ensemble flexible de directives qui puisse guider vers une r&eacute;ponse personnalis&eacute;e et bas&eacute;e sur les profils de perception sensorielle (hypo/hypersensibilit&eacute;).</p>
+
+<p>Gr&acirc;ce &agrave; la r&eacute;alisation de ce projet, le CRISPESH pourra consolider ses connaissances et d&eacute;velopper un cr&eacute;neau d&rsquo;expertise peu &eacute;tudi&eacute;. Les programmes de Techniques de design d&rsquo;int&eacute;rieur du C&eacute;gep du Vieux Montr&eacute;al et du Coll&egrave;ge Dawson pourront b&eacute;n&eacute;ficier de nouveaux apprentissages visant &agrave; concevoir des am&eacute;nagements r&eacute;fl&eacute;chis et personnalis&eacute;s. Cela permettra au CRISPESH et &agrave; ses deux coll&egrave;ges affili&eacute;s de d&eacute;velopper davantage leur capacit&eacute; de recherche. L&rsquo;originalit&eacute; et la pertinence de ce projet r&eacute;sident dans une consolidation de connaissances qui n&rsquo;ont jamais &eacute;t&eacute; regroup&eacute;es &agrave; cette fin, mais aussi dans la prise en compte de l&rsquo;exp&eacute;rience des personnes et des milieux concern&eacute;s. Aucun effort n&rsquo;a &eacute;t&eacute; d&eacute;ploy&eacute; auparavant pour r&eacute;unir toutes ces connaissances en vue d&rsquo;apporter du soutien dans ce grand d&eacute;fi qui peut para&icirc;tre banal pour toute personne qui n&rsquo;est pas famili&egrave;re avec le sujet. Les ergoth&eacute;rapeutes peuvent certes aider dans cette entreprise et les informations obtenues gr&acirc;ce &agrave; l&rsquo;&eacute;valuation sensorielle des enfants sont &eacute;galement utiles, mais aucun cadre de r&eacute;f&eacute;rence d&rsquo;am&eacute;nagement de la chambre de l&rsquo;enfant ayant un trouble du spectre de l&rsquo;autisme n&rsquo;existe &agrave; l&rsquo;heure actuelle. De fa&ccedil;on g&eacute;n&eacute;rale, ce projet pourra am&eacute;liorer la qualit&eacute; de vie de plusieurs enfants et de leurs familles en contribuant &agrave; satisfaire ce besoin vital qu&rsquo;est le sommeil.</p>
+
+<hr />
+<p>Charg&eacute;e de projet et chercheuse</p>
+
 <p>Marise Lachapelle</p>
-<hr>
-<h6>Professionnelle de recherche et coordonnatrice des activités </h6>
+
+<hr />
+<p>Professionnelle de recherche et coordonnatrice des activit&eacute;s</p>
+
 <p>Audrey Bigras</p>
-<hr>
-<h6>Chercheuse</h6>
+
+<hr />
+<p>Chercheuse</p>
+
 <p>Suzanne Pitre</p>
-<hr>
-<h6>Chercheur</h6>
+
+<hr />
+<p>Chercheur</p>
+
 <p>Joseph Darrous</p>
-<hr>
-<h6>Assistantes de recherche</h6>
+
+<hr />
+<p>Assistantes de recherche</p>
+
 <p>Charlotte Leroux</p>
-<p>Étudiante en Techniques de design d’intérieur au Cégep du Vieux Montréal</p>
+
+<p>&Eacute;tudiante en Techniques de design d&rsquo;int&eacute;rieur au C&eacute;gep du Vieux Montr&eacute;al</p>
+
 <p>Tess Perron-Laurin</p>
-<p>Étudiante en Techniques de design d’intérieur au Cégep du Vieux Montréal</p>
-<hr>
-<h6>Organisme subventionnaire</h6>
-<p>Ministère de l’éducation et de l’enseignement supérieur</p>
-<hr>
+
+<p>&Eacute;tudiante en Techniques de design d&rsquo;int&eacute;rieur au C&eacute;gep du Vieux Montr&eacute;al</p>
+
+<hr />
+<p>Organisme subventionnaire</p>
+
+<p>Minist&egrave;re de l&rsquo;&eacute;ducation et de l&rsquo;enseignement sup&eacute;rieur</p>
+
+<hr />

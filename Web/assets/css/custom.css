@@ -163,7 +163,8 @@ div#cercle_2.rond_background.rouge.droite.grosseur_2 {
 }
 
 .parcourir {
-	background-color: #000000;
+	background-color: white;
+	color: white;
 	width: 138px;
 	margin: auto;
 	font-size: 20px;
@@ -190,10 +191,6 @@ div#cercle_2.rond_background.rouge.droite.grosseur_2 {
 .cadre-image-projet {
 	display: flex;
 	justify-content: center;
-}
-
-div.col-sm-8.texte-projet {
-	background-color: red;
 }
 
 /*-------------------------------------------------------------------------------------

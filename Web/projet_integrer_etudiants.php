@@ -43,7 +43,6 @@
 										$action->televerserImage();
 									}
 								?>
-
 								<ul>
 									<li class="">
 										<a href="outils_generaux">Outils généraux</a>
@@ -61,10 +60,19 @@
 										<a href="outils_etablissements">Outils pour les établissements</a>
 									</li>
 								</ul>
+
 							</div><!-- widget-categories -->
 						</div>
-						<div class="col-sm-8">
-							<p>Ce projet a permis l’élaboration d’un modèle d’intégration pour les populations dites émergentes que nous convenons d’appeler dorénavant les nouvelles populations en situation de handicap. Par le développement d’outils généraux pour les étudiants, les intervenants, les enseignants et les établissements, ce projet a réuni les efforts de quatre établissements d’études postsecondaires: l’Université de Montréal, l’Université du Québec à Montréal (UQAM), le Collège Montmorency et le Cégep du Vieux Montréal.</p>
+
+						<div class="col-sm-8 texte-projet">
+							<?php
+								if ($action->isLoggedIn() && $action->enModeEcriture()) {
+									echo $action->optionsTexteProjet();
+								} else {
+									echo ContentDao::lire_texteProjet();
+								}
+							?>
+							<!-- <p>Ce projet a permis l’élaboration d’un modèle d’intégration pour les populations dites émergentes que nous convenons d’appeler dorénavant les nouvelles populations en situation de handicap. Par le développement d’outils généraux pour les étudiants, les intervenants, les enseignants et les établissements, ce projet a réuni les efforts de quatre établissements d’études postsecondaires: l’Université de Montréal, l’Université du Québec à Montréal (UQAM), le Collège Montmorency et le Cégep du Vieux Montréal.</p>
 							<p>Ainsi, dans le cadre du réinvestissement en enseignement supérieur par le Ministère de l’Éducation, du Loisir et du Sport (MELS, maintenant MEES), une équipe a travaillé à la mise en œuvre d’un projet intitulé : Intégrer les populations dites émergentes aux études supérieures: mission possible!</p>
 							<p>Les populations visées par ce projet sont les étudiants ayant des troubles d’apprentissage (TA), des troubles envahissants du développement (TED), des troubles déficitaires de l’attention (TDA/H) et des troubles graves de santé mentale (TGSM). Ce projet comportait trois volets auxquels étaient associés un ou deux groupes de travail composés de personnes travaillant dans les établissements participants, d’experts et de partenaires de l’externe pour mener à bien les huit activités sur une période de trois ans.</p>
 							<p>Ce projet s’est décliné en trois volets, qui vont comme suit:</p>
@@ -74,11 +82,10 @@
 								<li>Volet 3 : Développer le soutien pédagogique aux enseignants</li>
 							</ul>
 							<p>Lors de la mise en œuvre des trois volets, des outils ont été réalisés et sont disponibles pour tous.</p>
-							<div class="col-sm-12">
-								<hr>
-								<a href="nos_projets" class="btn btn-blue btn_retour_projet">Retour à la liste des projets</a>
-							</div>
+							<hr> -->
+							<a href="nos_projets" class="btn btn-blue btn_retour_projet">Retour à la liste des projets</a>
 						</div><!-- col -->
+
 					</div><!-- row -->
 				</div><!-- container -->
 

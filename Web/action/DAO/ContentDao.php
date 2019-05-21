@@ -53,4 +53,29 @@
 			file_put_contents($chemin, $message);
 		}
 		//-------------------------------------------------
+
+		//-------------------------------------------------
+		// LES PAGES DE TYPE "PROJET"
+		//-------------------------------------------------
+
+		//-------------------------------------------------
+		// titre
+		//-------------------------------------------------
+		public static function lire_titreProjet() {
+
+			$chemin = "action/DAO/data_" . CommonAction::trouverNomPage() . "_titreProjet.txt";
+
+			return file_get_contents($chemin);
+		}
+		//-------------------------------------------------
+
+		//-------------------------------------------------
+		// texte principal
+		//-------------------------------------------------
+		public static function modifier_titreProjet($message) {
+
+			$chemin = "action/DAO/data_" . CommonAction::trouverNompage() . "_titreProjet.txt";
+
+			file_put_contents($chemin, $message);
+		}
 	}

@@ -13,10 +13,21 @@
 			<div id="content">
 				<div class="container">
 					<div class="row">
+
 						<div class="col-sm-12">
-							<br>
-							<center><h1>L’amélioration du français écrit des adultes ayant un trouble d’apprentissage, soutenus par les aides technologiques (2012-2014)</h1></center>
+							<?php
+								if ($action->isLoggedIn() && $action->enModeEcriture()) {
+									echo $action->optionsTitreProjet();
+								} else {
+							?>
+							<div id="index-texte">
+								<?php echo ContentDao::lire_titreProjet(); ?>
+							</div>
+							<?php } ?>
+							<!-- <br>
+							<center><h1>L’amélioration du français écrit des adultes ayant un trouble d’apprentissage, soutenus par les aides technologiques (2012-2014)</h1></center> -->
 						</div>
+
 					</div>
 					<div class="row">
 

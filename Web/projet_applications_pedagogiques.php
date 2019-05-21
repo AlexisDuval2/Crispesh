@@ -10,10 +10,21 @@
 			<div id="content">
 				<div class="container">
 					<div class="row">
+
 						<div class="col-sm-12">
-							<br>
-							<center><h1>Les applications pédagogiques de la conception universelle de l’apprentissage (2013-2015)</h1></center>
+							<?php
+								if ($action->isLoggedIn() && $action->enModeEcriture()) {
+									echo $action->optionsTitreProjet();
+								} else {
+							?>
+							<div id="index-texte">
+								<?php echo ContentDao::lire_titreProjet(); ?>
+							</div>
+							<?php } ?>
+							<!-- <br>
+							<center><h1>Les applications pédagogiques de la conception universelle de l’apprentissage (2013-2015)</h1></center> -->
 						</div>
+
 					</div>
 					<div class="row">
 

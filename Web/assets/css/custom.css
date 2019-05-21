@@ -42,6 +42,15 @@
  + index.php
 -------------------------------------------------------------------------------------*/
 
+ .ckeditor {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+/*-------------------------------------------------------------------------------------
+ + index.php
+-------------------------------------------------------------------------------------*/
+
 #index-titre {
 	text-align: center;
 	margin: auto;
@@ -70,11 +79,6 @@
 	box-shadow: -2.5px 1.25px 2px;
 }
 
-#ck-index-main {
-	margin-top: 20px;
-	margin-bottom: 20px;
-}
-
 #index-main {
 	margin-top: 20px;
 	margin-bottom: 20px;
@@ -90,8 +94,8 @@
 -------------------------------------------------------------------------------------*/
 
 .espace-apres-emp {
-	margin-top: 27px;
-	margin-bottom: 27px;
+	margin-top: 20px;
+	margin-bottom: 20px;
 	height: 2px;
 	background-color: rgb(168, 225, 42);
 }
@@ -123,12 +127,6 @@ div#cercle_2.rond_background.rouge.droite.grosseur_2 {
 /*-------------------------------------------------------------------------------------
  + toutes les pages projets
 -------------------------------------------------------------------------------------*/
-
-.titre-projet {
-	text-align: center;
-	margin: auto;
-	width: 70%;
-}
 
 .formulaire-image {
 	margin-top: 15px;

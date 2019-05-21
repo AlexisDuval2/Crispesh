@@ -11,6 +11,7 @@
 		public static $MODE_ECRITURE = "Mode écriture";
 		public static $HAUTEUR_PR_EMP = 150;
 		private static $DOSSIER_IMAGES = "images\\projets\\";
+		public static $HAUTEUR_PR_TITRE_PROJET = 150;
 
 		private $pageVisibility;
 
@@ -132,7 +133,7 @@
 		//-----------------------------------------------
 		public function afficherCkEditor($textareaName, $formId, $contenu, $hauteur) {
 
-			$formulaireA = "<form id=\"" . $formId . "\" method=\"post\">";
+			$formulaireA = "<form class=\"ckeditor\" id=\"" . $formId . "\" method=\"post\">";
 			$zoneTexteA = "<textarea name=\"" . $textareaName . "\">";
 			$zoneTexteB = "</textarea>";
 			$cadreBoutonModifierA = "<div class=\"cadre-bouton-modifier\">";
@@ -226,5 +227,22 @@
 
 				move_uploaded_file($nom_temp, $chemin . $nom);
 			}
+		}
+
+		//-----------------------------------------------
+		// méthode générique pour insérer le html pour le titre d'un projet
+		//-----------------------------------------------
+		public function optionsTitreProjet() {
+
+			$textareaName = self::trouverNomPage();
+			$formId = "ck-" . self::trouverNomPage();
+
+			if (isset($_POST[$textareaName])) {
+				ContentDao::modifier_titreProjet($_POST[$textareaName]);
+			}
+
+			$contenu = ContentDao::lire_titreProjet();
+
+			return $this->afficherCkEditor($textareaName, $formId, $contenu, self::$HAUTEUR_PR_TITRE_PROJET);
 		}
 	}

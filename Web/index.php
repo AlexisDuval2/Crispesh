@@ -16,8 +16,8 @@
 					<div class="full-section-container bg-blanc">
 						<div class="container">
 							<div class="row">
-								<div class="col-sm-12">
 
+								<div class="col-sm-12">
 									<?php
 										if ($action->isLoggedIn() && $action->enModeEcriture()) {
 											echo $action->optionsTitre();
@@ -27,8 +27,8 @@
 										<?php echo ContentDao::lire_titreIndex(); ?>
 									</div>
 									<?php } ?>
-
 								</div>
+
 							</div>
 						</div>
 					</div> <!-- full-section -->
@@ -36,8 +36,8 @@
 
 				<div class="container">
 					<div class="row">
-						<div class="col-sm-12" id="index-main">
 
+						<div class="col-sm-12" id="index-main">
 							<?php
 								if ($action->isLoggedIn() && $action->enModeEcriture()) {
 									echo $action->optionsTexte();
@@ -47,8 +47,8 @@
 								<?php echo ContentDao::lire_texteIndex(); ?>
 							</div>
 							<?php } ?>
-
 						</div><!-- col -->
+
 					</div><!-- row -->
 				</div><!-- container -->
 

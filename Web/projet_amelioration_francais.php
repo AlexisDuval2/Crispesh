@@ -6,6 +6,9 @@
 	require_once("partial/header.php");
 ?>
 
+			<script src="ckeditor/ckeditor.js"></script>
+			<script src="js/boutons_modifier.js"></script>
+
 			<!-- CONTENT -->
 			<div id="content">
 				<div class="container">
@@ -16,9 +19,19 @@
 						</div>
 					</div>
 					<div class="row">
+
 						<div class="col-sm-4">
-							<img src="images/projets/ipad.jpg" alt="L’amélioration du français écrit des adultes ayant un trouble d’apprentissage, soutenus par les aides technologiques (2012-2014)">
+							<div class="cadre-image-projet">
+								<img src="images/projets/projet_amelioration_francais.jpg">
+							</div>
+							<?php
+								if ($action->isLoggedIn() && $action->enModeEcriture()) {
+									echo $action->optionImage();
+									$action->televerserImage();
+								}
+							?>
 						</div>
+
 						<div class="col-sm-8">
 							<p>La problématique à l’origine de cette recherche est liée à la croissance de l’utilisation des aides technologiques pour améliorer la qualité du français écrit des adultes ayant un trouble d’apprentissage. L’omniprésence de l’écriture dans notre société actuelle justifie d’ailleurs cet intérêt marqué. Le problème, par contre, est que cette utilisation est peu documentée et peu évaluée. De plus, jusqu’à ce jour, aucune recherche n’a évalué l’effet de l’accompagnement dans l’utilisation des aides technologiques dans une perspective d’amélioration de l’écriture.</p>
 							<p>Donc, présentement, on offre différents services et fonctions d’aide de logiciels sans vraiment connaître l’impact réel des technologies sur le processus d’écriture ou même sur la qualité du français écrit. C’est pour pallier cette situation que, dans le cadre de cette recherche, un devis à cas unique, pour cinq sujets, a été retenu afin de permettre l’évaluation à la fois de l’effet de l’utilisation de certaines fonctions d’aide à l’écriture (édition de texte, dictionnaires, révision-correction et rétroaction vocale) et l’effet de l’accompagnement. La volonté d’élaborer un guide d’accompagnement dans l’utilisation des aides technologiques auprès des adultes ayant un trouble d’apprentissage soutenait également ce choix.</p>

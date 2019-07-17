@@ -15,11 +15,11 @@ RewriteRule ^(.*)$ $1.php [L]
 # ERREURS
 #----------------------------------------------
 # Accès refusé
-ErrorDocument 403 http://localhost/projet_CRISPESH_Alexis_Duval/Web/erreur?code=403
+ErrorDocument 403 http://localhost/Crispesh/Web/erreur?code=403
 
 # Page inexistante
-ErrorDocument 404 http://localhost/projet_CRISPESH_Alexis_Duval/Web/erreur?code=404
+ErrorDocument 404 http://localhost/Crispesh/Web/erreur?code=404
 
 # Erreur interne
-ErrorDocument 500 http://localhost/projet_CRISPESH_Alexis_Duval/Web/erreur?code=500
+ErrorDocument 500 http://localhost/Crispesh/Web/erreur?code=500
 #----------------------------------------------
